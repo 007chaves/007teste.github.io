@@ -1,31 +1,1403 @@
 #EXTM3U
 
-#EXTINF:-1,Band sp
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
-#EXTINF:-1,Tv aparecida
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 
-#EXTINF:-1,Space
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
-#EXTINF:-1,Cinemax
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/210
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/123947
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21315
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/208
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD²²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD²²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/231647
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
 
-#EXTINF:-1,A&E
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
 
-#EXTINF:-1,Amazon 3
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/20
-#EXTINF:-1,Amazon 4
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/19
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/215
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52091
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/213
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
-#EXTINF:-1,Amazon Prime video 2 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/12
-#EXTINF:-1,Amazon Prime video 1 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
 
-#EXTINF:-1,Espn 1 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 
-#EXTINF:-1,Combate HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/220
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21235
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/219
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/225
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21318
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/223
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
+
+
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21236
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/228
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra² HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra² HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/671
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/59171
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/669
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/670
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118881
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21275
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/547
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SPORTV HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
+
+
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/554
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV  2 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV  2 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118703
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21273
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/552
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/559
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21274
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118705
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+
+
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/666
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21292
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/664
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/665
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2602
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141261
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/22305
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2600
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2601
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2607
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141262
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21222
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2605
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2606
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/676
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21223
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/674
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/675
+
+
+
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/469
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118883
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21224
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/467
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/468
+
+
+
+
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/235
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118755
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21225
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD²." tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD².
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244203
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2464
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21226
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
+
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/146
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/145
+
+
+
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/702
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21229
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/700
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/701
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/682
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21231
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/680
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/681
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/474
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118884
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21353
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
+
+
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional  HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118886
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/240
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118753
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21232
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/238
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/239
+
+
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/687
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21233
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/685
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
+
+
+
+
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png" group-title="Canais |  Abertos",TV Cultura FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/149
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png" group-title="Canais |  Abertos",TV Cultura HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/148
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2612
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD²" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-curta-5210.jpg" group-title="Canais | Documentarios",Curta! FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141263
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21234
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2577
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21338
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2575
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2576
+
+
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2572
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21295
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2570
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2571
+
+
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2582
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21297
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2580
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2581
+
+
+
+
+
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2587
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21298
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2585
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2586
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2592
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21299
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2590
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
+
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2597
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21300
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2595
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2596
+
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disney Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/360
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disney Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/358
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
+
+
+
+
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21313
+
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 01 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 01 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18592
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 01²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 01²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18593
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 02
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18594
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 02²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 02²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18595
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 03
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18596
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 03²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 03²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18597
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 04" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 04
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18598
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 04²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 04²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18599
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 05" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 05
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18600
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 05²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 05²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18601
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 06" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 06
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18602
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 06²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 06²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18603
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports HD*" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports HD*
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18590
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/245
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21317
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/243
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
+
+
+
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png" group-title="Canais |  Abertos",Futura FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/159
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png" group-title="Canais |  Abertos",Futura HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/158
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/594
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21243
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/592
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/593
+
+
+
+
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2376
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21319
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2374
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2375
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/479
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21244
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/478
+
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2484
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21321
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
+
+
+
+
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18763
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21249
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18764
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18765
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18755
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21246
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18756
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
+
+
+
+
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18759
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21247
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18760
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18751
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121578
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21248
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18752
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18771
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21254
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18772
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18779
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21256
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18780
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18767
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21250
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18768
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18775
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21255
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18776
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
+
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2627
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141266
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21294
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2625
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2626
+
+
+
+
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2622
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21322
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2620
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2617
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/59173
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2615
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2616
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2632
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21323
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2630
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2631
+
+
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/483
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News FHD²" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118888
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News UHD" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21221
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/482
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News HD²" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2488
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21252
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2487
+
+
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/692
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/690
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21257
+
+
+
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2504
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21258
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21324
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2507
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2506
+
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTVs 00 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2511
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTVs 00 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2510
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTVs 00 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21289
+
+
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21325
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="Music Box Brazil FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MUSICBOXBRAZIL.png" group-title="Canais |  Variedades ",Music Box Brazil FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2520
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2637
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141268
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21260
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2635
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
+
+
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais | Esportes",OFF HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
+
+#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVPAIETERNO.png" group-title="Canais |  Religiosos",Pai Eterno FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/206
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/697
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21265
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/695
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/696
+
+
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/494
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52089
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21269
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/492
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/499
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/127882
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21266
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/497
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/504
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21267
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/502
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/509
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21327
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/514
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21268
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/512
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/519
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21328
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/517
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/524
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21329
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/522
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+
+
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png" group-title="Canais |  Variedades ",Prime Box Brazil FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2525
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="Prime Box Brazil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png" group-title="Canais |  Variedades ",Prime Box Brazil HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2523
+
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/488
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118889
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/486
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
+
+
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80170
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80172
+
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/198
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png" group-title="Canais |  Religiosos",Rede Vida HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/197
+
+
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RIT.png" group-title="Canais |  Religiosos",RIT TV SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/199
+
+
+
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/707
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/705
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/706
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/704
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21272
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/598
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/596
+#EXTINF:-1 tvg-id="" tvg-name="Star Life FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/602
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Star Life UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21239
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
+#EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/600
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/713
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/711
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/712
+
+
+
+
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/718
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="SYFY UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21277
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/716
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/717
+
+
+
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/TCM.png" group-title="Canais | Filmes & Series",TCM FHD 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/740
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/615
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21279
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/613
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/614
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/620
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21280
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/618
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/625
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21281
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/623
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/630
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21282
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/628
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/629
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/635
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21283
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/633
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/634
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/589
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21284
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/587
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/728
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21349
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/726
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/727
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/733
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/731
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/732
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Series FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/738
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21286
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/736
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
+
+
+
+
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/190
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVAPARECIDA.png" group-title="Canais |  Religiosos",TV Aparecida HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/189
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVBRASIL.png" group-title="Canais |  Abertos",TV Brasil HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/165
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/743
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21288
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/742
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/741
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2537
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21290
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2536
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/749
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21291
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/746
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/748
+
+
+
+
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Legendados",AXN HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118891
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Legendados",AXN FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118892
+
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Legendados",Star Channel HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118893
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Legendados",Star Channel FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118894
+
+
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118895
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118896
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD LEG" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO PLUS HD LEG
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118897
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118899
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Action HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118901
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Action FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118902
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118903
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Cult HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118904
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118905
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118906
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118907
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118908
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118909
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118910
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",TELECINE TOUCH HD LEG
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118911
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118912
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="TNT HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Legendados",TNT HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118913
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Legendados",TNT FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118914
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118915
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118916
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Pop HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118917
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Pop FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118918
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118919
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118920
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Legendados",Space HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118921
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Legendados",Space FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118922
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Legendados",TNT Series HD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118923
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Legendados",TNT Series FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118924
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD [LEG]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner Channel HD [LEG]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118925
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner Channel FHD [LEG ]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118926
+
+
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 1 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121597
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121598
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121600
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 2 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121601
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121602
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121604
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 3 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121605
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121608
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 4 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121609
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121610
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121612
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 5 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121613
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121614
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 5 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121615
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121616
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 6 FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121617
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121618
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 6 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121619
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229981
+#EXTINF:-1 tvg-id="" tvg-name="DAZN1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN1 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229982
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229983
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229984
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229985
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229986
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 " tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN 2 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229987
+#EXTINF:-1 tvg-id="" tvg-name="DAZN3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229988
+#EXTINF:-1 tvg-id="" tvg-name="DAZN4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229989
+#EXTINF:-1 tvg-id="" tvg-name="DAZN5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229990
+#EXTINF:-1 tvg-id="" tvg-name="DAZN6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229991
+
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232230
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232231
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232232
+#EXTINF:-1 tvg-id="" tvg-name="Star + 1 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232233
+#EXTINF:-1 tvg-id="" tvg-name="Star + 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232234
+#EXTINF:-1 tvg-id="" tvg-name="Star + 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 2 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232235
+#EXTINF:-1 tvg-id="" tvg-name="Star + HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232236
+#EXTINF:-1 tvg-id="" tvg-name="Star + 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232237
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232238
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232239
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232240
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232241
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232242
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232243
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232244
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232245
+#EXTINF:-1 tvg-id="" tvg-name="Star + 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 5 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232246
+#EXTINF:-1 tvg-id="" tvg-name="Star + 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 6 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232247
+#EXTINF:-1 tvg-id="CanalGoat.br" tvg-name="GOAT 1 HD" tvg-logo="https://ugc.production.linktr.ee/IMaIVCCMR3KKyTvNKtRs_t8uQ7SGkHxCyH2xB" group-title="Canais | Pay-per-view",GOAT 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233913
+#EXTINF:-1 tvg-id="CanalGoat.br" tvg-name="GOAT2 HD" tvg-logo="https://ugc.production.linktr.ee/IMaIVCCMR3KKyTvNKtRs_t8uQ7SGkHxCyH2xB" group-title="Canais | Pay-per-view",GOAT2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233914
+
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233917
+#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233918
+
+
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RIO FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244173
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RIO HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244174
+
+
+
+
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SCC (SBT)HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SCC (SBT)HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244197
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEBRASIL.jpg" group-title="Canais |  Abertos",Rede Brasil HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/46992
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NHKWORLDJAPAN.png" group-title="Canais | Noticias",NHK HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234279
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 1 SD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1 SD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250559
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 1 HD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1 HD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250560
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 1  HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1  HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250561
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 1 UHD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1 UHD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250562
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 1 FHD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1 FHD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250563
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 2 SD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 2 SD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250564
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 2 HD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 2 HD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250565
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 2 HD2." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 2 HD2.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250566
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 2 HD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 2 HD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250567
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250568
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 3 HD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 HD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250569
+#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3 HD2." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 HD2.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250570
+#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250571
+#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3 HD2." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 HD2.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250572
+#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3 UHD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3 UHD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250573
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 4 SD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 4 SD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250574
+#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="Paramount + 4 HD." tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 4 HD.
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250575
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+ 7 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",STAR+ 7 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/253330
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="Star+ 8 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star+ 8 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/253331
+
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="Rede CNT FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNT.png" group-title="Canais |  Religiosos",Rede CNT FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234481
+
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255474
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255475
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band RJ HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255476
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 Z" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 1 Z
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264952
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video1 L" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video1 L
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264953
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video1 L" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video1 L
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264955
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 Z" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 2 Z
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264956
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 T" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 2 T
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264957
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 L" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 2 L
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264958
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 Z" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 3 Z
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264959
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 L" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 3 L
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264960
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 T" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 3 T
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264961
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 Z" tvg-logo="" group-title="Canais | Pay-per-view",Prime Video 4 Z
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264962
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Chaves 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232221
+#EXTINF:-1 tvg-id="" tvg-name="24H] Chaves 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",24H] Chaves 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232224
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Chapolin 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232227
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Escolinha do Professor Raimundo
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272663
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Os Trapalhões
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272662
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Eu a Patroa e as Crianças 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272664
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Eu a Patroa e as Crianças 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272665
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Eu a Patroa e as Crianças 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272666
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Eu a Patroa e as Crianças 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272667
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Eu a Patroa e as Crianças 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272668
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272670
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272671
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272672
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272674
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 7" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 7
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272675
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 8" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Todo Mundo Odeia o Chris 8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272676
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272677
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272678
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272679
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272680
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272681
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272682
+
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Alexandre Pires e Seu Jorge [Live Irmãos]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271428
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Alexandre Pires [Live do Nego Véio]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271429
+#EXTINF:-1 tvg-id="" tvg-name="B&M + Wesley Safadão [Live 19-09-2020]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",B&M + Wesley Safadão [Live 19-09-2020]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271430
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Bruno e Marrone [Live 16-05-2020]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271431
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Bruno e Marrone [Live 3 sem propagandas]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271432
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Bruno e Marrone [Live 4 sem propagandas]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271433
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271434
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271435
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Eduardo Costa [Aqui em Uberlândia]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271436
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Eduardo Costa [Especial Dia dos Namorados]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271437
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [Buteco em BH]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271438
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [Buteco Em Casa 1]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271439
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [Embaixador no Agronegócio]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271440
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [Especial São João]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271441
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [Festa do Peão Barretos]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271442
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima [YouTube Music]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271443
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271444
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Henrique e Juliano [Live Liberdade Provisória]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271447
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Jorge e Mateus [Na Praia Hotel]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271448
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Jorge e Mateus [Pelo Amor de Deus]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271449
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Jorge e Mateus [Sunset]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271450
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Leonardo e Eduardo Costa [Cabaré]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271451
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271452
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Leonardo e Zé Felipe [Pai e Filho]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271453
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Leonardo [Canto, Bebo e Choro]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271454
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Aqui em Casa 1]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271455
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Aqui em Casa 2]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271456
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Aqui na Fazenda]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271457
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Drive-In Na Terra]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271458
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Fun Live]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271459
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Maiara e Maraisa [Workshow]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271460
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Marilia Mendonça [Lado B]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271461
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Marilia Mendonça [Live Local]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271462
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Marilia Mendonça [Todos os Cantos]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271463
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Marilia Mendonça [Workshow]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271464
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Alexandre Pires [Live Gigantes do Samba]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271465
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Amigos em Casa [Live 21-04-2020]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Raça Negra e Amigos em Casa [Live 21-04-2020]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271466
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 1]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Simone e Simaria [Live das Coleguinhas 1]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271467
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 2 Libras]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Simone e Simaria [Live das Coleguinhas 2 Libras]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271468
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 2]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Simone e Simaria [Live das Coleguinhas 2]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271469
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Pocket Show]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Simone e Simaria [Pocket Show]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271470
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Yoki, Live Junina]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Simone e Simaria [Yoki, Live Junina]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271471
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Especial 30 Anos]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Só Pra Contrariar [Especial 30 Anos]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271472
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Session 2]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Só Pra Contrariar [Session 2]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271473
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271474
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura [A Última Live - Especial Parrerito]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Trio Parada Dura [A Última Live - Especial Parrerito]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271475
+#EXTINF:-1 tvg-id="" tvg-name="VillaMix em Casa [Só Modão]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",VillaMix em Casa [Só Modão]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271476
+#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadão e Raça Negra [Skol Sunset]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Wesley Safadão e Raça Negra [Skol Sunset]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271477
+#EXTINF:-1 tvg-id="" tvg-name="Xand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Xand Avião e os Barões da Pisadinha [Live Oficial]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271478
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barretão]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Zé Neto e Cristiano [Live Barretão]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271479
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barzinho Aleatório]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Zé Neto e Cristiano [Live Barzinho Aleatório]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271480
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Dia da Cerveja]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Zé Neto e Cristiano [Live Dia da Cerveja]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271481
+
+
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272735
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 01
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272736
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 02
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272737
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 03
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272738
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 04" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 04
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272739
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 05" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 05
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272740
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 06" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 06
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272741
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 07" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 07
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272742
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 08" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 08
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272743
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 09" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 09
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 10" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 10
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Thiago Ventura
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260604
