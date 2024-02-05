@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 #EXTINF:-1,Globo SP 4K
 http://supertv.red:80/nii5jn8d/gz6su0qk/124897.ts
 #EXTINF:-1,Globo SP 4k²
