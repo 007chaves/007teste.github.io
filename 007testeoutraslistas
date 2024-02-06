@@ -1,6 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB HD1 TESTE
+http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB HD1 TESSTE
+http://10gbfdc1.online:8080/live/15junior/as1266375/326576.m3u8?token=TxRaWEpeRw5HDwlVVgoKVFEBUAwFVAJXVARRAlQHA1MMAlMMXA4BAwQVFURDTEtUUQ49UFNGDgcAAwEFVE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFg8CDw4USRYAT00DQlZYXW8HB09eB1EWCFtBXg5PRF5aaVZcVFcLUEcNG1YSFBtYQxNAA1kRWFgeF1ZbFhEHRVEUCBsLBVYARxsbBV9NV0VCGkADFTFnFh4XUUoWBghCXVlcGwMUCAcQDxtKElFKbkIGEU1FAVVZV0cWCEBTRB0WW1NBZlUKWgtSWhJZV1dCEllACBVIFlldW11GDRE5QV1SEAMbB1cHXA8bGw==
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Bʀᴀzɪʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/BBBrasil.png",BBB24ᴴᴰ 🇧🇷 🟡
 http://voz.one:80/live/alexfnt/vTFBGKdUYq/254730.m3u8
