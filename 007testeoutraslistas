@@ -6,7 +6,17 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/254730
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Principal 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/254731
 
-#EXTINF:-1 tvg-logo="" group-title="teste", AMC
-http://boxdigital.xyz:8080/live/Alejozorondo/zTZydSJZY4/73255.m3u8
+######################################### Canais Aberto  ################################################
+
+
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
+http://7go.xyz:8080/live/15junior/as1266375/114060.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
+
+
 
 
