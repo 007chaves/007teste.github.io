@@ -15,8 +15,21 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/254731
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
 http://7go.xyz:8080/live/15junior/as1266375/114060.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="Noticias",BAND NEWS HD
+http://7go.xyz:8080/live/15junior/as1266375/18617.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="Noticias",RECORD NEWS HD
+http://7go.xyz:8080/live/15junior/as1266375/18592.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/latMeUP.png" group-title="Noticias",CNN BRASIL HD
+http://7go.xyz:8080/live/15junior/as1266375/18642.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="Noticias",GLOBO NEWS HD
+http://7go.xyz:8080/live/15junior/as1266375/29586.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="Noticias",JP NEWS HD
+http://7go.xyz:8080/live/15junior/as1266375/64581.m3u8
 
 
