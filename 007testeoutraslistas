@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-######################################### Canais Aberto  ################################################
-
-
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 https://techon.one/live/430204779/585896853/443004.m3u8
 
