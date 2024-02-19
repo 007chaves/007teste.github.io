@@ -1,27 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://techon.one/live/430204779/585896853/443004.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://techon.one/live/430204779/585896853/1281443.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://techon.one/live/430204779/585896853/1281459.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://techon.one/live/430204779/585896853/1286633.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
-http://techon.one/live/430204779/585896853/1286634.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
-http://techon.one/live/430204779/585896853/443000.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
-http://techon.one/live/430204779/585896853/1290025.m3u8
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
-http://techon.one/live/430204779/585896853/1290026.m3u8
