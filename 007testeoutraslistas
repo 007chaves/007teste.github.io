@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-https://techon.one/live/430204779/585896853/443004.m3u8
+http://techon.one/live/430204779/585896853/443004.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-https://techon.one/live/430204779/585896853/1281443.m3u8
+http://techon.one/live/430204779/585896853/1281443.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-https://techon.one/live/430204779/585896853/1281459.m3u8
+http://techon.one/live/430204779/585896853/1281459.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-https://techon.one/live/430204779/585896853/1286633.m3u8
+http://techon.one/live/430204779/585896853/1286633.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
-https://techon.one/live/430204779/585896853/1286634.m3u8
+http://techon.one/live/430204779/585896853/1286634.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais aberto", Rede Brasil TV
-https://techon.one/live/430204779/585896853/1281448.m3u8
+http://techon.one/live/430204779/585896853/1281448.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
-https://techon.one/live/430204779/585896853/443000.m3u8
+http://techon.one/live/430204779/585896853/443000.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
-https://lb06.cf05fun.shop/auth/1290025.m3u8?token=DXh3C7pIIGR3lWvFYZqZN4OU0NSqipvEDtBcwCsMV4HCbLJOKGRTXvrf0b6a9PvGejpoFiD-TMUoo75_NRZCH7FoBTJMg4dbe8BWvvecBKmzjhM0-jGuHLloFCGmllE0eOo91cow-D_BoZxEConavzmHGm-I2Vpo1CDa-DXtnHw3QcZQJTosDCx2iTJqApUXp3viWNgxMV8O7coMBQcSLlbNuxs3CUYwSlqBbqd8tkmwXjsmz9jmQOYpwyJwVgPMfrY1Nl6cJV4x1_XcobzxMhzzhcyX1k_3hrFmg4YVmh0t-LapBP6WI3IbCwlZxwPkBxoTVWFg3yPRsldIPxAZOHNKaDYz9O0OhO-PAjE3PfpBfoddso-1bEyk8_ItOx9VAQXpBWEXoAuZJsGmlpRmhM3KOmK2b0LWj4FexEbMYKwRDHKjreQzdh4G2xp7sewvNhTly3Hqx_X6cT4np9XZad6D_hCZbnjS0ulTrfT8ZpRZ0a_TvV5fCbUjJ9JnJqQbV8LgCQQYdmtbysoGWCGy7dJpaonED565qq6249Dy0RP1DxSCUeaHM44qvBjdluL0LDTOnijyDDREUO6b8j8RQ3SXQCrz_XNsFvb6M4tLnf8
+http://lb06.cf05fun.shop/auth/1290025.m3u8?token=DXh3C7pIIGR3lWvFYZqZN4OU0NSqipvEDtBcwCsMV4HCbLJOKGRTXvrf0b6a9PvGejpoFiD-TMUoo75_NRZCH7FoBTJMg4dbe8BWvvecBKmzjhM0-jGuHLloFCGmllE0eOo91cow-D_BoZxEConavzmHGm-I2Vpo1CDa-DXtnHw3QcZQJTosDCx2iTJqApUXp3viWNgxMV8O7coMBQcSLlbNuxs3CUYwSlqBbqd8tkmwXjsmz9jmQOYpwyJwVgPMfrY1Nl6cJV4x1_XcobzxMhzzhcyX1k_3hrFmg4YVmh0t-LapBP6WI3IbCwlZxwPkBxoTVWFg3yPRsldIPxAZOHNKaDYz9O0OhO-PAjE3PfpBfoddso-1bEyk8_ItOx9VAQXpBWEXoAuZJsGmlpRmhM3KOmK2b0LWj4FexEbMYKwRDHKjreQzdh4G2xp7sewvNhTly3Hqx_X6cT4np9XZad6D_hCZbnjS0ulTrfT8ZpRZ0a_TvV5fCbUjJ9JnJqQbV8LgCQQYdmtbysoGWCGy7dJpaonED565qq6249Dy0RP1DxSCUeaHM44qvBjdluL0LDTOnijyDDREUO6b8j8RQ3SXQCrz_XNsFvb6M4tLnf8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
-https://lb01.cf10fun.shop/auth/1279132.m3u8?token=FjyE3XrZVYPt6fcew02v4FVfOlbvLSzVsvWCl1nMLedfcIwo9CeaDQg-832OdN2M5rc172J8qhXQj1ky8e_me1GWpLFIRdu_jzWJs9jpbdqcN9YC5xaYZKwRmWrWq_Zb52XpDjBJEoO1xSgMhnFyaQmKve_RWg1hVSaJaGr9IySXU7U3PNhFTXxr3aFeH4ddqIiOn3DcJau99pQDOaVIppOh3e5rS-SDBtgx0cVZfwOtuLwGcnf1CXvvkrJoKGKuwrPu_K8V07TuBHwQofslm6STcftuJDx1z6WtAFCvXhOKZoSy8FEyAjlcrJRNljxzi8GO4O-N840lvS7c07yA-ipbn-7e8ejghTkn2BH4KXjN4oQH-sfuK7udka54IgbLOllitcB4UJVTBRIC4jvl_5Q_-dWMow3bLESM7bwFfHj0-eZmiqI5PxzgdOEyjYnSrkPP9Pa2Mbr6BarVrh0aLVDlPVIB6Wp6dBBtU4hseQSlPOyS9AF0RlLjocxoiBVDzSavRsXxCqqjDvPpSqDjHtxrNMr5QasnnmOd6l0yZDOdx-A_wxaclBYHdMUCv8aeQSJShI-LImKMKi7_y470V3_NLdCAl-QR6UOSy1NcFeE
+http://lb01.cf10fun.shop/auth/1279132.m3u8?token=FjyE3XrZVYPt6fcew02v4FVfOlbvLSzVsvWCl1nMLedfcIwo9CeaDQg-832OdN2M5rc172J8qhXQj1ky8e_me1GWpLFIRdu_jzWJs9jpbdqcN9YC5xaYZKwRmWrWq_Zb52XpDjBJEoO1xSgMhnFyaQmKve_RWg1hVSaJaGr9IySXU7U3PNhFTXxr3aFeH4ddqIiOn3DcJau99pQDOaVIppOh3e5rS-SDBtgx0cVZfwOtuLwGcnf1CXvvkrJoKGKuwrPu_K8V07TuBHwQofslm6STcftuJDx1z6WtAFCvXhOKZoSy8FEyAjlcrJRNljxzi8GO4O-N840lvS7c07yA-ipbn-7e8ejghTkn2BH4KXjN4oQH-sfuK7udka54IgbLOllitcB4UJVTBRIC4jvl_5Q_-dWMow3bLESM7bwFfHj0-eZmiqI5PxzgdOEyjYnSrkPP9Pa2Mbr6BarVrh0aLVDlPVIB6Wp6dBBtU4hseQSlPOyS9AF0RlLjocxoiBVDzSavRsXxCqqjDvPpSqDjHtxrNMr5QasnnmOd6l0yZDOdx-A_wxaclBYHdMUCv8aeQSJShI-LImKMKi7_y470V3_NLdCAl-QR6UOSy1NcFeE
