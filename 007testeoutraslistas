@@ -1,23 +1,24 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="RBS",Globo RBS TV Santa Maria HD
-http://shiuk.re:8080/live/675576/444417/539.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="RBS",Globo RBS TV UHD
-http://shiuk.re:8080/live/675576/444417/540.m3u8
-#EXTINF:-1 tvg-name="Globo RJ Alto Litoral HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Alto Litoral HD
-http://shiuk.re:8080/live/675576/444417/541.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD
-http://shiuk.re:80/live/675576/444417/542.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD²
-http://shiuk.re:80/live/675576/444417/543.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD³
-http://shiuk.re:80/live/675576/444417/544.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD
+http://shiuk.re:80/675576/444417/542.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD²
+http://shiuk.re:80/675576/444417/543.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD³" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD³
+http://shiuk.re:80/675576/444417/544.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD
-http://shiuk.re:80/live/675576/444417/545.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD²
+http://shiuk.re:80/675576/444417/545.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD²
 http://shiuk.re:80/675576/444417/546.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Interior HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Interior HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Interior HD
 http://shiuk.re:80/675576/444417/547.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Planície HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Planície HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Planície HD
 http://shiuk.re:80/675576/444417/548.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ SD
+http://shiuk.re:80/675576/444417/549.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ SD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ SD²
+http://shiuk.re:80/675576/444417/550.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ UHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ UHD
+http://shiuk.re:80/675576/444417/551.m3u8
+
