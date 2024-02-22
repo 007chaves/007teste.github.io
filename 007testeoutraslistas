@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 #EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24 HORAS",24h 101 Dálmatas
 http://game.shiuk.re:80/live/675576/444417/95.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS 24 HORAS",24h 3 Palavrinhas
