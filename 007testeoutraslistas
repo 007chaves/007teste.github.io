@@ -1,13 +1,3 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="CANAIS | DOCUMENTARIOS",ARTE 1 HD
-http://blacktv.syscdn.xyz:80/2878926985/0749027113/130
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="CANAIS | DOCUMENTARIOS",ARTE 1 SD
-http://blacktv.syscdn.xyz:80/2878926985/0749027113/2956
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
-http://blacktv.syscdn.xyz:80/2878926985/0749027113/835
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
-http://blacktv.syscdn.xyz:80/2878926985/0749027113/213
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
-http://blacktv.syscdn.xyz:80/2878926985/0749027113/4
