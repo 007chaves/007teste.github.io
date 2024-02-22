@@ -1,8 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1,ALL SPORTS FHD
-http://blacktv.syscdn.xyz:80/live/2878926985/0749027113/31745.m3u8
-#EXTINF:-1,AMC FHD
-http://blacktv.syscdn.xyz:80/live/2878926985/0749027113/840.m3u8
-#EXTINF:-1,AMC FHD H265
-http://blacktv.syscdn.xyz:80/live/2878926985/0749027113/211.m3u8
+
