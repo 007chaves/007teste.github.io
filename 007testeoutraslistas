@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="INFANTIS",Cartoonito HD
 http://game.shiuk.re:80/live/675576/444417/781.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="INFANTIS",Cartoonito SD
