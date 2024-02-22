@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,BBB CAM 09
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB CAM 09
 http://blacktv.syscdn.xyz:80/live/4183555730/810365542/94561.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (Opcao 1)
