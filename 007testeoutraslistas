@@ -1,18 +1,76 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND RJ FHD
-http://blacktv.syscdn.xyz:80/148377299/97756883/307
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND RJ HD
-http://blacktv.syscdn.xyz:80/148377299/97756883/321
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND RS HD
-http://blacktv.syscdn.xyz:80/148377299/97756883/322
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD
-http://blacktv.syscdn.xyz:80/148377299/97756883/868
-
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS H265" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS H265
-http://blacktv.syscdn.xyz:80/148377299/97756883/215
-
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record   RJ   HD" tvg-logo="http://xx.tigeruhd.xyz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   RJ   HD
+http://tcs.cx:80/588869204133/094654549310/1784583
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record   RJ   SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   RJ   SD
+http://tcs.cx:80/588869204133/094654549310/1784577
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record   SP   FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   SP   FHD
+http://tcs.cx:80/588869204133/094654549310/1784573
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Record   SP   HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   SP   HD
+http://tcs.cx:80/588869204133/094654549310/1784570
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record   SP   SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   SP   SD
+http://tcs.cx:80/588869204133/094654549310/1784572
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record   SP   SD [Alt]" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record   SP   SD [Alt]
+http://tcs.cx:80/588869204133/094654549310/1784593
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="Record  Brasília  FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Brasília  FHD
+http://tcs.cx:80/588869204133/094654549310/1784578
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="Record  Brasília  HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Brasília  HD
+http://tcs.cx:80/588869204133/094654549310/1784582
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="Record  Brasília  SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Brasília  SD
+http://tcs.cx:80/588869204133/094654549310/1784591
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="Record  CE - Ceará" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  CE - Ceará
+http://tcs.cx:80/588869204133/094654549310/1784585
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="Record  Minas  FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Minas  FHD
+http://tcs.cx:80/588869204133/094654549310/1876392
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="Record  Minas  HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Minas  HD
+http://tcs.cx:80/588869204133/094654549310/1784581
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="Record  Minas  SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Minas  SD
+http://tcs.cx:80/588869204133/094654549310/1784584
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="Record  RS  FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  RS  FHD
+http://tcs.cx:80/588869204133/094654549310/1784594
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="Record  RS  HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  RS  HD
+http://tcs.cx:80/588869204133/094654549310/1784589
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="Record  RS  SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  RS  SD
+http://tcs.cx:80/588869204133/094654549310/1784576
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="Record  TV Paraná FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  TV Paraná FHD
+http://tcs.cx:80/588869204133/094654549310/1876397
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="Record  TV Paraná HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  TV Paraná HD
+http://tcs.cx:80/588869204133/094654549310/1876398
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record  Tv Santa Catarina HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record  Tv Santa Catarina HD
+http://tcs.cx:80/588869204133/094654549310/1876399
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record BA -  Bahia" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record BA -  Bahia
+http://tcs.cx:80/588869204133/094654549310/2730882
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Record BA Itapoan FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record BA Itapoan FHD
+http://tcs.cx:80/588869204133/094654549310/1784590
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="Record BA Itapoan HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record BA Itapoan HD
+http://tcs.cx:80/588869204133/094654549310/1784580
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Record BA Itapoan SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record BA Itapoan SD
+http://tcs.cx:80/588869204133/094654549310/1784579
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Belém HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Belém HD
+http://tcs.cx:80/588869204133/094654549310/1784571
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="Record Belém SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Belém SD
+http://tcs.cx:80/588869204133/094654549310/1784575
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="RECORD BH" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",RECORD BH
+http://tcs.cx:80/588869204133/094654549310/2730549
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Campinas HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Campinas HD
+http://tcs.cx:80/588869204133/094654549310/1784586
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Campinas SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Campinas SD
+http://tcs.cx:80/588869204133/094654549310/1784587
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="Record Goias FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Goias FHD
+http://tcs.cx:80/588869204133/094654549310/1876393
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="Record Goias HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Goias HD
+http://tcs.cx:80/588869204133/094654549310/1784569
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="Record Goias SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Goias SD
+http://tcs.cx:80/588869204133/094654549310/1784574
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Manaus HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Manaus HD
+http://tcs.cx:80/588869204133/094654549310/1784588
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Manaus SD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Manaus SD
+http://tcs.cx:80/588869204133/094654549310/1784592
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Maringa" tvg-logo="http://xx.tigeruhd.xyz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Maringa
+http://tcs.cx:80/588869204133/094654549310/2998177
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Mato Grosso" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Mato Grosso
+http://tcs.cx:80/588869204133/094654549310/2729526
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="Record Minas HD" tvg-logo="http://xx.tigeruhd.fun:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="Canais || ☑️ Record",Record Minas HD
+http://tcs.cx:80/588869204133/094654549310/1784598
 
