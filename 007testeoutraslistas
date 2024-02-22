@@ -733,17 +733,17 @@ http://shiuk.re:80/675576/444417/831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News SD" tvg-logo="https://chipchickcom-wpengine.netdna-ssl.com//wp-content/uploads/2017/04/fox-news-logo-icon-65519.png" group-title="NOTICIAS",Fox News SD
 http://shiuk.re:80/675576/444417/832.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="ESPORTES",Fox Sports 2 FHD
-http://shiuk.re:80/675576/444417/710.m3u8
+http://shiuk.re:80/live/675576/444417/710.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="ESPORTES",Fox Sports 2 HD
 http://shiuk.re:80/675576/444417/711.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="ESPORTES",Fox Sports 2 SD
-http://shiuk.re:80/675576/444417/712.m3u8
+http://shiuk.re:80/live/675576/444417/712.m3u8
 #EXTINF:-1 tvg-id="Futura HD" tvg-name="Futura FHD" tvg-logo="https://imgur.com/DvNh2Z3.png" group-title="ABERTOS",Futura FHD
-http://shiuk.re:80/675576/444417/898.m3u8
+http://shiuk.re:80/live/675576/444417/898.m3u8
 #EXTINF:-1 tvg-id="Futura HD" tvg-name="Futura HD" tvg-logo="https://imgur.com/DvNh2Z3.png" group-title="ABERTOS",Futura HD
-http://shiuk.re:80/675576/444417/899.m3u8
+http://shiuk.re:80/live/675576/444417/899.m3u8
 #EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="FILMES & SÉRIES",FX FHD
-http://shiuk.re:80/675576/444417/330.m3u8
+http://shiuk.re:80/live/675576/444417/330.m3u8
 #EXTINF:-1 tvg-id="FX FHD" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="FILMES & SÉRIES",FX HD
 http://shiuk.re:80/675576/444417/331.m3u8
 #EXTINF:-1 tvg-id="FX FHD" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="FILMES & SÉRIES",FX SD
@@ -863,23 +863,23 @@ http://shiuk.re:80/675576/444417/537.m3u8
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre FHD" tvg-name="Globo RBS TV POA SD" tvg-logo="https://imgur.com/927N9qA.png" group-title="RBS",Globo RBS TV POA SD
 http://shiuk.re:80/675576/444417/538.m3u8
 #EXTINF:-1 tvg-id="Globo RBS TV Santa Maria FHD" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="RBS",Globo RBS TV Santa Maria HD
-http://shiuk.re:80/675576/444417/539.m3u8
+http://shiuk.re:8080/live/675576/444417/539.m3u8
 #EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo FHD" tvg-name="Globo RBS TV UHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="RBS",Globo RBS TV UHD
-http://shiuk.re:80/675576/444417/540.m3u8
+http://shiuk.re:8080/live/675576/444417/540.m3u8
 #EXTINF:-1 tvg-id="Globo Inter TV Alto Litoral FHD" tvg-name="Globo RJ Alto Litoral HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Alto Litoral HD
-http://shiuk.re:80/675576/444417/541.m3u8
+http://shiuk.re:8080/live/675576/444417/541.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD
-http://shiuk.re:80/675576/444417/542.m3u8
+http://shiuk.re:80/live/675576/444417/542.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD²
-http://shiuk.re:80/675576/444417/543.m3u8
+http://shiuk.re:80/live/675576/444417/543.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD³" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD³
-http://shiuk.re:80/675576/444417/544.m3u8
+http://shiuk.re:80/live/675576/444417/544.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD
-http://shiuk.re:80/675576/444417/545.m3u8
+http://shiuk.re:80/live/675576/444417/545.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD²
-http://shiuk.re:80/675576/444417/546.m3u8
+http://shiuk.re:80/live/675576/444417/546.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ Interior HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Interior HD
-http://shiuk.re:80/675576/444417/547.m3u8
+http://shiuk.re:80/live/675576/444417/547.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ Planície HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Planície HD
 http://shiuk.re:80/675576/444417/548.m3u8
 #EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ SD
