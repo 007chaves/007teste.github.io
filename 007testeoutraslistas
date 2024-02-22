@@ -1,25 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml"
-
-
-
-#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://7go.xyz:8080/live/15junior/as1266375/22627.m3u8
-#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/727
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://7go.xyz:8080/live/15junior/as1266375/114061.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/255
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://7go.xyz:8080/live/15junior/as1266375/30256.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/263
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/254
+#EXTM3U 
 
 
