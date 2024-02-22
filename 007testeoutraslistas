@@ -1,24 +1,25 @@
 #EXTM3U
+#url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND RJ FHD
+http://blacktv.syscdn.xyz:80/148377299/97756883/307
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND RJ HD
+http://blacktv.syscdn.xyz:80/148377299/97756883/321
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND RS HD
+http://blacktv.syscdn.xyz:80/148377299/97756883/322
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND SERGIPE HD
+http://blacktv.syscdn.xyz:80/148377299/97756883/323
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD
+http://blacktv.syscdn.xyz:80/148377299/97756883/868
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD H265" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD H265
+http://blacktv.syscdn.xyz:80/148377299/97756883/76679
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP HD
+http://blacktv.syscdn.xyz:80/148377299/97756883/324
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP SD
+http://blacktv.syscdn.xyz:80/148377299/97756883/450
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://blacktv.syscdn.xyz:80/148377299/97756883/768
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS H265" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS H265
+http://blacktv.syscdn.xyz:80/148377299/97756883/215
 
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD
-http://shiuk.re:80/675576/444417/542.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD²
-http://shiuk.re:80/675576/444417/543.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD³" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ FHD³
-http://shiuk.re:80/675576/444417/544.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD
-http://shiuk.re:80/675576/444417/545.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ HD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ HD²
-http://shiuk.re:80/675576/444417/546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Interior HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Interior HD
-http://shiuk.re:80/675576/444417/547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Planície HD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ Planície HD
-http://shiuk.re:80/675576/444417/548.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ SD
-http://shiuk.re:80/675576/444417/549.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ SD²" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ SD²
-http://shiuk.re:80/675576/444417/550.m3u8
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ UHD" tvg-logo="https://imgur.com/927N9qA.png" group-title="GLOBO",Globo RJ UHD
-http://shiuk.re:80/675576/444417/551.m3u8
 
