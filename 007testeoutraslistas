@@ -1,3 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (Opcao 1)
+http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
 
+#EXTINF:-1 group-title="filmes 2023",Barraco de Família (2023)	
+http://7go.xyz:8080/movie/15junior/as1266375/314809.mp4	
