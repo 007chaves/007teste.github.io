@@ -1,13 +1,4 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24h A GRANDE FAMILIA" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS || 24H",24h A GRANDE FAMILIA
-http://213.183.45.243:80/Bruna24/24Brunaa/53903.ts
-#EXTINF:-1 tvg-id="Globo Minas SD" tvg-name="Globo Minas FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="CANAIS || GLOBO",Globo Minas FHD
-http://213.183.45.243:80/Bruna24/24Brunaa/54086.ts
-#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD²" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="CANAIS || GLOBO",Globo Minas FHD²
-http://213.183.45.243:80/Bruna24/24Brunaa/170886.ts
-#EXTINF:-1 tvg-id="Globo Minas SD" tvg-name="Globo Minas HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="CANAIS || GLOBO",Globo Minas HD
-http://213.183.45.243:80/Bruna24/24Brunaa/54087.ts
-#EXTINF:-1 tvg-id="Globo Minas SD" tvg-name="Globo Minas SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="CANAIS || GLOBO",Globo Minas SD
-http://213.183.45.243:80/Bruna24/24Brunaa/54088.ts
+
