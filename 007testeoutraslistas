@@ -1,26 +1,3253 @@
 #EXTM3U
 
 
+#EXTM3U
+#EXTINF:-1,89 FM ROCK (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152762.m3u8
+#EXTINF:-1,A FEITICEIRA 24HS
+http://game.shiuk.re:80/live/675576/444417/946464.m3u8
+#EXTINF:-1,A GRANDE FAMILIA 24HS
+http://game.shiuk.re:80/live/675576/444417/946465.m3u8
 #EXTINF:-1,A&E FHD
 http://game.shiuk.re:80/live/675576/444417/780177.m3u8
 #EXTINF:-1,A&E HD
 http://game.shiuk.re:80/live/675576/444417/780178.m3u8
-
-
-
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E FHD
-http://shiuk.re:80/675576/444417/309.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E HD
-http://shiuk.re:80/675576/444417/310.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E SD
-http://shiuk.re:80/675576/444417/311.m3u8
-
-
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD TESTE" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E FHD
-http://game.shiuk.re:80/live/675576/444417/309.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E HD TESTE" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E HD
-http://game.shiuk.re:80/live/675576/444417/310.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E SD TESTE" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png" group-title="FILMES & SÉRIES",A&E SD
-http://game.shiuk.re:80/live/675576/444417/311.m3u8
-
-
+#EXTINF:-1,A&E SD
+http://game.shiuk.re:80/live/675576/444417/780179.m3u8
+#EXTINF:-1,AGROBRASIL SD
+http://game.shiuk.re:80/live/675576/444417/1152678.m3u8
+#EXTINF:-1,ALPHA FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152759.m3u8
+#EXTINF:-1,AMC FHD
+http://game.shiuk.re:80/live/675576/444417/780180.m3u8
+#EXTINF:-1,AMC HD
+http://game.shiuk.re:80/live/675576/444417/780181.m3u8
+#EXTINF:-1,AMC SD
+http://game.shiuk.re:80/live/675576/444417/780182.m3u8
+#EXTINF:-1,ANIMAL PLANET FHD
+http://game.shiuk.re:80/live/675576/444417/779891.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://game.shiuk.re:80/live/675576/444417/779892.m3u8
+#EXTINF:-1,ANIMAL PLANET SD
+http://game.shiuk.re:80/live/675576/444417/779893.m3u8
+#EXTINF:-1,ANIMES HD
+http://game.shiuk.re:80/live/675576/444417/779890.m3u8
+#EXTINF:-1,ANTENA 1 FM ( RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152754.m3u8
+#EXTINF:-1,ARTE 1 FHD
+http://game.shiuk.re:80/live/675576/444417/779939.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://game.shiuk.re:80/live/675576/444417/779940.m3u8
+#EXTINF:-1,ARTE 1 SD
+http://game.shiuk.re:80/live/675576/444417/779941.m3u8
+#EXTINF:-1,AS MENINAS SUPERPODEROSAS 24HS
+http://game.shiuk.re:80/live/675576/444417/946466.m3u8
+#EXTINF:-1,ASTRO BOY 24HRS
+http://game.shiuk.re:80/live/675576/444417/946467.m3u8
+#EXTINF:-1,AXN FHD
+http://game.shiuk.re:80/live/675576/444417/780183.m3u8
+#EXTINF:-1,AXN HD
+http://game.shiuk.re:80/live/675576/444417/780184.m3u8
+#EXTINF:-1,AXN HD²
+http://game.shiuk.re:80/live/675576/444417/780185.m3u8
+#EXTINF:-1,AXN SD
+http://game.shiuk.re:80/live/675576/444417/780186.m3u8
+#EXTINF:-1,BABY TV SD
+http://game.shiuk.re:80/live/675576/444417/779851.m3u8
+#EXTINF:-1,BAND BAHIA HD
+http://game.shiuk.re:80/live/675576/444417/946177.m3u8
+#EXTINF:-1,BAND BSB HD
+http://game.shiuk.re:80/live/675576/444417/946178.m3u8
+#EXTINF:-1,BAND CAMPINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946179.m3u8
+#EXTINF:-1,BAND CAMPINAS HD
+http://game.shiuk.re:80/live/675576/444417/946180.m3u8
+#EXTINF:-1,BAND CEARA HD
+http://game.shiuk.re:80/live/675576/444417/946181.m3u8
+#EXTINF:-1,BAND CURITIBA FHD
+http://game.shiuk.re:80/live/675576/444417/946194.m3u8
+#EXTINF:-1,BAND CURITIBA HD
+http://game.shiuk.re:80/live/675576/444417/946195.m3u8
+#EXTINF:-1,BAND GOIANIA FHD
+http://game.shiuk.re:80/live/675576/444417/946192.m3u8
+#EXTINF:-1,BAND GOIANIA HD
+http://game.shiuk.re:80/live/675576/444417/946193.m3u8
+#EXTINF:-1,BAND MG SD
+http://game.shiuk.re:80/live/675576/444417/946182.m3u8
+#EXTINF:-1,BAND MINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946183.m3u8
+#EXTINF:-1,BAND MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946184.m3u8
+#EXTINF:-1,BAND NEWS FHD
+http://game.shiuk.re:80/live/675576/444417/780376.m3u8
+#EXTINF:-1,BAND NEWS HD
+http://game.shiuk.re:80/live/675576/444417/780377.m3u8
+#EXTINF:-1,BAND NEWS SD
+http://game.shiuk.re:80/live/675576/444417/780378.m3u8
+#EXTINF:-1,BAND PARANA HD
+http://game.shiuk.re:80/live/675576/444417/946196.m3u8
+#EXTINF:-1,BAND PARÁ SD
+http://game.shiuk.re:80/live/675576/444417/946191.m3u8
+#EXTINF:-1,BAND RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946185.m3u8
+#EXTINF:-1,BAND RJ HD
+http://game.shiuk.re:80/live/675576/444417/946186.m3u8
+#EXTINF:-1,BAND RS HD
+http://game.shiuk.re:80/live/675576/444417/946187.m3u8
+#EXTINF:-1,BAND SD
+http://game.shiuk.re:80/live/675576/444417/946176.m3u8
+#EXTINF:-1,BAND SERGIPE HD
+http://game.shiuk.re:80/live/675576/444417/946188.m3u8
+#EXTINF:-1,BAND SP FHD
+http://game.shiuk.re:80/live/675576/444417/946189.m3u8
+#EXTINF:-1,BAND SP HD
+http://game.shiuk.re:80/live/675576/444417/946190.m3u8
+#EXTINF:-1,BAND SPORTS FHD
+http://game.shiuk.re:80/live/675576/444417/780436.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://game.shiuk.re:80/live/675576/444417/780437.m3u8
+#EXTINF:-1,BAND SPORTS SD
+http://game.shiuk.re:80/live/675576/444417/780438.m3u8
+#EXTINF:-1,BAND TATUAPE SD
+http://game.shiuk.re:80/live/675576/444417/946175.m3u8
+#EXTINF:-1,BARBIE 24HRS
+http://game.shiuk.re:80/live/675576/444417/946468.m3u8
+#EXTINF:-1,BARRETOS 2024(2)
+http://game.shiuk.re:80/live/675576/444417/946558.m3u8
+#EXTINF:-1,BBB 01 HD
+http://game.shiuk.re:80/live/675576/444417/779840.m3u8
+#EXTINF:-1,BBB 02 HD
+http://game.shiuk.re:80/live/675576/444417/779841.m3u8
+#EXTINF:-1,BBB CAM1
+http://game.shiuk.re:80/live/675576/444417/779842.m3u8
+#EXTINF:-1,BBB CAM2
+http://game.shiuk.re:80/live/675576/444417/779843.m3u8
+#EXTINF:-1,BBB CAM3
+http://game.shiuk.re:80/live/675576/444417/779844.m3u8
+#EXTINF:-1,BBB CAM4
+http://game.shiuk.re:80/live/675576/444417/779845.m3u8
+#EXTINF:-1,BBB CAM5
+http://game.shiuk.re:80/live/675576/444417/779846.m3u8
+#EXTINF:-1,BBB CAM6
+http://game.shiuk.re:80/live/675576/444417/779847.m3u8
+#EXTINF:-1,BBB CAM7
+http://game.shiuk.re:80/live/675576/444417/779848.m3u8
+#EXTINF:-1,BBB CAM8
+http://game.shiuk.re:80/live/675576/444417/779849.m3u8
+#EXTINF:-1,BBB MOSAICO
+http://game.shiuk.re:80/live/675576/444417/779850.m3u8
+#EXTINF:-1,BEN 10 24HS
+http://game.shiuk.re:80/live/675576/444417/946469.m3u8
+#EXTINF:-1,BH FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152769.m3u8
+#EXTINF:-1,BIS FHD
+http://game.shiuk.re:80/live/675576/444417/779943.m3u8
+#EXTINF:-1,BIS HD
+http://game.shiuk.re:80/live/675576/444417/779944.m3u8
+#EXTINF:-1,BIS SD
+http://game.shiuk.re:80/live/675576/444417/779945.m3u8
+#EXTINF:-1,BITA E OS ANIMAIS 24HRS
+http://game.shiuk.re:80/live/675576/444417/946470.m3u8
+#EXTINF:-1,BOA VONTADE SD
+http://game.shiuk.re:80/live/675576/444417/1152679.m3u8
+#EXTINF:-1,BOB ESPONJA 24HS
+http://game.shiuk.re:80/live/675576/444417/946471.m3u8
+#EXTINF:-1,BRASILEIRAO SERIE C (4)
+http://game.shiuk.re:80/live/675576/444417/946559.m3u8
+#EXTINF:-1,BRASILEIRÃO SERIE C (1)
+http://game.shiuk.re:80/live/675576/444417/946554.m3u8
+#EXTINF:-1,BRASILEIRÃO SERIE C (3)
+http://game.shiuk.re:80/live/675576/444417/946556.m3u8
+#EXTINF:-1,BRASILEIRÃO SERIE C (4)
+http://game.shiuk.re:80/live/675576/444417/946555.m3u8
+#EXTINF:-1,BRASILEIRÃO SÉRIE D
+http://game.shiuk.re:80/live/675576/444417/946560.m3u8
+#EXTINF:-1,BREAKING BAD 24HS
+http://game.shiuk.re:80/live/675576/444417/946472.m3u8
+#EXTINF:-1,CAMPEONATO BAHIANO
+http://game.shiuk.re:80/live/675576/444417/946561.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (1)
+http://game.shiuk.re:80/live/675576/444417/946562.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (2)
+http://game.shiuk.re:80/live/675576/444417/946563.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (3)
+http://game.shiuk.re:80/live/675576/444417/946564.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (4)
+http://game.shiuk.re:80/live/675576/444417/946565.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (5)
+http://game.shiuk.re:80/live/675576/444417/946566.m3u8
+#EXTINF:-1,CAMPEONATO CATARINENSE (6)
+http://game.shiuk.re:80/live/675576/444417/946567.m3u8
+#EXTINF:-1,CAMPEONATO CEARENSE 2024
+http://game.shiuk.re:80/live/675576/444417/946568.m3u8
+#EXTINF:-1,CAMPEONATO GAUCHO (1)
+http://game.shiuk.re:80/live/675576/444417/946569.m3u8
+#EXTINF:-1,CAMPEONATO GAUCHO (2)
+http://game.shiuk.re:80/live/675576/444417/946570.m3u8
+#EXTINF:-1,CAMPEONATO GAUCHO (3)
+http://game.shiuk.re:80/live/675576/444417/946571.m3u8
+#EXTINF:-1,CAMPEONATO GOIANO (2)
+http://game.shiuk.re:80/live/675576/444417/946572.m3u8
+#EXTINF:-1,CAMPEONATO GOIANO (3)
+http://game.shiuk.re:80/live/675576/444417/946573.m3u8
+#EXTINF:-1,CAMPEONATO GOIANO 2024(1)
+http://game.shiuk.re:80/live/675576/444417/946574.m3u8
+#EXTINF:-1,CAMPEONATO MINEIRO 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946575.m3u8
+#EXTINF:-1,CAMPEONATO MINEIRO 2024 (2)
+http://game.shiuk.re:80/live/675576/444417/946576.m3u8
+#EXTINF:-1,CAMPEONATO MINEIRO 2024 (3)
+http://game.shiuk.re:80/live/675576/444417/946577.m3u8
+#EXTINF:-1,CAMPEONATO PARAENSE 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946578.m3u8
+#EXTINF:-1,CAMPEONATO PARAIBANO 2024(1)
+http://game.shiuk.re:80/live/675576/444417/946579.m3u8
+#EXTINF:-1,CAMPEONATO PARAIBANO 2024(2)
+http://game.shiuk.re:80/live/675576/444417/946580.m3u8
+#EXTINF:-1,CAMPEONATO PARAIBANO 2024(3)
+http://game.shiuk.re:80/live/675576/444417/946581.m3u8
+#EXTINF:-1,CAMPEONATO PARAIBANO 2024(4)
+http://game.shiuk.re:80/live/675576/444417/946582.m3u8
+#EXTINF:-1,CAMPEONATO PARAIBANO 2024(5)
+http://game.shiuk.re:80/live/675576/444417/946583.m3u8
+#EXTINF:-1,CAMPEONATO PARANAENSE 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946584.m3u8
+#EXTINF:-1,CAMPEONATO PARANAENSE 2024 (2)
+http://game.shiuk.re:80/live/675576/444417/946585.m3u8
+#EXTINF:-1,CAMPEONATO PARANAENSE 2024 (3)
+http://game.shiuk.re:80/live/675576/444417/946586.m3u8
+#EXTINF:-1,CAMPEONATO PERNAMBUCANO 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946587.m3u8
+#EXTINF:-1,CAMPEONATO PERNAMBUCANO 2024 (2)
+http://game.shiuk.re:80/live/675576/444417/946588.m3u8
+#EXTINF:-1,CAMPEONATO PERNAMBUCANO 2024 (3)
+http://game.shiuk.re:80/live/675576/444417/946589.m3u8
+#EXTINF:-1,CAMPEONATO POTIGUAR (1)
+http://game.shiuk.re:80/live/675576/444417/946590.m3u8
+#EXTINF:-1,CAMPEONATO POTIGUAR (2)
+http://game.shiuk.re:80/live/675576/444417/946591.m3u8
+#EXTINF:-1,CAMPEONATO POTIGUAR (3)
+http://game.shiuk.re:80/live/675576/444417/946592.m3u8
+#EXTINF:-1,CAMPEONATO SERGIPANO (1)
+http://game.shiuk.re:80/live/675576/444417/946593.m3u8
+#EXTINF:-1,CAMPEONATO SERGIPANO (2)
+http://game.shiuk.re:80/live/675576/444417/946594.m3u8
+#EXTINF:-1,CANAL BRASIL FHD
+http://game.shiuk.re:80/live/675576/444417/780187.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://game.shiuk.re:80/live/675576/444417/780188.m3u8
+#EXTINF:-1,CANAL BRASIL SD
+http://game.shiuk.re:80/live/675576/444417/780189.m3u8
+#EXTINF:-1,Canal do Boi SD
+http://game.shiuk.re:80/live/675576/444417/1152651.m3u8
+#EXTINF:-1,CANAL DO VOLEI (1)
+http://game.shiuk.re:80/live/675576/444417/946687.m3u8
+#EXTINF:-1,CANAL DO VOLEI (2)
+http://game.shiuk.re:80/live/675576/444417/946688.m3u8
+#EXTINF:-1,CANAL DO VOLEI (3)
+http://game.shiuk.re:80/live/675576/444417/946689.m3u8
+#EXTINF:-1,CANAL DO VOLEI (4)
+http://game.shiuk.re:80/live/675576/444417/946686.m3u8
+#EXTINF:-1,CANAL EMPREENDER SD
+http://game.shiuk.re:80/live/675576/444417/1152652.m3u8
+#EXTINF:-1,CANAL GOAT (1)
+http://game.shiuk.re:80/live/675576/444417/946595.m3u8
+#EXTINF:-1,CANAL GOAT (2)
+http://game.shiuk.re:80/live/675576/444417/946596.m3u8
+#EXTINF:-1,CANAL GOAT (3)
+http://game.shiuk.re:80/live/675576/444417/946597.m3u8
+#EXTINF:-1,CANAL GOAT (4)
+http://game.shiuk.re:80/live/675576/444417/946557.m3u8
+#EXTINF:-1,CANAL RURAL SD
+http://game.shiuk.re:80/live/675576/444417/1152682.m3u8
+#EXTINF:-1,CANAL VÔLEI BRASIL
+http://game.shiuk.re:80/live/675576/444417/946598.m3u8
+#EXTINF:-1,Cancao Nova SD
+http://game.shiuk.re:80/live/675576/444417/1152680.m3u8
+#EXTINF:-1,CANÇÃO NOVA HD
+http://game.shiuk.re:80/live/675576/444417/1152681.m3u8
+#EXTINF:-1,CAO CORAGEM 24HS
+http://game.shiuk.re:80/live/675576/444417/946473.m3u8
+#EXTINF:-1,CARIOCÃO 2024 HD (1)
+http://game.shiuk.re:80/live/675576/444417/946600.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://game.shiuk.re:80/live/675576/444417/779855.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://game.shiuk.re:80/live/675576/444417/779856.m3u8
+#EXTINF:-1,CARTOON NETWORK SD
+http://game.shiuk.re:80/live/675576/444417/779857.m3u8
+#EXTINF:-1,CARTOONITO FHD
+http://game.shiuk.re:80/live/675576/444417/779858.m3u8
+#EXTINF:-1,CARTOONITO HD
+http://game.shiuk.re:80/live/675576/444417/779860.m3u8
+#EXTINF:-1,CARTOONITO SD
+http://game.shiuk.re:80/live/675576/444417/779861.m3u8
+#EXTINF:-1,CAVERNA DO DRAGÃO 24HS
+http://game.shiuk.re:80/live/675576/444417/946474.m3u8
+#EXTINF:-1,CAZE TV (1)
+http://game.shiuk.re:80/live/675576/444417/946601.m3u8
+#EXTINF:-1,CAZE TV (2)
+http://game.shiuk.re:80/live/675576/444417/946602.m3u8
+#EXTINF:-1,CAZE TV (3)
+http://game.shiuk.re:80/live/675576/444417/946603.m3u8
+#EXTINF:-1,CBN (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152755.m3u8
+#EXTINF:-1,CBN RJ HD
+http://game.shiuk.re:80/live/675576/444417/780380.m3u8
+#EXTINF:-1,CBN SP HD
+http://game.shiuk.re:80/live/675576/444417/780381.m3u8
+#EXTINF:-1,CENTRAL KIDS 24HRS
+http://game.shiuk.re:80/live/675576/444417/946475.m3u8
+#EXTINF:-1,CHAPOLIN COLORADO 24HS
+http://game.shiuk.re:80/live/675576/444417/946476.m3u8
+#EXTINF:-1,CHAVES 24HS
+http://game.shiuk.re:80/live/675576/444417/946477.m3u8
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://game.shiuk.re:80/live/675576/444417/946478.m3u8
+#EXTINF:-1,CIDADE FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152767.m3u8
+#EXTINF:-1,CINE KIDS 24HRS
+http://game.shiuk.re:80/live/675576/444417/946479.m3u8
+#EXTINF:-1,CINE SKY 1  FHD
+http://game.shiuk.re:80/live/675576/444417/1152748.m3u8
+#EXTINF:-1,CINE SKY 2 FHD
+http://game.shiuk.re:80/live/675576/444417/1152749.m3u8
+#EXTINF:-1,CINE SKY 3  FHD
+http://game.shiuk.re:80/live/675576/444417/1152750.m3u8
+#EXTINF:-1,CINE SKY 4 FHD
+http://game.shiuk.re:80/live/675576/444417/1152751.m3u8
+#EXTINF:-1,CINE SKY 5 FHD
+http://game.shiuk.re:80/live/675576/444417/1152752.m3u8
+#EXTINF:-1,CINECANAL FHD
+http://game.shiuk.re:80/live/675576/444417/780190.m3u8
+#EXTINF:-1,CINECANAL HD
+http://game.shiuk.re:80/live/675576/444417/780191.m3u8
+#EXTINF:-1,CINECANAL SD
+http://game.shiuk.re:80/live/675576/444417/780192.m3u8
+#EXTINF:-1,CINEMAX FHD
+http://game.shiuk.re:80/live/675576/444417/780193.m3u8
+#EXTINF:-1,CINEMAX HD
+http://game.shiuk.re:80/live/675576/444417/780194.m3u8
+#EXTINF:-1,CINEMAX SD
+http://game.shiuk.re:80/live/675576/444417/780195.m3u8
+#EXTINF:-1,CLUBE FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152772.m3u8
+#EXTINF:-1,CNN BRASIL FHD
+http://game.shiuk.re:80/live/675576/444417/780382.m3u8
+#EXTINF:-1,CNN BRASIL HD
+http://game.shiuk.re:80/live/675576/444417/780383.m3u8
+#EXTINF:-1,CNN BRASIL SD
+http://game.shiuk.re:80/live/675576/444417/780384.m3u8
+#EXTINF:-1,CNN ESPANHOL FHD
+http://game.shiuk.re:80/live/675576/444417/780385.m3u8
+#EXTINF:-1,CNN ESPANHOL SD
+http://game.shiuk.re:80/live/675576/444417/780387.m3u8
+#EXTINF:-1,CNN INTERNACIONAL FHD
+http://game.shiuk.re:80/live/675576/444417/780388.m3u8
+#EXTINF:-1,COCA COLA FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152758.m3u8
+#EXTINF:-1,COMBATE FHD
+http://game.shiuk.re:80/live/675576/444417/780463.m3u8
+#EXTINF:-1,COMBATE HD
+http://game.shiuk.re:80/live/675576/444417/780464.m3u8
+#EXTINF:-1,COMBATE SD
+http://game.shiuk.re:80/live/675576/444417/780465.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://game.shiuk.re:80/live/675576/444417/779948.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://game.shiuk.re:80/live/675576/444417/779949.m3u8
+#EXTINF:-1,COMEDY CENTRAL SD
+http://game.shiuk.re:80/live/675576/444417/779950.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946616.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (2)
+http://game.shiuk.re:80/live/675576/444417/946610.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (3)
+http://game.shiuk.re:80/live/675576/444417/946611.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (4)
+http://game.shiuk.re:80/live/675576/444417/946612.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (5)
+http://game.shiuk.re:80/live/675576/444417/946609.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (6)
+http://game.shiuk.re:80/live/675576/444417/946613.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (7)
+http://game.shiuk.re:80/live/675576/444417/946614.m3u8
+#EXTINF:-1,COPA DO NORDESTE 2024 (8)
+http://game.shiuk.re:80/live/675576/444417/946615.m3u8
+#EXTINF:-1,COPA SANTA CATARINA (1)
+http://game.shiuk.re:80/live/675576/444417/946617.m3u8
+#EXTINF:-1,COPA SANTA CATARINA (2)
+http://game.shiuk.re:80/live/675576/444417/946618.m3u8
+#EXTINF:-1,COPA VERDE (1)
+http://game.shiuk.re:80/live/675576/444417/946619.m3u8
+#EXTINF:-1,COPA VERDE (2)
+http://game.shiuk.re:80/live/675576/444417/946620.m3u8
+#EXTINF:-1,CORRIDA MALUCA 24H
+http://game.shiuk.re:80/live/675576/444417/946480.m3u8
+#EXTINF:-1,CURTA! SD
+http://game.shiuk.re:80/live/675576/444417/779951.m3u8
+#EXTINF:-1,DAZN (1)
+http://game.shiuk.re:80/live/675576/444417/946621.m3u8
+#EXTINF:-1,DAZN (2)
+http://game.shiuk.re:80/live/675576/444417/946622.m3u8
+#EXTINF:-1,DAZN (3)
+http://game.shiuk.re:80/live/675576/444417/946623.m3u8
+#EXTINF:-1,DAZN (4)
+http://game.shiuk.re:80/live/675576/444417/946624.m3u8
+#EXTINF:-1,DAZN (5)
+http://game.shiuk.re:80/live/675576/444417/946625.m3u8
+#EXTINF:-1,DAZN (6)
+http://game.shiuk.re:80/live/675576/444417/946626.m3u8
+#EXTINF:-1,DAZN (7)
+http://game.shiuk.re:80/live/675576/444417/946627.m3u8
+#EXTINF:-1,DAZN (8)
+http://game.shiuk.re:80/live/675576/444417/946628.m3u8
+#EXTINF:-1,DAZN (9)
+http://game.shiuk.re:80/live/675576/444417/946629.m3u8
+#EXTINF:-1,DESENHOS BIBLICOS 24HS
+http://game.shiuk.re:80/live/675576/444417/946481.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://game.shiuk.re:80/live/675576/444417/779954.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://game.shiuk.re:80/live/675576/444417/779955.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://game.shiuk.re:80/live/675576/444417/779956.m3u8
+#EXTINF:-1,DISCOVERY H&H FHD
+http://game.shiuk.re:80/live/675576/444417/779957.m3u8
+#EXTINF:-1,DISCOVERY H&H HD
+http://game.shiuk.re:80/live/675576/444417/779958.m3u8
+#EXTINF:-1,DISCOVERY H&H SD
+http://game.shiuk.re:80/live/675576/444417/779959.m3u8
+#EXTINF:-1,DISCOVERY ID FHD
+http://game.shiuk.re:80/live/675576/444417/779894.m3u8
+#EXTINF:-1,DISCOVERY ID HD
+http://game.shiuk.re:80/live/675576/444417/779895.m3u8
+#EXTINF:-1,DISCOVERY ID SD
+http://game.shiuk.re:80/live/675576/444417/779896.m3u8
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://game.shiuk.re:80/live/675576/444417/779862.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://game.shiuk.re:80/live/675576/444417/779863.m3u8
+#EXTINF:-1,DISCOVERY KIDS SD
+http://game.shiuk.re:80/live/675576/444417/779864.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://game.shiuk.re:80/live/675576/444417/779897.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://game.shiuk.re:80/live/675576/444417/779898.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://game.shiuk.re:80/live/675576/444417/779899.m3u8
+#EXTINF:-1,DISCOVERY THEATHER FHD
+http://game.shiuk.re:80/live/675576/444417/779900.m3u8
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://game.shiuk.re:80/live/675576/444417/779901.m3u8
+#EXTINF:-1,DISCOVERY THEATHER SD
+http://game.shiuk.re:80/live/675576/444417/779902.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://game.shiuk.re:80/live/675576/444417/779960.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://game.shiuk.re:80/live/675576/444417/779961.m3u8
+#EXTINF:-1,DISCOVERY TURBO SD
+http://game.shiuk.re:80/live/675576/444417/779962.m3u8
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://game.shiuk.re:80/live/675576/444417/779903.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://game.shiuk.re:80/live/675576/444417/779904.m3u8
+#EXTINF:-1,DISCOVERY WORLD SD
+http://game.shiuk.re:80/live/675576/444417/779905.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://game.shiuk.re:80/live/675576/444417/779865.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://game.shiuk.re:80/live/675576/444417/779866.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+http://game.shiuk.re:80/live/675576/444417/779867.m3u8
+#EXTINF:-1,DOG TV FHD
+http://game.shiuk.re:80/live/675576/444417/779964.m3u8
+#EXTINF:-1,DOIS HOMENS E MEIO 24HS
+http://game.shiuk.re:80/live/675576/444417/946482.m3u8
+#EXTINF:-1,DRAGON BALL 24HS
+http://game.shiuk.re:80/live/675576/444417/946483.m3u8
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://game.shiuk.re:80/live/675576/444417/946484.m3u8
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://game.shiuk.re:80/live/675576/444417/946485.m3u8
+#EXTINF:-1,E! FHD
+http://game.shiuk.re:80/live/675576/444417/779965.m3u8
+#EXTINF:-1,E! HD
+http://game.shiuk.re:80/live/675576/444417/779966.m3u8
+#EXTINF:-1,E! SD
+http://game.shiuk.re:80/live/675576/444417/779967.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (1)
+http://game.shiuk.re:80/live/675576/444417/946630.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (2)
+http://game.shiuk.re:80/live/675576/444417/946631.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (3)
+http://game.shiuk.re:80/live/675576/444417/946632.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (4)
+http://game.shiuk.re:80/live/675576/444417/946633.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (5)
+http://game.shiuk.re:80/live/675576/444417/946634.m3u8
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (6)
+http://game.shiuk.re:80/live/675576/444417/946635.m3u8
+#EXTINF:-1,EMPRESÁRIOS DE SUCESSO SD
+http://game.shiuk.re:80/live/675576/444417/1152653.m3u8
+#EXTINF:-1,ESPN 2 FHD
+http://game.shiuk.re:80/live/675576/444417/780480.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://game.shiuk.re:80/live/675576/444417/780481.m3u8
+#EXTINF:-1,ESPN 2 SD
+http://game.shiuk.re:80/live/675576/444417/780482.m3u8
+#EXTINF:-1,ESPN 3 FHD
+http://game.shiuk.re:80/live/675576/444417/780483.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://game.shiuk.re:80/live/675576/444417/780484.m3u8
+#EXTINF:-1,ESPN 3 SD
+http://game.shiuk.re:80/live/675576/444417/780485.m3u8
+#EXTINF:-1,ESPN 4 FHD
+http://game.shiuk.re:80/live/675576/444417/780486.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://game.shiuk.re:80/live/675576/444417/780487.m3u8
+#EXTINF:-1,ESPN 4 SD
+http://game.shiuk.re:80/live/675576/444417/780488.m3u8
+#EXTINF:-1,ESPN EXTRA FHD
+http://game.shiuk.re:80/live/675576/444417/780489.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://game.shiuk.re:80/live/675576/444417/780490.m3u8
+#EXTINF:-1,ESPN EXTRA SD
+http://game.shiuk.re:80/live/675576/444417/780491.m3u8
+#EXTINF:-1,ESPN FHD
+http://game.shiuk.re:80/live/675576/444417/780492.m3u8
+#EXTINF:-1,ESPN FHD²
+http://game.shiuk.re:80/live/675576/444417/780493.m3u8
+#EXTINF:-1,ESPN HD
+http://game.shiuk.re:80/live/675576/444417/780494.m3u8
+#EXTINF:-1,ESPN SD
+http://game.shiuk.re:80/live/675576/444417/780496.m3u8
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 24HS
+http://game.shiuk.re:80/live/675576/444417/946486.m3u8
+#EXTINF:-1,FASHION TV FHD
+http://game.shiuk.re:80/live/675576/444417/779968.m3u8
+#EXTINF:-1,FILM & ARTS FHD
+http://game.shiuk.re:80/live/675576/444417/780196.m3u8
+#EXTINF:-1,FILM & ARTS HD
+http://game.shiuk.re:80/live/675576/444417/780197.m3u8
+#EXTINF:-1,FISH TV FHD
+http://game.shiuk.re:80/live/675576/444417/780497.m3u8
+#EXTINF:-1,FISH TV HD
+http://game.shiuk.re:80/live/675576/444417/780498.m3u8
+#EXTINF:-1,FISH TV SD
+http://game.shiuk.re:80/live/675576/444417/780499.m3u8
+#EXTINF:-1,FOOD NETWORK FHD
+http://game.shiuk.re:80/live/675576/444417/779969.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://game.shiuk.re:80/live/675576/444417/779970.m3u8
+#EXTINF:-1,FOOD NETWORK SD
+http://game.shiuk.re:80/live/675576/444417/779971.m3u8
+#EXTINF:-1,FORMIGA ATÓMICA 24HS
+http://game.shiuk.re:80/live/675576/444417/946487.m3u8
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://game.shiuk.re:80/live/675576/444417/780500.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://game.shiuk.re:80/live/675576/444417/780501.m3u8
+#EXTINF:-1,FOX SPORTS 2 SD
+http://game.shiuk.re:80/live/675576/444417/780502.m3u8
+#EXTINF:-1,Futura SD
+http://game.shiuk.re:80/live/675576/444417/1152654.m3u8
+#EXTINF:-1,FX FHD
+http://game.shiuk.re:80/live/675576/444417/780198.m3u8
+#EXTINF:-1,FX HD
+http://game.shiuk.re:80/live/675576/444417/780199.m3u8
+#EXTINF:-1,FX SD
+http://game.shiuk.re:80/live/675576/444417/780200.m3u8
+#EXTINF:-1,GALINHA PINTADINHA 24HS
+http://game.shiuk.re:80/live/675576/444417/946488.m3u8
+#EXTINF:-1,GAUCHA ZH (Radios)
+http://game.shiuk.re:80/live/675576/444417/1152757.m3u8
+#EXTINF:-1,GAZETA FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152765.m3u8
+#EXTINF:-1,GAZETA HD SP
+http://game.shiuk.re:80/live/675576/444417/1152655.m3u8
+#EXTINF:-1,GERAÇÃO FUNK FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152768.m3u8
+#EXTINF:-1,GLOBO ALAGOAS FHD
+http://game.shiuk.re:80/live/675576/444417/946227.m3u8
+#EXTINF:-1,GLOBO ALAGOAS HD
+http://game.shiuk.re:80/live/675576/444417/946228.m3u8
+#EXTINF:-1,GLOBO BRASILIA FHD
+http://game.shiuk.re:80/live/675576/444417/946232.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD
+http://game.shiuk.re:80/live/675576/444417/946233.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD
+http://game.shiuk.re:80/live/675576/444417/946231.m3u8
+#EXTINF:-1,GLOBO CARUARU HD
+http://game.shiuk.re:80/live/675576/444417/946341.m3u8
+#EXTINF:-1,GLOBO CLOSED CAPTIONS SD
+http://game.shiuk.re:80/live/675576/444417/946234.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946690.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://game.shiuk.re:80/live/675576/444417/946691.m3u8
+#EXTINF:-1,GLOBO EPTV Campinas SD
+http://game.shiuk.re:80/live/675576/444417/946698.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
+http://game.shiuk.re:80/live/675576/444417/946692.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://game.shiuk.re:80/live/675576/444417/946693.m3u8
+#EXTINF:-1,GLOBO EPTV Ribeirao Preto SD
+http://game.shiuk.re:80/live/675576/444417/946699.m3u8
+#EXTINF:-1,GLOBO EPTV Sao Carlos SD
+http://game.shiuk.re:80/live/675576/444417/946694.m3u8
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946695.m3u8
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946696.m3u8
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS HD
+http://game.shiuk.re:80/live/675576/444417/946697.m3u8
+#EXTINF:-1,GLOBO GAZETA NORTE ES HD
+http://game.shiuk.re:80/live/675576/444417/946355.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://game.shiuk.re:80/live/675576/444417/946235.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://game.shiuk.re:80/live/675576/444417/946236.m3u8
+#EXTINF:-1,GLOBO INTER DO VALE FHD
+http://game.shiuk.re:80/live/675576/444417/946237.m3u8
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946272.m3u8
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946277.m3u8
+#EXTINF:-1,GLOBO INTER TV PLANIC SD
+http://game.shiuk.re:80/live/675576/444417/946268.m3u8
+#EXTINF:-1,GLOBO INTER TV PLANIC SD
+http://game.shiuk.re:80/live/675576/444417/946273.m3u8
+#EXTINF:-1,GLOBO INTER TV RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946269.m3u8
+#EXTINF:-1,GLOBO INTER TV RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946274.m3u8
+#EXTINF:-1,GLOBO INTER TV SERRANA HD
+http://game.shiuk.re:80/live/675576/444417/946270.m3u8
+#EXTINF:-1,GLOBO INTER TV SERRANA HD
+http://game.shiuk.re:80/live/675576/444417/946275.m3u8
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://game.shiuk.re:80/live/675576/444417/946238.m3u8
+#EXTINF:-1,GLOBO INTERIOR RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946373.m3u8
+#EXTINF:-1,GLOBO INTERIOR RJ HD
+http://game.shiuk.re:80/live/675576/444417/946374.m3u8
+#EXTINF:-1,GLOBO INTERTV CABO FRIO HD
+http://game.shiuk.re:80/live/675576/444417/946271.m3u8
+#EXTINF:-1,GLOBO INTERTV CABO FRIO HD
+http://game.shiuk.re:80/live/675576/444417/946276.m3u8
+#EXTINF:-1,GLOBO JOAÇABA FHD
+http://game.shiuk.re:80/live/675576/444417/946239.m3u8
+#EXTINF:-1,GLOBO JOAÇABA HD
+http://game.shiuk.re:80/live/675576/444417/946280.m3u8
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA FHD
+http://game.shiuk.re:80/live/675576/444417/946323.m3u8
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA HD
+http://game.shiuk.re:80/live/675576/444417/946324.m3u8
+#EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
+http://game.shiuk.re:80/live/675576/444417/946240.m3u8
+#EXTINF:-1,GLOBO JUIZ DE FORA MG HD
+http://game.shiuk.re:80/live/675576/444417/946241.m3u8
+#EXTINF:-1,GLOBO MACAPÁ HD
+http://game.shiuk.re:80/live/675576/444417/946242.m3u8
+#EXTINF:-1,GLOBO MANAUS HD
+http://game.shiuk.re:80/live/675576/444417/946243.m3u8
+#EXTINF:-1,GLOBO MANAUS SD
+http://game.shiuk.re:80/live/675576/444417/946309.m3u8
+#EXTINF:-1,GLOBO MINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946246.m3u8
+#EXTINF:-1,GLOBO MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946247.m3u8
+#EXTINF:-1,GLOBO MINAS SD
+http://game.shiuk.re:80/live/675576/444417/946245.m3u8
+#EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
+http://game.shiuk.re:80/live/675576/444417/946248.m3u8
+#EXTINF:-1,GLOBO MOGI DAS CRUZES HD
+http://game.shiuk.re:80/live/675576/444417/946249.m3u8
+#EXTINF:-1,GLOBO MONTES CLAROS MG FHD
+http://game.shiuk.re:80/live/675576/444417/946250.m3u8
+#EXTINF:-1,GLOBO MONTES CLAROS MG HD
+http://game.shiuk.re:80/live/675576/444417/946251.m3u8
+#EXTINF:-1,GLOBO NEWS FHD
+http://game.shiuk.re:80/live/675576/444417/780398.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://game.shiuk.re:80/live/675576/444417/780399.m3u8
+#EXTINF:-1,GLOBO NEWS SD
+http://game.shiuk.re:80/live/675576/444417/780400.m3u8
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://game.shiuk.re:80/live/675576/444417/946253.m3u8
+#EXTINF:-1,GLOBO NORDESTE HD
+http://game.shiuk.re:80/live/675576/444417/946254.m3u8
+#EXTINF:-1,GLOBO NORDESTE SD
+http://game.shiuk.re:80/live/675576/444417/946252.m3u8
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD
+http://game.shiuk.re:80/live/675576/444417/946278.m3u8
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://game.shiuk.re:80/live/675576/444417/946279.m3u8
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://game.shiuk.re:80/live/675576/444417/946281.m3u8
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://game.shiuk.re:80/live/675576/444417/946282.m3u8
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://game.shiuk.re:80/live/675576/444417/946283.m3u8
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://game.shiuk.re:80/live/675576/444417/946284.m3u8
+#EXTINF:-1,GLOBO NSC TV SANTA CATARINA HD
+http://game.shiuk.re:80/live/675576/444417/946285.m3u8
+#EXTINF:-1,GLOBO NSCTV FLORIANOPOLIS HD
+http://game.shiuk.re:80/live/675576/444417/946286.m3u8
+#EXTINF:-1,GLOBO PARAIBA HD
+http://game.shiuk.re:80/live/675576/444417/946255.m3u8
+#EXTINF:-1,GLOBO PETROLINA PE SD
+http://game.shiuk.re:80/live/675576/444417/946256.m3u8
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
+http://game.shiuk.re:80/live/675576/444417/946257.m3u8
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
+http://game.shiuk.re:80/live/675576/444417/946258.m3u8
+#EXTINF:-1,GLOBO RBS BAGÉ HD
+http://game.shiuk.re:80/live/675576/444417/946287.m3u8
+#EXTINF:-1,GLOBO RBS CAXIAS FHD
+http://game.shiuk.re:80/live/675576/444417/946288.m3u8
+#EXTINF:-1,GLOBO RBS CAXIAS HD
+http://game.shiuk.re:80/live/675576/444417/946289.m3u8
+#EXTINF:-1,GLOBO RBS CRUZ ALTA HD
+http://game.shiuk.re:80/live/675576/444417/946290.m3u8
+#EXTINF:-1,GLOBO RBS DOS VALES HD
+http://game.shiuk.re:80/live/675576/444417/946291.m3u8
+#EXTINF:-1,GLOBO RBS ERECHIM HD
+http://game.shiuk.re:80/live/675576/444417/946292.m3u8
+#EXTINF:-1,GLOBO RBS FHD
+http://game.shiuk.re:80/live/675576/444417/946293.m3u8
+#EXTINF:-1,GLOBO RBS HD
+http://game.shiuk.re:80/live/675576/444417/946294.m3u8
+#EXTINF:-1,GLOBO RBS PASSO FUNDO FHD
+http://game.shiuk.re:80/live/675576/444417/946295.m3u8
+#EXTINF:-1,GLOBO RBS PASSO FUNDO HD
+http://game.shiuk.re:80/live/675576/444417/946296.m3u8
+#EXTINF:-1,GLOBO RBS PELOTAS FHD
+http://game.shiuk.re:80/live/675576/444417/946297.m3u8
+#EXTINF:-1,GLOBO RBS PELOTAS HD
+http://game.shiuk.re:80/live/675576/444417/946298.m3u8
+#EXTINF:-1,GLOBO RBS RIO GRANDE HD
+http://game.shiuk.re:80/live/675576/444417/946299.m3u8
+#EXTINF:-1,GLOBO RBS SANTA CRUZ HD
+http://game.shiuk.re:80/live/675576/444417/946300.m3u8
+#EXTINF:-1,GLOBO RBS SANTA MARIA SD
+http://game.shiuk.re:80/live/675576/444417/946301.m3u8
+#EXTINF:-1,GLOBO RBS SANTA ROSA HD
+http://game.shiuk.re:80/live/675576/444417/946302.m3u8
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
+http://game.shiuk.re:80/live/675576/444417/946303.m3u8
+#EXTINF:-1,GLOBO RBS URUGUAIANA HD
+http://game.shiuk.re:80/live/675576/444417/946304.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA FHD
+http://game.shiuk.re:80/live/675576/444417/946307.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://game.shiuk.re:80/live/675576/444417/946308.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA PORTO VELHO FHD
+http://game.shiuk.re:80/live/675576/444417/946310.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA PORTO VELHO HD
+http://game.shiuk.re:80/live/675576/444417/946311.m3u8
+#EXTINF:-1,GLOBO RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946260.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://game.shiuk.re:80/live/675576/444417/946261.m3u8
+#EXTINF:-1,GLOBO RJ SD
+http://game.shiuk.re:80/live/675576/444417/946259.m3u8
+#EXTINF:-1,GLOBO RORAIMA FHD
+http://game.shiuk.re:80/live/675576/444417/946305.m3u8
+#EXTINF:-1,GLOBO RORAIMA HD
+http://game.shiuk.re:80/live/675576/444417/946306.m3u8
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://game.shiuk.re:80/live/675576/444417/946312.m3u8
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://game.shiuk.re:80/live/675576/444417/946313.m3u8
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://game.shiuk.re:80/live/675576/444417/946314.m3u8
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://game.shiuk.re:80/live/675576/444417/946315.m3u8
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU FHD
+http://game.shiuk.re:80/live/675576/444417/946316.m3u8
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://game.shiuk.re:80/live/675576/444417/946317.m3u8
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://game.shiuk.re:80/live/675576/444417/946318.m3u8
+#EXTINF:-1,GLOBO RPC PARANA HD
+http://game.shiuk.re:80/live/675576/444417/946319.m3u8
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD
+http://game.shiuk.re:80/live/675576/444417/946320.m3u8
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://game.shiuk.re:80/live/675576/444417/946321.m3u8
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+http://game.shiuk.re:80/live/675576/444417/946322.m3u8
+#EXTINF:-1,GLOBO SALVADOR FHD
+http://game.shiuk.re:80/live/675576/444417/946229.m3u8
+#EXTINF:-1,GLOBO SALVADOR HD
+http://game.shiuk.re:80/live/675576/444417/946230.m3u8
+#EXTINF:-1,GLOBO SERGIPE FHD
+http://game.shiuk.re:80/live/675576/444417/946263.m3u8
+#EXTINF:-1,GLOBO SERGIPE HD
+http://game.shiuk.re:80/live/675576/444417/946262.m3u8
+#EXTINF:-1,GLOBO SP FHD
+http://game.shiuk.re:80/live/675576/444417/946265.m3u8
+#EXTINF:-1,GLOBO SP FULL HD²
+http://game.shiuk.re:80/live/675576/444417/946266.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://game.shiuk.re:80/live/675576/444417/946267.m3u8
+#EXTINF:-1,GLOBO SP SD
+http://game.shiuk.re:80/live/675576/444417/946264.m3u8
+#EXTINF:-1,GLOBO TV ANHAGUERA FHD H265
+http://game.shiuk.re:80/live/675576/444417/946325.m3u8
+#EXTINF:-1,GLOBO TV ANHAGUERA HD
+http://game.shiuk.re:80/live/675576/444417/946326.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA ANAPOLIS FHD
+http://game.shiuk.re:80/live/675576/444417/946327.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA ANAPOLIS HD
+http://game.shiuk.re:80/live/675576/444417/946328.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA CATALAO FHD
+http://game.shiuk.re:80/live/675576/444417/946329.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA CATALAO HD
+http://game.shiuk.re:80/live/675576/444417/946330.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://game.shiuk.re:80/live/675576/444417/946331.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA ITUMBIARA FHD
+http://game.shiuk.re:80/live/675576/444417/946332.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA ITUMBIARA HD
+http://game.shiuk.re:80/live/675576/444417/946333.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA JATAI FHD
+http://game.shiuk.re:80/live/675576/444417/946334.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA JATAI HD
+http://game.shiuk.re:80/live/675576/444417/946335.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA LUZIANIA FHD
+http://game.shiuk.re:80/live/675576/444417/946336.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA LUZIANIA HD
+http://game.shiuk.re:80/live/675576/444417/946337.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA RIO VERDE FHD
+http://game.shiuk.re:80/live/675576/444417/946338.m3u8
+#EXTINF:-1,GLOBO TV ANHANGUERA RIO VERDE HD
+http://game.shiuk.re:80/live/675576/444417/946339.m3u8
+#EXTINF:-1,GLOBO TV ASA BRANCA FHD (GLOBO CARUARU-PE)
+http://game.shiuk.re:80/live/675576/444417/946340.m3u8
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA FHD
+http://game.shiuk.re:80/live/675576/444417/946342.m3u8
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA HD
+http://game.shiuk.re:80/live/675576/444417/946343.m3u8
+#EXTINF:-1,GLOBO TV CABUGI FHD
+http://game.shiuk.re:80/live/675576/444417/946344.m3u8
+#EXTINF:-1,GLOBO TV CABUGI HD
+http://game.shiuk.re:80/live/675576/444417/946345.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMERICA HD
+http://game.shiuk.re:80/live/675576/444417/946346.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMERICA NORTE HD
+http://game.shiuk.re:80/live/675576/444417/946347.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMERICA SUL HD
+http://game.shiuk.re:80/live/675576/444417/946348.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA TANGARÁ DA SERRA HD
+http://game.shiuk.re:80/live/675576/444417/946349.m3u8
+#EXTINF:-1,GLOBO TV CLUBE FHD
+http://game.shiuk.re:80/live/675576/444417/946351.m3u8
+#EXTINF:-1,GLOBO TV CLUBE HD
+http://game.shiuk.re:80/live/675576/444417/946350.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
+http://game.shiuk.re:80/live/675576/444417/946352.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://game.shiuk.re:80/live/675576/444417/946353.m3u8
+#EXTINF:-1,GLOBO TV GAZETA NOROESTE ES HD
+http://game.shiuk.re:80/live/675576/444417/946354.m3u8
+#EXTINF:-1,GLOBO TV GAZETA VITORIA ES FHD - GLOBO
+http://game.shiuk.re:80/live/675576/444417/946356.m3u8
+#EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD - GLOBO
+http://game.shiuk.re:80/live/675576/444417/946357.m3u8
+#EXTINF:-1,GLOBO TV GAZETA VITÓRIA ES HD
+http://game.shiuk.re:80/live/675576/444417/946358.m3u8
+#EXTINF:-1,GLOBO TV GIDEOES HD
+http://game.shiuk.re:80/live/675576/444417/946359.m3u8
+#EXTINF:-1,GLOBO TV INTEGRA JUIZ DE FORA HD
+http://game.shiuk.re:80/live/675576/444417/946360.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ FHD
+http://game.shiuk.re:80/live/675576/444417/946361.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ HD
+http://game.shiuk.re:80/live/675576/444417/946362.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO DIVINÓPOLIS FHD
+http://game.shiuk.re:80/live/675576/444417/946363.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO DIVINÓPOLIS HD
+http://game.shiuk.re:80/live/675576/444417/946364.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO HD
+http://game.shiuk.re:80/live/675576/444417/946365.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA FHD
+http://game.shiuk.re:80/live/675576/444417/946366.m3u8
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA HD
+http://game.shiuk.re:80/live/675576/444417/946367.m3u8
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://game.shiuk.re:80/live/675576/444417/1172545.m3u8
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://game.shiuk.re:80/live/675576/444417/1172546.m3u8
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIZ HD
+http://game.shiuk.re:80/live/675576/444417/946368.m3u8
+#EXTINF:-1,GLOBO TV MORENA CORUMBÁ HD
+http://game.shiuk.re:80/live/675576/444417/946369.m3u8
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://game.shiuk.re:80/live/675576/444417/946370.m3u8
+#EXTINF:-1,GLOBO TV MORENA HD
+http://game.shiuk.re:80/live/675576/444417/946371.m3u8
+#EXTINF:-1,GLOBO TV MORENA PONTA PORÃ HD
+http://game.shiuk.re:80/live/675576/444417/946372.m3u8
+#EXTINF:-1,GLOBO TV SANTA CRUZ TV BAHIA HD
+http://game.shiuk.re:80/live/675576/444417/946375.m3u8
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://game.shiuk.re:80/live/675576/444417/946376.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://game.shiuk.re:80/live/675576/444417/946377.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://game.shiuk.re:80/live/675576/444417/946378.m3u8
+#EXTINF:-1,GLOBO TV TRIBUNA FHD
+http://game.shiuk.re:80/live/675576/444417/946379.m3u8
+#EXTINF:-1,GLOBO TV TRIBUNA HD
+http://game.shiuk.re:80/live/675576/444417/946380.m3u8
+#EXTINF:-1,GLOBO TV VANGUARDA DOS CAMPOS SD
+http://game.shiuk.re:80/live/675576/444417/946382.m3u8
+#EXTINF:-1,GLOBO TV VANGUARDA FHD
+http://game.shiuk.re:80/live/675576/444417/946383.m3u8
+#EXTINF:-1,GLOBO TV VANGUARDA HD
+http://game.shiuk.re:80/live/675576/444417/946384.m3u8
+#EXTINF:-1,GLOBO TV VANGUARDA TATUAPÉ SD
+http://game.shiuk.re:80/live/675576/444417/946385.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI HD
+http://game.shiuk.re:80/live/675576/444417/946386.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+http://game.shiuk.re:80/live/675576/444417/946387.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://game.shiuk.re:80/live/675576/444417/946388.m3u8
+#EXTINF:-1,GLOOB FHD
+http://game.shiuk.re:80/live/675576/444417/779868.m3u8
+#EXTINF:-1,GLOOB HD
+http://game.shiuk.re:80/live/675576/444417/779869.m3u8
+#EXTINF:-1,GLOOBINHO FHD
+http://game.shiuk.re:80/live/675576/444417/779871.m3u8
+#EXTINF:-1,GLOOBINHO HD
+http://game.shiuk.re:80/live/675576/444417/779872.m3u8
+#EXTINF:-1,GNT FHD
+http://game.shiuk.re:80/live/675576/444417/779972.m3u8
+#EXTINF:-1,GNT HD
+http://game.shiuk.re:80/live/675576/444417/779973.m3u8
+#EXTINF:-1,GNT SD
+http://game.shiuk.re:80/live/675576/444417/779974.m3u8
+#EXTINF:-1,Gospel Cartoon SD
+http://game.shiuk.re:80/live/675576/444417/1152683.m3u8
+#EXTINF:-1,Gospel Movie TV HD
+http://game.shiuk.re:80/live/675576/444417/1152684.m3u8
+#EXTINF:-1,GUARDIÕES DA GALAXIA 24HS
+http://game.shiuk.re:80/live/675576/444417/946489.m3u8
+#EXTINF:-1,H2 FHD
+http://game.shiuk.re:80/live/675576/444417/779906.m3u8
+#EXTINF:-1,H2 HD
+http://game.shiuk.re:80/live/675576/444417/779907.m3u8
+#EXTINF:-1,H2 SD
+http://game.shiuk.re:80/live/675576/444417/779908.m3u8
+#EXTINF:-1,HALLOWEEN 24HS
+http://game.shiuk.re:80/live/675576/444417/946490.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://game.shiuk.re:80/live/675576/444417/780201.m3u8
+#EXTINF:-1,HBO 2 HD
+http://game.shiuk.re:80/live/675576/444417/780202.m3u8
+#EXTINF:-1,HBO 2 SD
+http://game.shiuk.re:80/live/675576/444417/780204.m3u8
+#EXTINF:-1,HBO FAMILY FHD
+http://game.shiuk.re:80/live/675576/444417/780205.m3u8
+#EXTINF:-1,HBO FAMILY FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152694.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://game.shiuk.re:80/live/675576/444417/780206.m3u8
+#EXTINF:-1,HBO FAMILY HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152695.m3u8
+#EXTINF:-1,HBO FAMILY SD
+http://game.shiuk.re:80/live/675576/444417/780207.m3u8
+#EXTINF:-1,HBO FHD
+http://game.shiuk.re:80/live/675576/444417/780208.m3u8
+#EXTINF:-1,HBO FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152696.m3u8
+#EXTINF:-1,HBO HD
+http://game.shiuk.re:80/live/675576/444417/780209.m3u8
+#EXTINF:-1,HBO HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152697.m3u8
+#EXTINF:-1,HBO MAX (1)
+http://game.shiuk.re:80/live/675576/444417/946636.m3u8
+#EXTINF:-1,HBO MAX (2)
+http://game.shiuk.re:80/live/675576/444417/946637.m3u8
+#EXTINF:-1,HBO MAX (3)
+http://game.shiuk.re:80/live/675576/444417/946638.m3u8
+#EXTINF:-1,HBO MAX (4)
+http://game.shiuk.re:80/live/675576/444417/946639.m3u8
+#EXTINF:-1,HBO MAX (5)
+http://game.shiuk.re:80/live/675576/444417/946640.m3u8
+#EXTINF:-1,HBO MAX (6)
+http://game.shiuk.re:80/live/675576/444417/946641.m3u8
+#EXTINF:-1,HBO MUNDI FHD
+http://game.shiuk.re:80/live/675576/444417/780211.m3u8
+#EXTINF:-1,HBO MUNDI FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152698.m3u8
+#EXTINF:-1,HBO MUNDI HD
+http://game.shiuk.re:80/live/675576/444417/780212.m3u8
+#EXTINF:-1,HBO MUNDI HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152699.m3u8
+#EXTINF:-1,HBO MUNDI SD
+http://game.shiuk.re:80/live/675576/444417/780214.m3u8
+#EXTINF:-1,HBO PLUS FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152700.m3u8
+#EXTINF:-1,HBO PLUS HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152701.m3u8
+#EXTINF:-1,HBO PLUS+ FHD
+http://game.shiuk.re:80/live/675576/444417/780215.m3u8
+#EXTINF:-1,HBO PLUS+ HD
+http://game.shiuk.re:80/live/675576/444417/780216.m3u8
+#EXTINF:-1,HBO PLUS+ SD
+http://game.shiuk.re:80/live/675576/444417/780218.m3u8
+#EXTINF:-1,HBO POP FHD
+http://game.shiuk.re:80/live/675576/444417/780219.m3u8
+#EXTINF:-1,HBO POP FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152702.m3u8
+#EXTINF:-1,HBO POP HD
+http://game.shiuk.re:80/live/675576/444417/780220.m3u8
+#EXTINF:-1,HBO POP SD
+http://game.shiuk.re:80/live/675576/444417/780222.m3u8
+#EXTINF:-1,HBO SD
+http://game.shiuk.re:80/live/675576/444417/780223.m3u8
+#EXTINF:-1,HBO SIGNATURE FHD
+http://game.shiuk.re:80/live/675576/444417/780224.m3u8
+#EXTINF:-1,HBO SIGNATURE FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152703.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://game.shiuk.re:80/live/675576/444417/780225.m3u8
+#EXTINF:-1,HBO SIGNATURE HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152704.m3u8
+#EXTINF:-1,HBO SIGNATURE SD
+http://game.shiuk.re:80/live/675576/444417/780227.m3u8
+#EXTINF:-1,HBO XTREAM HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152705.m3u8
+#EXTINF:-1,HBO XTREME FHD
+http://game.shiuk.re:80/live/675576/444417/780228.m3u8
+#EXTINF:-1,HBO XTREME FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152706.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://game.shiuk.re:80/live/675576/444417/780229.m3u8
+#EXTINF:-1,HE-MAN 24HS
+http://game.shiuk.re:80/live/675576/444417/946491.m3u8
+#EXTINF:-1,HGTV FHD
+http://game.shiuk.re:80/live/675576/444417/779975.m3u8
+#EXTINF:-1,HGTV HD
+http://game.shiuk.re:80/live/675576/444417/779976.m3u8
+#EXTINF:-1,HGTV SD
+http://game.shiuk.re:80/live/675576/444417/779977.m3u8
+#EXTINF:-1,HISTORIA BIBLICA PARA CRIANCA
+http://game.shiuk.re:80/live/675576/444417/1152685.m3u8
+#EXTINF:-1,HISTORIAS DISNEY 24HS
+http://game.shiuk.re:80/live/675576/444417/946492.m3u8
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://game.shiuk.re:80/live/675576/444417/946493.m3u8
+#EXTINF:-1,HOMEM DE FERRO 24HS
+http://game.shiuk.re:80/live/675576/444417/946494.m3u8
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://game.shiuk.re:80/live/675576/444417/946495.m3u8
+#EXTINF:-1,HÉRCULES 24HS
+http://game.shiuk.re:80/live/675576/444417/946496.m3u8
+#EXTINF:-1,INCRÍVEL HULK 24HS
+http://game.shiuk.re:80/live/675576/444417/946497.m3u8
+#EXTINF:-1,JACK E OS PIRATAS 24HR
+http://game.shiuk.re:80/live/675576/444417/946498.m3u8
+#EXTINF:-1,JACK-CHAN 24HS
+http://game.shiuk.re:80/live/675576/444417/946499.m3u8
+#EXTINF:-1,JASPION 24HS
+http://game.shiuk.re:80/live/675576/444417/946500.m3u8
+#EXTINF:-1,JAZON Z 24HRS
+http://game.shiuk.re:80/live/675576/444417/946501.m3u8
+#EXTINF:-1,JB FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152763.m3u8
+#EXTINF:-1,JIRAYA O INCRÍVEL NINJA 24HS
+http://game.shiuk.re:80/live/675576/444417/946502.m3u8
+#EXTINF:-1,JOVEM PAM SP (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152753.m3u8
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://game.shiuk.re:80/live/675576/444417/780401.m3u8
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://game.shiuk.re:80/live/675576/444417/780402.m3u8
+#EXTINF:-1,JURASSIC WORLD 24HRS
+http://game.shiuk.re:80/live/675576/444417/946503.m3u8
+#EXTINF:-1,KENAN E KEL 24HS
+http://game.shiuk.re:80/live/675576/444417/946504.m3u8
+#EXTINF:-1,LIFETIME FHD
+http://game.shiuk.re:80/live/675576/444417/779978.m3u8
+#EXTINF:-1,LIFETIME HD
+http://game.shiuk.re:80/live/675576/444417/779979.m3u8
+#EXTINF:-1,LIFETIME SD
+http://game.shiuk.re:80/live/675576/444417/779980.m3u8
+#EXTINF:-1,LIGA DA JUSTICA 24HS
+http://game.shiuk.re:80/live/675576/444417/946505.m3u8
+#EXTINF:-1,LIGA FUTSAL 2024 (1)
+http://game.shiuk.re:80/live/675576/444417/946642.m3u8
+#EXTINF:-1,LIGA FUTSAL 2024 (2)
+http://game.shiuk.re:80/live/675576/444417/946643.m3u8
+#EXTINF:-1,LIGA FUTSAL 2024 (3)
+http://game.shiuk.re:80/live/675576/444417/946644.m3u8
+#EXTINF:-1,LIGA FUTSAL 2024 (4)
+http://game.shiuk.re:80/live/675576/444417/946645.m3u8
+#EXTINF:-1,LIKE HD
+http://game.shiuk.re:80/live/675576/444417/779981.m3u8
+#EXTINF:-1,LULUZINHA 24HS
+http://game.shiuk.re:80/live/675576/444417/946506.m3u8
+#EXTINF:-1,MEDABOTS 24HS
+http://game.shiuk.re:80/live/675576/444417/946507.m3u8
+#EXTINF:-1,MEGA MAN 24HRS
+http://game.shiuk.re:80/live/675576/444417/946508.m3u8
+#EXTINF:-1,MEGAMAN 24HS
+http://game.shiuk.re:80/live/675576/444417/946509.m3u8
+#EXTINF:-1,MEGAPIX FHD
+http://game.shiuk.re:80/live/675576/444417/780231.m3u8
+#EXTINF:-1,MEGAPIX FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152707.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://game.shiuk.re:80/live/675576/444417/780232.m3u8
+#EXTINF:-1,MEGAPIX HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152708.m3u8
+#EXTINF:-1,MEGAPIX SD
+http://game.shiuk.re:80/live/675576/444417/780233.m3u8
+#EXTINF:-1,METROPOLITANA FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152756.m3u8
+#EXTINF:-1,METROPOLITANA SERTANEJA (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152761.m3u8
+#EXTINF:-1,MIX FM SP (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152760.m3u8
+#EXTINF:-1,MODO VIAGEM FHD
+http://game.shiuk.re:80/live/675576/444417/779984.m3u8
+#EXTINF:-1,MODO VIAGEM HD
+http://game.shiuk.re:80/live/675576/444417/779985.m3u8
+#EXTINF:-1,MODO VIAGEM SD
+http://game.shiuk.re:80/live/675576/444417/779986.m3u8
+#EXTINF:-1,MORTAL KOMBAT 24HS
+http://game.shiuk.re:80/live/675576/444417/946510.m3u8
+#EXTINF:-1,MR.BEN 24HS
+http://game.shiuk.re:80/live/675576/444417/946511.m3u8
+#EXTINF:-1,MTV 00S HD
+http://game.shiuk.re:80/live/675576/444417/779987.m3u8
+#EXTINF:-1,MTV FHD
+http://game.shiuk.re:80/live/675576/444417/779988.m3u8
+#EXTINF:-1,MTV HD
+http://game.shiuk.re:80/live/675576/444417/779989.m3u8
+#EXTINF:-1,MTV LIVE FHD
+http://game.shiuk.re:80/live/675576/444417/779990.m3u8
+#EXTINF:-1,MTV SD
+http://game.shiuk.re:80/live/675576/444417/779992.m3u8
+#EXTINF:-1,MULTISHOW FHD
+http://game.shiuk.re:80/live/675576/444417/779993.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://game.shiuk.re:80/live/675576/444417/779994.m3u8
+#EXTINF:-1,MULTISHOW SD
+http://game.shiuk.re:80/live/675576/444417/779995.m3u8
+#EXTINF:-1,MUNDIAL IDEAL FHD
+http://game.shiuk.re:80/live/675576/444417/1152657.m3u8
+#EXTINF:-1,MUNDIAL IDEAL HD
+http://game.shiuk.re:80/live/675576/444417/1152658.m3u8
+#EXTINF:-1,MUNDIAL IDEAL SD
+http://game.shiuk.re:80/live/675576/444417/1152656.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://game.shiuk.re:80/live/675576/444417/779997.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://game.shiuk.re:80/live/675576/444417/779998.m3u8
+#EXTINF:-1,NARUTO 24HS
+http://game.shiuk.re:80/live/675576/444417/946512.m3u8
+#EXTINF:-1,NARUTO SHIPPUDEN DUB 24HS
+http://game.shiuk.re:80/live/675576/444417/946513.m3u8
+#EXTINF:-1,NATGEO FHD
+http://game.shiuk.re:80/live/675576/444417/779909.m3u8
+#EXTINF:-1,NATGEO HD
+http://game.shiuk.re:80/live/675576/444417/779910.m3u8
+#EXTINF:-1,NATGEO SD
+http://game.shiuk.re:80/live/675576/444417/779911.m3u8
+#EXTINF:-1,NBA HD
+http://game.shiuk.re:80/live/675576/444417/946646.m3u8
+#EXTINF:-1,NBA PASS (1)
+http://game.shiuk.re:80/live/675576/444417/946647.m3u8
+#EXTINF:-1,NBA PASS (2)
+http://game.shiuk.re:80/live/675576/444417/946648.m3u8
+#EXTINF:-1,NBA PASS (3)
+http://game.shiuk.re:80/live/675576/444417/946649.m3u8
+#EXTINF:-1,NBA PASS (4)
+http://game.shiuk.re:80/live/675576/444417/946650.m3u8
+#EXTINF:-1,NBA PASS LIVE 1 HD
+http://game.shiuk.re:80/live/675576/444417/946651.m3u8
+#EXTINF:-1,NICK FHD
+http://game.shiuk.re:80/live/675576/444417/779875.m3u8
+#EXTINF:-1,NICK HD
+http://game.shiuk.re:80/live/675576/444417/779876.m3u8
+#EXTINF:-1,NICK JR FHD
+http://game.shiuk.re:80/live/675576/444417/779877.m3u8
+#EXTINF:-1,NICK JR HD
+http://game.shiuk.re:80/live/675576/444417/779878.m3u8
+#EXTINF:-1,NICK JR SD
+http://game.shiuk.re:80/live/675576/444417/779879.m3u8
+#EXTINF:-1,NICK SD
+http://game.shiuk.re:80/live/675576/444417/779880.m3u8
+#EXTINF:-1,NOSSO FUTEBOL (1)
+http://game.shiuk.re:80/live/675576/444417/946652.m3u8
+#EXTINF:-1,NOSSO FUTEBOL (2)
+http://game.shiuk.re:80/live/675576/444417/946653.m3u8
+#EXTINF:-1,NOSSO FUTEBOL (3)
+http://game.shiuk.re:80/live/675576/444417/946654.m3u8
+#EXTINF:-1,NOSSO FUTEBOL (4)
+http://game.shiuk.re:80/live/675576/444417/946655.m3u8
+#EXTINF:-1,NOSSO FUTEBOL HD (1)
+http://game.shiuk.re:80/live/675576/444417/946656.m3u8
+#EXTINF:-1,NOSSO FUTEBOL HD (2)
+http://game.shiuk.re:80/live/675576/444417/946657.m3u8
+#EXTINF:-1,NOSSO FUTEBOL HD (3)
+http://game.shiuk.re:80/live/675576/444417/946658.m3u8
+#EXTINF:-1,NOSSO FUTEBOL HD (4)
+http://game.shiuk.re:80/live/675576/444417/946659.m3u8
+#EXTINF:-1,NOVO TEMPO SD
+http://game.shiuk.re:80/live/675576/444417/1152677.m3u8
+#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY 24HS
+http://game.shiuk.re:80/live/675576/444417/946514.m3u8
+#EXTINF:-1,O INSPETOR 24HS
+http://game.shiuk.re:80/live/675576/444417/946515.m3u8
+#EXTINF:-1,O MASKARA 24HS
+http://game.shiuk.re:80/live/675576/444417/946516.m3u8
+#EXTINF:-1,OFF FHD
+http://game.shiuk.re:80/live/675576/444417/779999.m3u8
+#EXTINF:-1,OFF HD
+http://game.shiuk.re:80/live/675576/444417/780000.m3u8
+#EXTINF:-1,OFF SD
+http://game.shiuk.re:80/live/675576/444417/780001.m3u8
+#EXTINF:-1,ONE FOOTBALL (1)
+http://game.shiuk.re:80/live/675576/444417/946660.m3u8
+#EXTINF:-1,ONE FOOTBALL (2)
+http://game.shiuk.re:80/live/675576/444417/946661.m3u8
+#EXTINF:-1,ONE FOOTBALL (3)
+http://game.shiuk.re:80/live/675576/444417/946662.m3u8
+#EXTINF:-1,ONE FOOTBALL (4)
+http://game.shiuk.re:80/live/675576/444417/946663.m3u8
+#EXTINF:-1,OS ANJINHOS - RUGRATS 24HS
+http://game.shiuk.re:80/live/675576/444417/946517.m3u8
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://game.shiuk.re:80/live/675576/444417/946518.m3u8
+#EXTINF:-1,OS FLINTSTONES 24HS
+http://game.shiuk.re:80/live/675576/444417/946519.m3u8
+#EXTINF:-1,OS SIMPSONS 24HS
+http://game.shiuk.re:80/live/675576/444417/946520.m3u8
+#EXTINF:-1,OS VINGADORES 24HS
+http://game.shiuk.re:80/live/675576/444417/946521.m3u8
+#EXTINF:-1,PAPA-LÉGUAS 24HS
+http://game.shiuk.re:80/live/675576/444417/946522.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://game.shiuk.re:80/live/675576/444417/780235.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://game.shiuk.re:80/live/675576/444417/780236.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://game.shiuk.re:80/live/675576/444417/780237.m3u8
+#EXTINF:-1,PARAMOUNT+ (1)
+http://game.shiuk.re:80/live/675576/444417/946666.m3u8
+#EXTINF:-1,PARAMOUNT+ (2)
+http://game.shiuk.re:80/live/675576/444417/946664.m3u8
+#EXTINF:-1,PARAMOUNT+ (3)
+http://game.shiuk.re:80/live/675576/444417/946667.m3u8
+#EXTINF:-1,PARAMOUNT+ (4)
+http://game.shiuk.re:80/live/675576/444417/946668.m3u8
+#EXTINF:-1,PARAMOUNT+ (5)
+http://game.shiuk.re:80/live/675576/444417/946665.m3u8
+#EXTINF:-1,PARAMOUNT+ (5)
+http://game.shiuk.re:80/live/675576/444417/946669.m3u8
+#EXTINF:-1,PAULISTÃO PLAY (1)
+http://game.shiuk.re:80/live/675576/444417/946670.m3u8
+#EXTINF:-1,PAULISTÃO PLAY (2)
+http://game.shiuk.re:80/live/675576/444417/946671.m3u8
+#EXTINF:-1,PAULISTÃO PLAY (3)
+http://game.shiuk.re:80/live/675576/444417/946672.m3u8
+#EXTINF:-1,PAULISTÃO PLAY (4)
+http://game.shiuk.re:80/live/675576/444417/946673.m3u8
+#EXTINF:-1,PEPPA PIG 24HS
+http://game.shiuk.re:80/live/675576/444417/946523.m3u8
+#EXTINF:-1,PEQUENOS ESPIOES 24 HRS
+http://game.shiuk.re:80/live/675576/444417/946524.m3u8
+#EXTINF:-1,PERNALONGA 24HS
+http://game.shiuk.re:80/live/675576/444417/946525.m3u8
+#EXTINF:-1,PHINEAS E FERB 24HS
+http://game.shiuk.re:80/live/675576/444417/946526.m3u8
+#EXTINF:-1,PICA PAU 24HS
+http://game.shiuk.re:80/live/675576/444417/946527.m3u8
+#EXTINF:-1,PINK-E-CEREBRO 24HS
+http://game.shiuk.re:80/live/675576/444417/946528.m3u8
+#EXTINF:-1,PlayTV SD
+http://game.shiuk.re:80/live/675576/444417/1152659.m3u8
+#EXTINF:-1,POKEMON 24HS
+http://game.shiuk.re:80/live/675576/444417/946529.m3u8
+#EXTINF:-1,POLICIA 24HRS
+http://game.shiuk.re:80/live/675576/444417/946530.m3u8
+#EXTINF:-1,PolishopTV SD
+http://game.shiuk.re:80/live/675576/444417/1152660.m3u8
+#EXTINF:-1,POP FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152773.m3u8
+#EXTINF:-1,POPEYE O MARINHEIRO 24HS
+http://game.shiuk.re:80/live/675576/444417/946531.m3u8
+#EXTINF:-1,Premiere 1 HD
+http://game.shiuk.re:80/live/675576/444417/1152725.m3u8
+#EXTINF:-1,Premiere 1 SD
+http://game.shiuk.re:80/live/675576/444417/1152726.m3u8
+#EXTINF:-1,PREMIERE 2 FHD
+http://game.shiuk.re:80/live/675576/444417/779915.m3u8
+#EXTINF:-1,Premiere 2 FHD
+http://game.shiuk.re:80/live/675576/444417/1152727.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://game.shiuk.re:80/live/675576/444417/779916.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://game.shiuk.re:80/live/675576/444417/1152728.m3u8
+#EXTINF:-1,PREMIERE 2 SD
+http://game.shiuk.re:80/live/675576/444417/779917.m3u8
+#EXTINF:-1,Premiere 2 SD
+http://game.shiuk.re:80/live/675576/444417/1152729.m3u8
+#EXTINF:-1,PREMIERE 3 FHD
+http://game.shiuk.re:80/live/675576/444417/779918.m3u8
+#EXTINF:-1,Premiere 3 FHD
+http://game.shiuk.re:80/live/675576/444417/1152730.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://game.shiuk.re:80/live/675576/444417/779919.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://game.shiuk.re:80/live/675576/444417/1152731.m3u8
+#EXTINF:-1,PREMIERE 3 SD
+http://game.shiuk.re:80/live/675576/444417/779920.m3u8
+#EXTINF:-1,Premiere 3 SD
+http://game.shiuk.re:80/live/675576/444417/1152732.m3u8
+#EXTINF:-1,PREMIERE 4 FHD
+http://game.shiuk.re:80/live/675576/444417/779921.m3u8
+#EXTINF:-1,Premiere 4 FHD
+http://game.shiuk.re:80/live/675576/444417/1152733.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://game.shiuk.re:80/live/675576/444417/779922.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://game.shiuk.re:80/live/675576/444417/1152734.m3u8
+#EXTINF:-1,PREMIERE 4 SD
+http://game.shiuk.re:80/live/675576/444417/779923.m3u8
+#EXTINF:-1,Premiere 4 SD
+http://game.shiuk.re:80/live/675576/444417/1152735.m3u8
+#EXTINF:-1,PREMIERE 5 FHD
+http://game.shiuk.re:80/live/675576/444417/779924.m3u8
+#EXTINF:-1,Premiere 5 FHD
+http://game.shiuk.re:80/live/675576/444417/1152736.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://game.shiuk.re:80/live/675576/444417/779925.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://game.shiuk.re:80/live/675576/444417/1152737.m3u8
+#EXTINF:-1,PREMIERE 5 SD
+http://game.shiuk.re:80/live/675576/444417/779926.m3u8
+#EXTINF:-1,Premiere 5 SD
+http://game.shiuk.re:80/live/675576/444417/1152738.m3u8
+#EXTINF:-1,PREMIERE 6 FHD
+http://game.shiuk.re:80/live/675576/444417/779927.m3u8
+#EXTINF:-1,Premiere 6 FHD
+http://game.shiuk.re:80/live/675576/444417/1152739.m3u8
+#EXTINF:-1,PREMIERE 6 HD
+http://game.shiuk.re:80/live/675576/444417/779928.m3u8
+#EXTINF:-1,Premiere 6 HD
+http://game.shiuk.re:80/live/675576/444417/1152740.m3u8
+#EXTINF:-1,PREMIERE 6 SD
+http://game.shiuk.re:80/live/675576/444417/779929.m3u8
+#EXTINF:-1,Premiere 6 SD
+http://game.shiuk.re:80/live/675576/444417/1152741.m3u8
+#EXTINF:-1,PREMIERE 7 FHD
+http://game.shiuk.re:80/live/675576/444417/779930.m3u8
+#EXTINF:-1,Premiere 7 FHD
+http://game.shiuk.re:80/live/675576/444417/1152742.m3u8
+#EXTINF:-1,PREMIERE 7 HD
+http://game.shiuk.re:80/live/675576/444417/779931.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://game.shiuk.re:80/live/675576/444417/1152743.m3u8
+#EXTINF:-1,PREMIERE 7 SD
+http://game.shiuk.re:80/live/675576/444417/779932.m3u8
+#EXTINF:-1,Premiere 7 SD
+http://game.shiuk.re:80/live/675576/444417/1152744.m3u8
+#EXTINF:-1,PREMIERE 8
+http://game.shiuk.re:80/live/675576/444417/779933.m3u8
+#EXTINF:-1,Premiere 8 FHD
+http://game.shiuk.re:80/live/675576/444417/1152745.m3u8
+#EXTINF:-1,Premiere 8 HD
+http://game.shiuk.re:80/live/675576/444417/1152746.m3u8
+#EXTINF:-1,Premiere 8 SD
+http://game.shiuk.re:80/live/675576/444417/1152747.m3u8
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://game.shiuk.re:80/live/675576/444417/779934.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://game.shiuk.re:80/live/675576/444417/779935.m3u8
+#EXTINF:-1,PREMIERE CLUBES SD
+http://game.shiuk.re:80/live/675576/444417/779936.m3u8
+#EXTINF:-1,PREMIERE CLUBES UHD
+http://game.shiuk.re:80/live/675576/444417/779937.m3u8
+#EXTINF:-1,PREMIERE MOSAICO|MULTI-TELAS
+http://game.shiuk.re:80/live/675576/444417/779938.m3u8
+#EXTINF:-1,PRIME VIDEO 1
+http://game.shiuk.re:80/live/675576/444417/946604.m3u8
+#EXTINF:-1,PRIME VIDEO 2
+http://game.shiuk.re:80/live/675576/444417/946605.m3u8
+#EXTINF:-1,PRIME VIDEO 3
+http://game.shiuk.re:80/live/675576/444417/946606.m3u8
+#EXTINF:-1,PRIME VIDEO 4
+http://game.shiuk.re:80/live/675576/444417/946607.m3u8
+#EXTINF:-1,PRIME VIDEO 5
+http://game.shiuk.re:80/live/675576/444417/946608.m3u8
+#EXTINF:-1,RAMBO 24HS
+http://game.shiuk.re:80/live/675576/444417/946532.m3u8
+#EXTINF:-1,RECORD BELEM HD
+http://game.shiuk.re:80/live/675576/444417/946213.m3u8
+#EXTINF:-1,RECORD BH MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946197.m3u8
+#EXTINF:-1,RECORD BRASILIA HD
+http://game.shiuk.re:80/live/675576/444417/946198.m3u8
+#EXTINF:-1,RECORD CABRALIA HD
+http://game.shiuk.re:80/live/675576/444417/946223.m3u8
+#EXTINF:-1,RECORD ES HD
+http://game.shiuk.re:80/live/675576/444417/946226.m3u8
+#EXTINF:-1,RECORD GOIANIA FHD
+http://game.shiuk.re:80/live/675576/444417/946214.m3u8
+#EXTINF:-1,RECORD GOIANIA HD
+http://game.shiuk.re:80/live/675576/444417/946215.m3u8
+#EXTINF:-1,RECORD INTERIOR RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946221.m3u8
+#EXTINF:-1,RECORD ITAPOAN HD
+http://game.shiuk.re:80/live/675576/444417/946200.m3u8
+#EXTINF:-1,RECORD ITAPOAN SD
+http://game.shiuk.re:80/live/675576/444417/946199.m3u8
+#EXTINF:-1,RECORD LITORAL HD
+http://game.shiuk.re:80/live/675576/444417/946216.m3u8
+#EXTINF:-1,RECORD MANAUS HD
+http://game.shiuk.re:80/live/675576/444417/946201.m3u8
+#EXTINF:-1,RECORD MARANHAO SD
+http://game.shiuk.re:80/live/675576/444417/946202.m3u8
+#EXTINF:-1,RECORD MINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946203.m3u8
+#EXTINF:-1,RECORD MINAS HD
+http://game.shiuk.re:80/live/675576/444417/946217.m3u8
+#EXTINF:-1,RECORD NEWS FHD
+http://game.shiuk.re:80/live/675576/444417/780403.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://game.shiuk.re:80/live/675576/444417/780404.m3u8
+#EXTINF:-1,RECORD NEWS SD
+http://game.shiuk.re:80/live/675576/444417/780405.m3u8
+#EXTINF:-1,RECORD PARANÁ FHD
+http://game.shiuk.re:80/live/675576/444417/946218.m3u8
+#EXTINF:-1,RECORD PARANÁ HD
+http://game.shiuk.re:80/live/675576/444417/946219.m3u8
+#EXTINF:-1,RECORD RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946204.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://game.shiuk.re:80/live/675576/444417/946205.m3u8
+#EXTINF:-1,RECORD RJ INTERIOR HD
+http://game.shiuk.re:80/live/675576/444417/946222.m3u8
+#EXTINF:-1,RECORD RS FHD
+http://game.shiuk.re:80/live/675576/444417/946206.m3u8
+#EXTINF:-1,RECORD RS HD
+http://game.shiuk.re:80/live/675576/444417/946207.m3u8
+#EXTINF:-1,RECORD SANTA CATARINA HD
+http://game.shiuk.re:80/live/675576/444417/946220.m3u8
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD
+http://game.shiuk.re:80/live/675576/444417/946208.m3u8
+#EXTINF:-1,RECORD SD
+http://game.shiuk.re:80/live/675576/444417/946212.m3u8
+#EXTINF:-1,RECORD SERGIPE HD
+http://game.shiuk.re:80/live/675576/444417/946209.m3u8
+#EXTINF:-1,RECORD SP FHD
+http://game.shiuk.re:80/live/675576/444417/946210.m3u8
+#EXTINF:-1,RECORD SP HD
+http://game.shiuk.re:80/live/675576/444417/946211.m3u8
+#EXTINF:-1,RECORD THATHI CAMPINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946224.m3u8
+#EXTINF:-1,RECORD THATHI CAMPINAS HD
+http://game.shiuk.re:80/live/675576/444417/946225.m3u8
+#EXTINF:-1,REDE 21 HD (RELIGIOSO)
+http://game.shiuk.re:80/live/675576/444417/1152686.m3u8
+#EXTINF:-1,Rede Brasil SD
+http://game.shiuk.re:80/live/675576/444417/1152661.m3u8
+#EXTINF:-1,REDE FURACÃO FHD
+http://game.shiuk.re:80/live/675576/444417/780529.m3u8
+#EXTINF:-1,REDE GOSPEL
+http://game.shiuk.re:80/live/675576/444417/1152687.m3u8
+#EXTINF:-1,REDE MINAS HD
+http://game.shiuk.re:80/live/675576/444417/1152662.m3u8
+#EXTINF:-1,REDE PLENITUDE TV HD
+http://game.shiuk.re:80/live/675576/444417/1152688.m3u8
+#EXTINF:-1,Rede Super SD
+http://game.shiuk.re:80/live/675576/444417/1152663.m3u8
+#EXTINF:-1,REDE TV FHD H264
+http://game.shiuk.re:80/live/675576/444417/1152665.m3u8
+#EXTINF:-1,Rede TV FHD H265
+http://game.shiuk.re:80/live/675576/444417/1152666.m3u8
+#EXTINF:-1,Rede TV HD
+http://game.shiuk.re:80/live/675576/444417/1152667.m3u8
+#EXTINF:-1,Rede TV SD
+http://game.shiuk.re:80/live/675576/444417/1152664.m3u8
+#EXTINF:-1,Rede Vida
+http://game.shiuk.re:80/live/675576/444417/1152689.m3u8
+#EXTINF:-1,RIT TV HD
+http://game.shiuk.re:80/live/675576/444417/1152690.m3u8
+#EXTINF:-1,SABOR & ARTE HD
+http://game.shiuk.re:80/live/675576/444417/780009.m3u8
+#EXTINF:-1,SAMBA E PAGODE FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152770.m3u8
+#EXTINF:-1,SBT ALTEROSA FHD
+http://game.shiuk.re:80/live/675576/444417/946413.m3u8
+#EXTINF:-1,SBT ALTEROSA HD
+http://game.shiuk.re:80/live/675576/444417/946414.m3u8
+#EXTINF:-1,SBT ALTEROSA INTERIOR SD
+http://game.shiuk.re:80/live/675576/444417/946389.m3u8
+#EXTINF:-1,SBT ALTEROSA JUIZ DE FORA SD
+http://game.shiuk.re:80/live/675576/444417/946390.m3u8
+#EXTINF:-1,SBT BAHIA SD
+http://game.shiuk.re:80/live/675576/444417/946415.m3u8
+#EXTINF:-1,SBT BELEM SD
+http://game.shiuk.re:80/live/675576/444417/946392.m3u8
+#EXTINF:-1,SBT BRASILIA FHD
+http://game.shiuk.re:80/live/675576/444417/946393.m3u8
+#EXTINF:-1,SBT BSB HD
+http://game.shiuk.re:80/live/675576/444417/946394.m3u8
+#EXTINF:-1,SBT CENTRAL HD
+http://game.shiuk.re:80/live/675576/444417/946395.m3u8
+#EXTINF:-1,SBT MARANHAO HD
+http://game.shiuk.re:80/live/675576/444417/946396.m3u8
+#EXTINF:-1,SBT PARANÁ FHD
+http://game.shiuk.re:80/live/675576/444417/946397.m3u8
+#EXTINF:-1,SBT PARANÁ HD
+http://game.shiuk.re:80/live/675576/444417/946398.m3u8
+#EXTINF:-1,SBT PERNAMBUCO SD
+http://game.shiuk.re:80/live/675576/444417/946399.m3u8
+#EXTINF:-1,SBT PIAUI HD
+http://game.shiuk.re:80/live/675576/444417/946401.m3u8
+#EXTINF:-1,SBT PIAUI SD
+http://game.shiuk.re:80/live/675576/444417/946400.m3u8
+#EXTINF:-1,SBT RIBEIRAO PRETO HD
+http://game.shiuk.re:80/live/675576/444417/946402.m3u8
+#EXTINF:-1,SBT RJ FHD
+http://game.shiuk.re:80/live/675576/444417/946403.m3u8
+#EXTINF:-1,SBT RJ HD
+http://game.shiuk.re:80/live/675576/444417/946404.m3u8
+#EXTINF:-1,SBT RS HD
+http://game.shiuk.re:80/live/675576/444417/946405.m3u8
+#EXTINF:-1,SBT SC HD
+http://game.shiuk.re:80/live/675576/444417/946406.m3u8
+#EXTINF:-1,SBT SD
+http://game.shiuk.re:80/live/675576/444417/946391.m3u8
+#EXTINF:-1,SBT SERGIPE HD
+http://game.shiuk.re:80/live/675576/444417/946407.m3u8
+#EXTINF:-1,SBT SERRA DOURADA FHD
+http://game.shiuk.re:80/live/675576/444417/946417.m3u8
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://game.shiuk.re:80/live/675576/444417/946416.m3u8
+#EXTINF:-1,SBT SP FHD
+http://game.shiuk.re:80/live/675576/444417/946408.m3u8
+#EXTINF:-1,SBT SP HD
+http://game.shiuk.re:80/live/675576/444417/946409.m3u8
+#EXTINF:-1,SBT VTV CAMPINAS FHD
+http://game.shiuk.re:80/live/675576/444417/946410.m3u8
+#EXTINF:-1,SBT VTV CAMPINAS HD
+http://game.shiuk.re:80/live/675576/444417/946411.m3u8
+#EXTINF:-1,SBT VTV HD
+http://game.shiuk.re:80/live/675576/444417/946412.m3u8
+#EXTINF:-1,SCOOBY-DOO 24HS
+http://game.shiuk.re:80/live/675576/444417/946533.m3u8
+#EXTINF:-1,SMALLVILLE 24HS
+http://game.shiuk.re:80/live/675576/444417/946534.m3u8
+#EXTINF:-1,SOBRENATURAL 24HS
+http://game.shiuk.re:80/live/675576/444417/946535.m3u8
+#EXTINF:-1,SONY FHD
+http://game.shiuk.re:80/live/675576/444417/780240.m3u8
+#EXTINF:-1,SONY HD
+http://game.shiuk.re:80/live/675576/444417/780241.m3u8
+#EXTINF:-1,SONY SD
+http://game.shiuk.re:80/live/675576/444417/780243.m3u8
+#EXTINF:-1,SPACE FHD
+http://game.shiuk.re:80/live/675576/444417/780244.m3u8
+#EXTINF:-1,SPACE FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152709.m3u8
+#EXTINF:-1,SPACE HD
+http://game.shiuk.re:80/live/675576/444417/780245.m3u8
+#EXTINF:-1,SPACE HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152710.m3u8
+#EXTINF:-1,SPACE SD
+http://game.shiuk.re:80/live/675576/444417/780246.m3u8
+#EXTINF:-1,SPORTV 2 FHD
+http://game.shiuk.re:80/live/675576/444417/780530.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://game.shiuk.re:80/live/675576/444417/780532.m3u8
+#EXTINF:-1,SPORTV 2 SD
+http://game.shiuk.re:80/live/675576/444417/780534.m3u8
+#EXTINF:-1,SPORTV 3 FHD
+http://game.shiuk.re:80/live/675576/444417/780535.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://game.shiuk.re:80/live/675576/444417/780537.m3u8
+#EXTINF:-1,SPORTV 3 SD
+http://game.shiuk.re:80/live/675576/444417/780539.m3u8
+#EXTINF:-1,SPORTV FHD
+http://game.shiuk.re:80/live/675576/444417/780540.m3u8
+#EXTINF:-1,SPORTV HD
+http://game.shiuk.re:80/live/675576/444417/780542.m3u8
+#EXTINF:-1,SPORTV SD
+http://game.shiuk.re:80/live/675576/444417/780544.m3u8
+#EXTINF:-1,SPORTV UHD
+http://game.shiuk.re:80/live/675576/444417/780545.m3u8
+#EXTINF:-1,STAR CHANNEL FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152711.m3u8
+#EXTINF:-1,STAR CHANNEL HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152712.m3u8
+#EXTINF:-1,STAR FHD
+http://game.shiuk.re:80/live/675576/444417/780247.m3u8
+#EXTINF:-1,STAR HD
+http://game.shiuk.re:80/live/675576/444417/780249.m3u8
+#EXTINF:-1,STAR SD
+http://game.shiuk.re:80/live/675576/444417/780250.m3u8
+#EXTINF:-1,STAR+ (1)
+http://game.shiuk.re:80/live/675576/444417/946674.m3u8
+#EXTINF:-1,STAR+ (2)
+http://game.shiuk.re:80/live/675576/444417/946675.m3u8
+#EXTINF:-1,STAR+ (3)
+http://game.shiuk.re:80/live/675576/444417/946676.m3u8
+#EXTINF:-1,STAR+ (4)
+http://game.shiuk.re:80/live/675576/444417/946677.m3u8
+#EXTINF:-1,STAR+ (5)
+http://game.shiuk.re:80/live/675576/444417/946678.m3u8
+#EXTINF:-1,STAR+ (6)
+http://game.shiuk.re:80/live/675576/444417/946679.m3u8
+#EXTINF:-1,STEVEN UNIVERSE 24HS
+http://game.shiuk.re:80/live/675576/444417/946536.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://game.shiuk.re:80/live/675576/444417/780251.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://game.shiuk.re:80/live/675576/444417/780252.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://game.shiuk.re:80/live/675576/444417/780253.m3u8
+#EXTINF:-1,SUPER CHOQUE 24HS
+http://game.shiuk.re:80/live/675576/444417/946537.m3u8
+#EXTINF:-1,SUPERMAN 24HS
+http://game.shiuk.re:80/live/675576/444417/946538.m3u8
+#EXTINF:-1,SYFY FHD
+http://game.shiuk.re:80/live/675576/444417/780010.m3u8
+#EXTINF:-1,SYFY HD
+http://game.shiuk.re:80/live/675576/444417/780011.m3u8
+#EXTINF:-1,SYFY SD
+http://game.shiuk.re:80/live/675576/444417/780012.m3u8
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://game.shiuk.re:80/live/675576/444417/946539.m3u8
+#EXTINF:-1,TAZ MANIA 24HRS
+http://game.shiuk.re:80/live/675576/444417/946540.m3u8
+#EXTINF:-1,TC ACTION FHD
+http://game.shiuk.re:80/live/675576/444417/780254.m3u8
+#EXTINF:-1,TC ACTION HD
+http://game.shiuk.re:80/live/675576/444417/780256.m3u8
+#EXTINF:-1,TC ACTION SD
+http://game.shiuk.re:80/live/675576/444417/780257.m3u8
+#EXTINF:-1,TC CULT FHD
+http://game.shiuk.re:80/live/675576/444417/780258.m3u8
+#EXTINF:-1,TC CULT HD
+http://game.shiuk.re:80/live/675576/444417/780260.m3u8
+#EXTINF:-1,TC CULT SD
+http://game.shiuk.re:80/live/675576/444417/780262.m3u8
+#EXTINF:-1,TC FUN FHD
+http://game.shiuk.re:80/live/675576/444417/780263.m3u8
+#EXTINF:-1,TC FUN HD
+http://game.shiuk.re:80/live/675576/444417/780265.m3u8
+#EXTINF:-1,TC FUN SD
+http://game.shiuk.re:80/live/675576/444417/780267.m3u8
+#EXTINF:-1,TC PIPOCA FHD
+http://game.shiuk.re:80/live/675576/444417/780268.m3u8
+#EXTINF:-1,TC PIPOCA HD
+http://game.shiuk.re:80/live/675576/444417/780270.m3u8
+#EXTINF:-1,TC PIPOCA SD
+http://game.shiuk.re:80/live/675576/444417/780271.m3u8
+#EXTINF:-1,TC PREMIUM FHD
+http://game.shiuk.re:80/live/675576/444417/780272.m3u8
+#EXTINF:-1,TC PREMIUM HD
+http://game.shiuk.re:80/live/675576/444417/780273.m3u8
+#EXTINF:-1,TC PREMIUM SD
+http://game.shiuk.re:80/live/675576/444417/780275.m3u8
+#EXTINF:-1,TC TOUCH FHD
+http://game.shiuk.re:80/live/675576/444417/780276.m3u8
+#EXTINF:-1,TC TOUCH HD
+http://game.shiuk.re:80/live/675576/444417/780277.m3u8
+#EXTINF:-1,TC TOUCH SD
+http://game.shiuk.re:80/live/675576/444417/780279.m3u8
+#EXTINF:-1,TCM FHD
+http://game.shiuk.re:80/live/675576/444417/780280.m3u8
+#EXTINF:-1,TCM HD
+http://game.shiuk.re:80/live/675576/444417/780281.m3u8
+#EXTINF:-1,TCM SD
+http://game.shiuk.re:80/live/675576/444417/780282.m3u8
+#EXTINF:-1,TELECINE ACTION FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152713.m3u8
+#EXTINF:-1,TELECINE ACTION HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152714.m3u8
+#EXTINF:-1,TELECINE CULT FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152715.m3u8
+#EXTINF:-1,TELECINE FUN FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152716.m3u8
+#EXTINF:-1,TELECINE FUN HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152717.m3u8
+#EXTINF:-1,TELECINE PIPOCA FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152718.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152719.m3u8
+#EXTINF:-1,TELECINE PREMIUM FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152720.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152721.m3u8
+#EXTINF:-1,TELECINE TOUCH FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152722.m3u8
+#EXTINF:-1,TELECINE TOUCH HD LEG
+http://game.shiuk.re:80/live/675576/444417/1152723.m3u8
+#EXTINF:-1,Terra Viva SD
+http://game.shiuk.re:80/live/675576/444417/1152668.m3u8
+#EXTINF:-1,THE HISTORY FHD
+http://game.shiuk.re:80/live/675576/444417/779912.m3u8
+#EXTINF:-1,THE HISTORY HD
+http://game.shiuk.re:80/live/675576/444417/779913.m3u8
+#EXTINF:-1,THE HISTORY SD
+http://game.shiuk.re:80/live/675576/444417/779914.m3u8
+#EXTINF:-1,THUNDERCATS 24HS
+http://game.shiuk.re:80/live/675576/444417/946541.m3u8
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://game.shiuk.re:80/live/675576/444417/946542.m3u8
+#EXTINF:-1,TLC FHD
+http://game.shiuk.re:80/live/675576/444417/780283.m3u8
+#EXTINF:-1,TLC HD
+http://game.shiuk.re:80/live/675576/444417/780284.m3u8
+#EXTINF:-1,TLC SD
+http://game.shiuk.re:80/live/675576/444417/780285.m3u8
+#EXTINF:-1,TNT FHD
+http://game.shiuk.re:80/live/675576/444417/780286.m3u8
+#EXTINF:-1,TNT FHD LEG
+http://game.shiuk.re:80/live/675576/444417/1152724.m3u8
+#EXTINF:-1,TNT FHD²
+http://game.shiuk.re:80/live/675576/444417/780287.m3u8
+#EXTINF:-1,TNT HD
+http://game.shiuk.re:80/live/675576/444417/780288.m3u8
+#EXTINF:-1,TNT NOVELAS FHD
+http://game.shiuk.re:80/live/675576/444417/780289.m3u8
+#EXTINF:-1,TNT NOVELAS HD
+http://game.shiuk.re:80/live/675576/444417/780290.m3u8
+#EXTINF:-1,TNT NOVELAS SD
+http://game.shiuk.re:80/live/675576/444417/780291.m3u8
+#EXTINF:-1,TNT SD
+http://game.shiuk.re:80/live/675576/444417/780292.m3u8
+#EXTINF:-1,TNT SERIES FHD
+http://game.shiuk.re:80/live/675576/444417/780293.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://game.shiuk.re:80/live/675576/444417/780294.m3u8
+#EXTINF:-1,TNT SERIES SD
+http://game.shiuk.re:80/live/675576/444417/780295.m3u8
+#EXTINF:-1,TOM & JERRY 24HS
+http://game.shiuk.re:80/live/675576/444417/946543.m3u8
+#EXTINF:-1,TOONCAST FHD
+http://game.shiuk.re:80/live/675576/444417/779881.m3u8
+#EXTINF:-1,TOONCAST HD
+http://game.shiuk.re:80/live/675576/444417/779882.m3u8
+#EXTINF:-1,TOONCAST SD
+http://game.shiuk.re:80/live/675576/444417/779883.m3u8
+#EXTINF:-1,TOP FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152771.m3u8
+#EXTINF:-1,TRACE BRAZUCA HD
+http://game.shiuk.re:80/live/675576/444417/780015.m3u8
+#EXTINF:-1,TRANSCONTINENTAL FM (RADIOS)
+http://game.shiuk.re:80/live/675576/444417/1152766.m3u8
+#EXTINF:-1,TRAVEL BOX BRASIL FHD
+http://game.shiuk.re:80/live/675576/444417/780016.m3u8
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://game.shiuk.re:80/live/675576/444417/780017.m3u8
+#EXTINF:-1,TRES ESPIAS DEMAIS 24HS
+http://game.shiuk.re:80/live/675576/444417/946544.m3u8
+#EXTINF:-1,TV Aparecida
+http://game.shiuk.re:80/live/675576/444417/1152691.m3u8
+#EXTINF:-1,TV APARECIDA HD
+http://game.shiuk.re:80/live/675576/444417/1152692.m3u8
+#EXTINF:-1,TV Bahia SD
+http://game.shiuk.re:80/live/675576/444417/1152669.m3u8
+#EXTINF:-1,TV BRASIL HD
+http://game.shiuk.re:80/live/675576/444417/1152670.m3u8
+#EXTINF:-1,TV Camara SD
+http://game.shiuk.re:80/live/675576/444417/1152671.m3u8
+#EXTINF:-1,TV Centro America Cuiaba
+http://game.shiuk.re:80/live/675576/444417/1152672.m3u8
+#EXTINF:-1,TV CULTURA FHD
+http://game.shiuk.re:80/live/675576/444417/780021.m3u8
+#EXTINF:-1,TV CULTURA HD
+http://game.shiuk.re:80/live/675576/444417/780022.m3u8
+#EXTINF:-1,TV Cultura SD
+http://game.shiuk.re:80/live/675576/444417/1152673.m3u8
+#EXTINF:-1,TV DIARIO HD
+http://game.shiuk.re:80/live/675576/444417/1152674.m3u8
+#EXTINF:-1,Tv Escola SD
+http://game.shiuk.re:80/live/675576/444417/1152675.m3u8
+#EXTINF:-1,TV EVANGELIZAR
+http://game.shiuk.re:80/live/675576/444417/1152693.m3u8
+#EXTINF:-1,TV Justica SD
+http://game.shiuk.re:80/live/675576/444417/1152676.m3u8
+#EXTINF:-1,TV RA TIM BUM HD
+http://game.shiuk.re:80/live/675576/444417/779885.m3u8
+#EXTINF:-1,TV RA TIM BUM SD
+http://game.shiuk.re:80/live/675576/444417/779886.m3u8
+#EXTINF:-1,TV TRIBUNA SANTOS SD
+http://game.shiuk.re:80/live/675576/444417/946381.m3u8
+#EXTINF:-1,TVE BAHIA HD (1)
+http://game.shiuk.re:80/live/675576/444417/946680.m3u8
+#EXTINF:-1,TVE BAHIA HD (2)
+http://game.shiuk.re:80/live/675576/444417/946681.m3u8
+#EXTINF:-1,TVE BAHIA HD (3)
+http://game.shiuk.re:80/live/675576/444417/946682.m3u8
+#EXTINF:-1,TVE ES (1)
+http://game.shiuk.re:80/live/675576/444417/946683.m3u8
+#EXTINF:-1,TVE ES (2)
+http://game.shiuk.re:80/live/675576/444417/946684.m3u8
+#EXTINF:-1,UFC FIGHT PASS (1)
+http://game.shiuk.re:80/live/675576/444417/946685.m3u8
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
+http://game.shiuk.re:80/live/675576/444417/946545.m3u8
+#EXTINF:-1,UMA FAMÍLIA DA PESADA 24HS
+http://game.shiuk.re:80/live/675576/444417/946546.m3u8
+#EXTINF:-1,UNIVERSAL FHD
+http://game.shiuk.re:80/live/675576/444417/780296.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://game.shiuk.re:80/live/675576/444417/780297.m3u8
+#EXTINF:-1,UNIVERSAL SD
+http://game.shiuk.re:80/live/675576/444417/780298.m3u8
+#EXTINF:-1,URBAN DOCS HD
+http://game.shiuk.re:80/live/675576/444417/780025.m3u8
+#EXTINF:-1,URBAN KIDS HD
+http://game.shiuk.re:80/live/675576/444417/779887.m3u8
+#EXTINF:-1,URBAN MOVIES HD
+http://game.shiuk.re:80/live/675576/444417/780299.m3u8
+#EXTINF:-1,URBAN RETRÔ HD
+http://game.shiuk.re:80/live/675576/444417/780300.m3u8
+#EXTINF:-1,VAI QUE COLA 24HRS
+http://game.shiuk.re:80/live/675576/444417/946547.m3u8
+#EXTINF:-1,VAI QUE COLA 24HS
+http://game.shiuk.re:80/live/675576/444417/946548.m3u8
+#EXTINF:-1,VELOZES E FURIOSOS 24HRS
+http://game.shiuk.re:80/live/675576/444417/946549.m3u8
+#EXTINF:-1,VILLA MIX
+http://game.shiuk.re:80/live/675576/444417/1152764.m3u8
+#EXTINF:-1,VIVA FHD
+http://game.shiuk.re:80/live/675576/444417/780028.m3u8
+#EXTINF:-1,VIVA HD
+http://game.shiuk.re:80/live/675576/444417/780029.m3u8
+#EXTINF:-1,VIVA SD
+http://game.shiuk.re:80/live/675576/444417/780030.m3u8
+#EXTINF:-1,WARNER CHANNEL FHD
+http://game.shiuk.re:80/live/675576/444417/780302.m3u8
+#EXTINF:-1,WARNER CHANNEL FHD²
+http://game.shiuk.re:80/live/675576/444417/780303.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://game.shiuk.re:80/live/675576/444417/780304.m3u8
+#EXTINF:-1,WARNER CHANNEL SD
+http://game.shiuk.re:80/live/675576/444417/780306.m3u8
+#EXTINF:-1,WOHOO FHD
+http://game.shiuk.re:80/live/675576/444417/780556.m3u8
+#EXTINF:-1,WOHOO HD
+http://game.shiuk.re:80/live/675576/444417/780557.m3u8
+#EXTINF:-1,WOHOO SD
+http://game.shiuk.re:80/live/675576/444417/780558.m3u8
+#EXTINF:-1,X-MAN 24HS
+http://game.shiuk.re:80/live/675576/444417/946550.m3u8
+#EXTINF:-1,XENA 24HS
+http://game.shiuk.re:80/live/675576/444417/946551.m3u8
+#EXTINF:-1,YU-GI-OH 24HS
+http://game.shiuk.re:80/live/675576/444417/946552.m3u8
+#EXTINF:-1,YU-YU-HAKUSHO 24HS
+http://game.shiuk.re:80/live/675576/444417/946553.m3u8
+#EXTINF:-1,ZOOMOO FHD
+http://game.shiuk.re:80/live/675576/444417/779888.m3u8
+#EXTINF:-1,ZOOMOO HD
+http://game.shiuk.re:80/live/675576/444417/779889.m3u8
+#EXTINF:-1,Tributo  Lea Garcia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152774.mp4
+#EXTINF:-1,Bares Bolos e Amizades - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152775.mp4
+#EXTINF:-1,Polite Society - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152776.mp4
+#EXTINF:-1,Arquivos da Perversao Os Abusos na Boy Scouts of America - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152777.mp4
+#EXTINF:-1,Os Irmaos Aventura O Filme - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152778.mp4
+#EXTINF:-1,Missao Clandestina - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152779.mp4
+#EXTINF:-1,A Justiceira - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152780.mp4
+#EXTINF:-1,A Pequena Sereia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152781.mp4
+#EXTINF:-1, A Mae do Ano - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152782.mp4
+#EXTINF:-1,10 Dias de um Homem Bom - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152783.mp4
+#EXTINF:-1,10 Dias de um Homem Mau - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152784.mp4
+#EXTINF:-1,13 Exorcismos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152785.mp4
+#EXTINF:-1,65  Ameaca Pre Historica - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152786.mp4
+#EXTINF:-1,80 pelo Brady - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152787.mp4
+#EXTINF:-1,A Academia do Diabo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152788.mp4
+#EXTINF:-1,A Cratera - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152789.mp4
+#EXTINF:-1,A Dama do Silencio La Mataviejitas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152790.mp4
+#EXTINF:-1,A Descoberta Perfeita - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152791.mp4
+#EXTINF:-1,A Elefanta do Magico - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152792.mp4
+#EXTINF:-1,A Extorsao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152793.mp4
+#EXTINF:-1,A Filha da Noiva - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152794.mp4
+#EXTINF:-1,A Historia do Hino Americano - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152795.mp4
+#EXTINF:-1,A Jogada de Chang - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152796.mp4
+#EXTINF:-1,A Mae - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152797.mp4
+#EXTINF:-1,A Maquina do Crime - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152798.mp4
+#EXTINF:-1,A Morte do Demonio A Ascensao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152799.mp4
+#EXTINF:-1,A Noite das Vampiras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152800.mp4
+#EXTINF:-1,A Pequena Dixie - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152801.mp4
+#EXTINF:-1,A Primeira Comunhao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152802.mp4
+#EXTINF:-1,A Prince in Paradise - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152803.mp4
+#EXTINF:-1,A Princesa Encantada Era Uma Vez - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152804.mp4
+#EXTINF:-1,A Profecia do Mal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152805.mp4
+#EXTINF:-1,A Roleta da Morte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152806.mp4
+#EXTINF:-1,A Roleta da Morte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152807.mp4
+#EXTINF:-1,A Ultima Festa - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152808.mp4
+#EXTINF:-1,A Ultima Fonte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152809.mp4
+#EXTINF:-1,A Ultima Fonte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152810.mp4
+#EXTINF:-1,A Venezuela em Solo Brasileiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152811.mp4
+#EXTINF:-1,Acertando o Tom - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152812.mp4
+#EXTINF:-1,Agente Infiltrado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152813.mp4
+#EXTINF:-1,Agente Stone - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152814.mp4
+#EXTINF:-1,Air A Historia Por Tras do Logo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152815.mp4
+#EXTINF:-1,Alerta Maximo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152816.mp4
+#EXTINF:-1,Alguem Que Eu Costumava Conhecer - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152817.mp4
+#EXTINF:-1,Amazonia na Encruzilhada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152818.mp4
+#EXTINF:-1,Amazonia na Encruzilhada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152819.mp4
+#EXTINF:-1,Amizade de Ferias 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152820.mp4
+#EXTINF:-1,Amor  Outra Vez  - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152821.mp4
+#EXTINF:-1,Amor 2 para Sempre - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152822.mp4
+#EXTINF:-1,Amor ao Primeiro Beijo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152823.mp4
+#EXTINF:-1,Amor em Foco - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152824.mp4
+#EXTINF:-1,Amor em Grande Estilo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152825.mp4
+#EXTINF:-1,Amor Inesperado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152826.mp4
+#EXTINF:-1,Amor Sexo e 30 Velinhas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152827.mp4
+#EXTINF:-1,Amores Verdadeiros - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152828.mp4
+#EXTINF:-1,Anna Nicole Smith Voces Nao Me Conhecem - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152829.mp4
+#EXTINF:-1,Aos Amigos  A Lei - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152830.mp4
+#EXTINF:-1,As Mumias e o Anel Perdido - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152831.mp4
+#EXTINF:-1,As Semanas Magicas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152832.mp4
+#EXTINF:-1,Assassin Club - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152833.mp4
+#EXTINF:-1,Assombrosas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152834.mp4
+#EXTINF:-1,Asterix e Obelix no Reino do Meio - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152835.mp4
+#EXTINF:-1,At Midnight - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152836.mp4
+#EXTINF:-1,Atraves da Minha Janela Alem mar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152837.mp4
+#EXTINF:-1,Babylon 5 O Caminho - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152838.mp4
+#EXTINF:-1,Barraco de Familia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152839.mp4
+#EXTINF:-1,Batem a Porta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152840.mp4
+#EXTINF:-1,Batman A Perdicao Chegou a Gotham - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152841.mp4
+#EXTINF:-1,Beau Tem Medo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152842.mp4
+#EXTINF:-1,Belo Desastre - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152843.mp4
+#EXTINF:-1,Bird Box Barcelona- 2023
+http://game.shiuk.re:80/movie/675576/444417/1152844.mp4
+#EXTINF:-1,Black Clover  A Espada do Rei Mago - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152845.mp4
+#EXTINF:-1,Blondi - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152846.mp4
+#EXTINF:-1,Cacador de Tormentas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152847.mp4
+#EXTINF:-1,Cade o Amarildo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152848.mp4
+#EXTINF:-1,Campeoes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152849.mp4
+#EXTINF:-1,Campeonato dos Sonhos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152850.mp4
+#EXTINF:-1,Carmen - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152851.mp4
+#EXTINF:-1,Casamento em Familia - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152852.mp4
+#EXTINF:-1,Castelo Ra Tim Bum Reencontro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152853.mp4
+#EXTINF:-1,Certas Pessoas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152854.mp4
+#EXTINF:-1,Chef Jack  O Cozinheiro Aventureiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152855.mp4
+#EXTINF:-1,Chevalier - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152856.mp4
+#EXTINF:-1,Clonaram Tyrone - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152857.mp4
+#EXTINF:-1,Clube dos Anjos Caidos Assassinatos Misteriosos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152858.mp4
+#EXTINF:-1,Como Os Anos Me Deixaram - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152859.mp4
+#EXTINF:-1,Contaminacao A Verdade Sobre o que Comemos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152860.mp4
+#EXTINF:-1,Corrosao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152861.mp4
+#EXTINF:-1,Creed III - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152862.mp4
+#EXTINF:-1,Criminoso ou Inocente O Caso Big Mack - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152863.mp4
+#EXTINF:-1,D P A  e a Biblioteca Banida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152864.mp4
+#EXTINF:-1,De Tirar o Folego - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152865.mp4
+#EXTINF:-1,Deixados para Tras O Inicio do Fim - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152866.mp4
+#EXTINF:-1,Desaparecida  O Caso Lucie Blackman - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152867.mp4
+#EXTINF:-1,Desaparecida - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152868.mp4
+#EXTINF:-1,Desapega - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152869.mp4
+#EXTINF:-1,Desejo Proibido - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152870.mp4
+#EXTINF:-1,Destemida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152871.mp4
+#EXTINF:-1,Detetive Knight Independencia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152872.mp4
+#EXTINF:-1,Devils Peak - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152873.mp4
+#EXTINF:-1,Do Jeito Que Elas Querem O Proximo Capitulo  - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152874.mp4
+#EXTINF:-1,Duas Bruxas  A Heranca Diabolica - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152875.mp4
+#EXTINF:-1,Duas Pecadoras e Uma Mula - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152876.mp4
+#EXTINF:-1,Dungeons Dragons Honra Entre Rebeldes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152877.mp4
+#EXTINF:-1,Duro de Atuar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152878.mp4
+#EXTINF:-1,Em Algum Lugar do Queens - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152879.mp4
+#EXTINF:-1,Em Outros Tempos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152880.mp4
+#EXTINF:-1,Em Seus Sonhos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152881.mp4
+#EXTINF:-1,Em Todas as Partes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152882.mp4
+#EXTINF:-1,Em Uma Ilha Bem Distante - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152883.mp4
+#EXTINF:-1,Encurralados - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152884.mp4
+#EXTINF:-1,Entre Mulheres - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152885.mp4
+#EXTINF:-1,Escola de Quebrada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152886.mp4
+#EXTINF:-1,Esquema de Risco Operacao Fortune - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152887.mp4
+#EXTINF:-1,Esta Noite Voce Dorme Comigo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152888.mp4
+#EXTINF:-1,Estacoes do Amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152889.mp4
+#EXTINF:-1,Eterno 831 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152890.mp4
+#EXTINF:-1,Excluidos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152891.mp4
+#EXTINF:-1,Explorando o Desconhecido  Caverna de Ossos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152892.mp4
+#EXTINF:-1,Explorando o Desconhecido A Maquina do Tempo Cosmica - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152893.mp4
+#EXTINF:-1,Explorando o Desconhecido A Piramide Perdida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152894.mp4
+#EXTINF:-1,Explorando o Desconhecido Robos Assassinos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152895.mp4
+#EXTINF:-1,Fanfic - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152896.mp4
+#EXTINF:-1,Fantasma e Cia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152897.mp4
+#EXTINF:-1,Felicidade para Principiantes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152898.mp4
+#EXTINF:-1,Ferias em Taipei - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152899.mp4
+#EXTINF:-1,Fervo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152900.mp4
+#EXTINF:-1,Flamin Hot  O Sabor que Mudou a Historia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152901.mp4
+#EXTINF:-1,Fome de Sucesso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152902.mp4
+#EXTINF:-1,Frio nos Ossos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152903.mp4
+#EXTINF:-1,Furias Femininas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152904.mp4
+#EXTINF:-1,Gemini O Planeta Sombrio - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152905.mp4
+#EXTINF:-1,Ghosted Sem Resposta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152906.mp4
+#EXTINF:-1,Guardioes da Galaxia Volume 3 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152907.mp4
+#EXTINF:-1,Guia de Viagem para o Amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152908.mp4
+#EXTINF:-1,Herois da Mascara Dourada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152909.mp4
+#EXTINF:-1,Hoje Falaremos sobre Aquele Dia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152910.mp4
+#EXTINF:-1,Homem Aranha Atraves do Aranhaverso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152911.mp4
+#EXTINF:-1,Homem Formiga e a Vespa  Quantumania - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1152912.mp4
+#EXTINF:-1,Homens Brancos Nao Sabem Enterrar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152913.mp4
+#EXTINF:-1,Hormonios a Flor da Pele - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152914.mp4
+#EXTINF:-1,Infiesto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152915.mp4
+#EXTINF:-1,Infiltrados Venezuela - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152916.mp4
+#EXTINF:-1,Inside - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152917.mp4
+#EXTINF:-1,iNumber Number O Ouro de Joanesburgo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152918.mp4
+#EXTINF:-1,Irmaos por escolha - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152919.mp4
+#EXTINF:-1,Isabella o Caso Nardoni - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152920.mp4
+#EXTINF:-1,Ja Era Hora - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152921.mp4
+#EXTINF:-1,Ja Estou Te Vendo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152922.mp4
+#EXTINF:-1,Jagun Jagun O Guerreiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152923.mp4
+#EXTINF:-1,Jogo do Amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152924.mp4
+#EXTINF:-1,John Wick 4 Baba Yaga - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152925.mp4
+#EXTINF:-1,JUNG E - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152926.mp4
+#EXTINF:-1,Kill Boksoon - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152927.mp4
+#EXTINF:-1,La Situacion - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152928.mp4
+#EXTINF:-1,LEGO Disney Princesa Aventura no Castelo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152929.mp4
+#EXTINF:-1,Liga da Justica Mundo Belico - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152930.mp4
+#EXTINF:-1,Liga da JustiCa x RWBY Super Herois e Cacadores  Parte 1 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152931.mp4
+#EXTINF:-1,Luccas Neto em  O Meu Aniversario - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152932.mp4
+#EXTINF:-1,Luccas Neto em Acampamento de Ferias 4 O Desafio Final - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152933.mp4
+#EXTINF:-1,LUPIN III vs CATS EYE - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152934.mp4
+#EXTINF:-1,Luther O Cair da Noite - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152935.mp4
+#EXTINF:-1,Magic Mike A Ultima Danca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152936.mp4
+#EXTINF:-1,Mais Cedo Morto do que Casado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152937.mp4
+#EXTINF:-1,Maria - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152938.mp4
+#EXTINF:-1,Mato Seco em Chamas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152939.mp4
+#EXTINF:-1,MEGAN - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152940.mp4
+#EXTINF:-1,Megatubarao 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152941.mp4
+#EXTINF:-1,Meu Amigo Lutcha - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152942.mp4
+#EXTINF:-1,Meu Nome e Chihiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152943.mp4
+#EXTINF:-1,Meu Pai e um Perigo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152944.mp4
+#EXTINF:-1,Meus Sogros Tao pro Crime - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152945.mp4
+#EXTINF:-1,Mil e Um - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152946.mp4
+#EXTINF:-1,Minha Casa - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152947.mp4
+#EXTINF:-1,Minha Culpa - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152948.mp4
+#EXTINF:-1,Miraculous As Aventuras de Ladybug - O Filme - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152949.mp4
+#EXTINF:-1,Misterio em Paris - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152950.mp4
+#EXTINF:-1,Mixed by Erry - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152951.mp4
+#EXTINF:-1,Moving On - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152952.mp4
+#EXTINF:-1,Muti Rituais Mortais - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152953.mp4
+#EXTINF:-1,Na Mira - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152954.mp4
+#EXTINF:-1,Na Palma da Mao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152955.mp4
+#EXTINF:-1,Na Sua Casa ou na Minha - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152956.mp4
+#EXTINF:-1,Narvik - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152957.mp4
+#EXTINF:-1,Nas Ondas da Fe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152958.mp4
+#EXTINF:-1,Natal Entre Amigos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152959.mp4
+#EXTINF:-1,Nikki e Nora  Gemeas em Acao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152960.mp4
+#EXTINF:-1,Nimona - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152961.mp4
+#EXTINF:-1,No Ritmo da Fe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152962.mp4
+#EXTINF:-1,Noites Alienigenas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152963.mp4
+#EXTINF:-1,O Chamado 4 Samara Ressurge - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152964.mp4
+#EXTINF:-1,O Cheiro do Ouro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152965.mp4
+#EXTINF:-1,O Clube de Leitores Assassinos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152966.mp4
+#EXTINF:-1,O Demonio dos Mares - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152967.mp4
+#EXTINF:-1,O Encontro Mais Longo de Todos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152968.mp4
+#EXTINF:-1,O Estrangulador de Boston - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152969.mp4
+#EXTINF:-1,O Estrangulador de Boston - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152970.mp4
+#EXTINF:-1,O Estranho Caso do Fantasma Claustrofobico - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152971.mp4
+#EXTINF:-1,O Exorcista do Papa - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152972.mp4
+#EXTINF:-1,O Faixa Preta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152973.mp4
+#EXTINF:-1,O Falsificador - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152974.mp4
+#EXTINF:-1,O Melhor do Mundo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152975.mp4
+#EXTINF:-1,O Melhor Lugar da Terra - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152976.mp4
+#EXTINF:-1,O Milagre de Tyson - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152977.mp4
+#EXTINF:-1,O Misterio de Maya - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152978.mp4
+#EXTINF:-1,O Mochileiro Kai Heroi ou Assassino - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152979.mp4
+#EXTINF:-1,O Outro Mundo de Sofia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152980.mp4
+#EXTINF:-1,O Pacto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152981.mp4
+#EXTINF:-1,O Pequeno Roubo do Grande Nunu - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152982.mp4
+#EXTINF:-1,O Portal Secreto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152983.mp4
+#EXTINF:-1,O Real Mundo de Any Malu - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152984.mp4
+#EXTINF:-1,O Rei das Sombras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152985.mp4
+#EXTINF:-1,O Rei dos Clones - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152986.mp4
+#EXTINF:-1,O Rei Macaco - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152987.mp4
+#EXTINF:-1,O Som do Caos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152988.mp4
+#EXTINF:-1,O Ultimo Reino  Sete Reis Devem Morrer - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152989.mp4
+#EXTINF:-1,O Ultimo Vagao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152990.mp4
+#EXTINF:-1,O Urso do Po Branco - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152991.mp4
+#EXTINF:-1,O Verao Mais Quente  - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1152992.mp4
+#EXTINF:-1,O Vilarejo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152993.mp4
+#EXTINF:-1,Oh Belinda - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152994.mp4
+#EXTINF:-1,Operacao Arma Secreta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152995.mp4
+#EXTINF:-1,Operacao Hunt - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152996.mp4
+#EXTINF:-1,Os Cavaleiros do Zodiaco   Saint Seiya O Comeco - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152997.mp4
+#EXTINF:-1,Os Quase Idolos da Bahia Colorada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152998.mp4
+#EXTINF:-1,Os Reis da Rua Mulberry Que Reine o Amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1152999.mp4
+#EXTINF:-1,Os Tres Mosqueteiros D Artagnan - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153000.mp4
+#EXTINF:-1,Paint - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153001.mp4
+#EXTINF:-1,Pamela Anderson  Uma Historia de Amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153002.mp4
+#EXTINF:-1,Panico VI - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153003.mp4
+#EXTINF:-1,Paraiso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153004.mp4
+#EXTINF:-1,Pearl Uma Historia de Origem X - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153005.mp4
+#EXTINF:-1,Peter Pan and Wendy - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153006.mp4
+#EXTINF:-1,Piscina Infinita - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153007.mp4
+#EXTINF:-1,Pornhub Sexo Bilionario - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153008.mp4
+#EXTINF:-1,Power Rangers Agora e Sempre - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153009.mp4
+#EXTINF:-1,Procura se Gonker - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153010.mp4
+#EXTINF:-1,Projeto Extracao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153011.mp4
+#EXTINF:-1,Quando Voce Terminar de Salvar o Mundo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153012.mp4
+#EXTINF:-1,Quase Morta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153013.mp4
+#EXTINF:-1,Quasimodo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153014.mp4
+#EXTINF:-1,Quatro Historias de Desejo 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153015.mp4
+#EXTINF:-1,Que Horas Eu Te Pego - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153016.mp4
+#EXTINF:-1,Quem Matou - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153017.mp4
+#EXTINF:-1,Querida Zoe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153018.mp4
+#EXTINF:-1,Querido David - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153019.mp4
+#EXTINF:-1,Rainhas em Fuga - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153020.mp4
+#EXTINF:-1,Raquel 11 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153021.mp4
+#EXTINF:-1,REMEMBER - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153022.mp4
+#EXTINF:-1,Renfield Dando Sangue pelo Chefe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153023.mp4
+#EXTINF:-1,Resgatados dos Tubaroes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153024.mp4
+#EXTINF:-1,Resgate 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153025.mp4
+#EXTINF:-1,Resgate em Medelin - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153026.mp4
+#EXTINF:-1,Resident Evil Ilha da Morte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153027.mp4
+#EXTINF:-1,Ricos de Amor 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153028.mp4
+#EXTINF:-1,River Wild - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153029.mp4
+#EXTINF:-1,Rock Dog Uma Batida Animal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153030.mp4
+#EXTINF:-1,Roubo pelos Ares - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153031.mp4
+#EXTINF:-1,Royalteen  Princesa Margrethe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153032.mp4
+#EXTINF:-1,Ruby Marinho  Monstro Adolescente - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153033.mp4
+#EXTINF:-1,Rye Lane  Um Amor Inesperado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153034.mp4
+#EXTINF:-1,S O S Mamis 2 Mosquita Muerta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153035.mp4
+#EXTINF:-1,Sangue e Ouro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153036.mp4
+#EXTINF:-1,Sayen - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153037.mp4
+#EXTINF:-1,Sede Assassina - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153038.mp4
+#EXTINF:-1,Sede Sem Fim - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153039.mp4
+#EXTINF:-1,Seja Voce Mesma - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153040.mp4
+#EXTINF:-1,Sem Rastro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153041.mp4
+#EXTINF:-1,Sharper Uma Vida de Trapacas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153042.mp4
+#EXTINF:-1,Shazam Furia dos Deuses - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153043.mp4
+#EXTINF:-1,Sinal Divino - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153044.mp4
+#EXTINF:-1,Sisu - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153045.mp4
+#EXTINF:-1,Snoopy Apresenta  A Inigualavel Marcie - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153046.mp4
+#EXTINF:-1,Sobrenatural A Porta Vermelha - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153047.mp4
+#EXTINF:-1,Sr  Carrinho e os Cavaleiros Templarios - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153048.mp4
+#EXTINF:-1,Substitutos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153049.mp4
+#EXTINF:-1,Super Mario Bros  O Filme - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153050.mp4
+#EXTINF:-1,Tangos Tequilas e alguma mentiras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153051.mp4
+#EXTINF:-1,Taticas do Amor 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153052.mp4
+#EXTINF:-1,Teen Wolf O Filme -  2023
+http://game.shiuk.re:80/movie/675576/444417/1153053.mp4
+#EXTINF:-1,Tetris - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153054.mp4
+#EXTINF:-1,The Beanie Bubble  O Fenomeno das Pelucias - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153055.mp4
+#EXTINF:-1,The Blackening - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153056.mp4
+#EXTINF:-1,The Flash - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153057.mp4
+#EXTINF:-1,The List - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153058.mp4
+#EXTINF:-1,The Outwaters - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153059.mp4
+#EXTINF:-1,The Point Men - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153060.mp4
+#EXTINF:-1,The Tutor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153061.mp4
+#EXTINF:-1,Tic Tac A Maternidade do Mal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153062.mp4
+#EXTINF:-1,Tin e Tina - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153063.mp4
+#EXTINF:-1,Tinnitus - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153064.mp4
+#EXTINF:-1,Torneio de Natal  De Volta ao Lar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153065.mp4
+#EXTINF:-1,Transformers O Despertar das Feras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153066.mp4
+#EXTINF:-1,Transfusao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153067.mp4
+#EXTINF:-1,Tudo de Novo Mais Uma Vez - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153068.mp4
+#EXTINF:-1,Tudo pela Noiva - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153069.mp4
+#EXTINF:-1,Um Amor para Duas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153070.mp4
+#EXTINF:-1,Um Ano Inesquecivel Inverno - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153071.mp4
+#EXTINF:-1,Um Ano Inesquecivel Outono - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153072.mp4
+#EXTINF:-1,Um Ano Inesquecivel Primavera - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153073.mp4
+#EXTINF:-1,Um Ano Inesquecivel Verao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153074.mp4
+#EXTINF:-1,Um Climax Entre Nos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153075.mp4
+#EXTINF:-1,Um Dia das Maes Nada Tradicional - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153076.mp4
+#EXTINF:-1,Um Dia e Meio - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153077.mp4
+#EXTINF:-1,Um Motivo Para Lutar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153078.mp4
+#EXTINF:-1,Um Pacto de Amizade - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153079.mp4
+#EXTINF:-1,Uma Boa Pessoa - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153080.mp4
+#EXTINF:-1,Uma Festa de Arromba - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153081.mp4
+#EXTINF:-1,Uma Linda Vida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153082.mp4
+#EXTINF:-1,Untold  Jake Paul  O Garoto Problema - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153083.mp4
+#EXTINF:-1,Untold  Johnny Football - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153084.mp4
+#EXTINF:-1,Vale dos Isolados O Assassinato de Bruno e Dom - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153085.mp4
+#EXTINF:-1,Velozes e Furiosos 10 - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153086.mp4
+#EXTINF:-1,Venus - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153087.mp4
+#EXTINF:-1,Vermelho Branco e Sangue Azul - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153088.mp4
+#EXTINF:-1,Vicio Perfeito - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153089.mp4
+#EXTINF:-1,Vitima X Suspeita - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153090.mp4
+#EXTINF:-1,Viva o Mexico - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153091.mp4
+#EXTINF:-1,Voce Nao Ta Convidada pro Meu Bat Mitzva - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153092.mp4
+#EXTINF:-1,Volte Sempre - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153093.mp4
+#EXTINF:-1,Vulcoes e Tubaroes Havai - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153094.mp4
+#EXTINF:-1,Whindersson Nunes  Isso Nao e Um Culto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153095.mp4
+#EXTINF:-1,Zoey 102 O Casamento - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153096.mp4
+#EXTINF:-1,Lancando Segundas Chances - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153097.mp4
+#EXTINF:-1,Cassandro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153098.mp4
+#EXTINF:-1,Em uma Terra Muito Distante  Havia um Crime - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153099.mp4
+#EXTINF:-1,Noite Sangrenta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153100.mp4
+#EXTINF:-1,A Milhoes de Quilometros - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153101.mp4
+#EXTINF:-1,O Conde - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153102.mp4
+#EXTINF:-1,Amor a Primeira Vista - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153103.mp4
+#EXTINF:-1,As Tartarugas Ninjas  Caos Mutante - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153104.mp4
+#EXTINF:-1,Missao de Sobrevivencia - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153105.mp4
+#EXTINF:-1,O Encontro de Carl - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153106.mp4
+#EXTINF:-1,Ehrengard  A Ninfa do Lago - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153107.mp4
+#EXTINF:-1,Em uma Terra Muito Distant Havia um Crime - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153108.mp4
+#EXTINF:-1,Heranca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153109.mp4
+#EXTINF:-1,Um Guarda Florestal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153110.mp4
+#EXTINF:-1,Bob Esponja Calca Quadrada apresenta  Zona das Mares - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153111.mp4
+#EXTINF:-1,Sadako  Ressurreicao - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153112.mp4
+#EXTINF:-1,Uma Chance para Vencer - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153113.mp4
+#EXTINF:-1,O Convento - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153114.mp4
+#EXTINF:-1,Freestyle - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153115.mp4
+#EXTINF:-1,Elementos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153116.mp4
+#EXTINF:-1,Inquietacao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153117.mp4
+#EXTINF:-1,Barbie - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153118.mp4
+#EXTINF:-1,A Sutil Arte de Ligar o F*da-se - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153119.mp4
+#EXTINF:-1,Feiticaria - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153120.mp4
+#EXTINF:-1,O Caso Rosa Peral - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153121.mp4
+#EXTINF:-1,Shooting Stars - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153122.mp4
+#EXTINF:-1,Belas e Recatadas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153123.mp4
+#EXTINF:-1,Suspeito X - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153124.mp4
+#EXTINF:-1,Entrando no Clima do Natal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153125.mp4
+#EXTINF:-1,Como Superar um Coracao em Pedacos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153126.mp4
+#EXTINF:-1,A Lista da Vinganca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153127.mp4
+#EXTINF:-1,Pequenos Espioes  Apocalipse - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153128.mp4
+#EXTINF:-1,Ninguem Vai te Salvar - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153129.mp4
+#EXTINF:-1,Cabare Eldorado  O Alvo dos Nazistas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153130.mp4
+#EXTINF:-1,Besouro Azul - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153131.mp4
+#EXTINF:-1,O Atirador  Resposta Global e Equipe Tatica - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153132.mp4
+#EXTINF:-1,Scooby Doo e Krypto  O Supercao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153133.mp4
+#EXTINF:-1,A Espreita - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153134.mp4
+#EXTINF:-1,Fe nas Alturas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153135.mp4
+#EXTINF:-1,Perdida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153136.mp4
+#EXTINF:-1,O Acusado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153137.mp4
+#EXTINF:-1,Breaking Point Paixao a Danca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153138.mp4
+#EXTINF:-1,Mansao Mal Assombrada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153139.mp4
+#EXTINF:-1,A Freira 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153140.mp4
+#EXTINF:-1,Os Aventureiros   A Origem - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153141.mp4
+#EXTINF:-1,Nosso Amigo Extraordinario - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153142.mp4
+#EXTINF:-1,O Monstro que vive em Mim - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153143.mp4
+#EXTINF:-1,Dracula A Ultima Viagem do Demeter - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153144.mp4
+#EXTINF:-1,O Engenheiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153145.mp4
+#EXTINF:-1,One Day as a Lion - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153146.mp4
+#EXTINF:-1,Veneno - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153147.mp4
+#EXTINF:-1,O Cisne - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153148.mp4
+#EXTINF:-1,Movimento de Jesus - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153149.mp4
+#EXTINF:-1,Flora e Filho Musica em Familia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153150.mp4
+#EXTINF:-1,Escandalos na Igreja A Luz Do Mundo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153151.mp4
+#EXTINF:-1,Coracao de Neon - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153152.mp4
+#EXTINF:-1,Gran Turismo  De Jogador a Corredor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153153.mp4
+#EXTINF:-1,Do Not Disturb - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153154.mp4
+#EXTINF:-1,Destinos a Deriva - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153155.mp4
+#EXTINF:-1,Camaleoes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153156.mp4
+#EXTINF:-1,Discurso Oculto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153157.mp4
+#EXTINF:-1,Ice Cold O Caso Jessica Wongso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153158.mp4
+#EXTINF:-1,Street Flow 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153159.mp4
+#EXTINF:-1,Carga Maxima - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153160.mp4
+#EXTINF:-1,Amor Esquecido - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153161.mp4
+#EXTINF:-1,A Incrivel Historia de Henry Sugar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153162.mp4
+#EXTINF:-1,Retratos Fantasmas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153163.mp4
+#EXTINF:-1,Missao Impossivel Acerto de Contas Parte 1 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153164.mp4
+#EXTINF:-1,Corrida Para o Topo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153165.mp4
+#EXTINF:-1,O Amor Esta no Ar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153166.mp4
+#EXTINF:-1,Uma Bela Manha - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153167.mp4
+#EXTINF:-1,Mensagem Para a Humanidade - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153168.mp4
+#EXTINF:-1,Mate-me se Puder - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153169.mp4
+#EXTINF:-1,Jogo Justo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153170.mp4
+#EXTINF:-1,Cemiterio Maldito A Origem - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153171.mp4
+#EXTINF:-1,O Rei dos Assassinos - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153172.mp4
+#EXTINF:-1,Angela - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153173.mp4
+#EXTINF:-1,A Bailarina - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153174.mp4
+#EXTINF:-1,A Arte da Sobrevivencia - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153175.mp4
+#EXTINF:-1,Loucas em Apuros - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153176.mp4
+#EXTINF:-1,Boogeyman Seu Medo e Real - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153177.mp4
+#EXTINF:-1,Circulo de Espioes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153178.mp4
+#EXTINF:-1,Fale Comigo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153179.mp4
+#EXTINF:-1,Uma Aula de Harmonia - 2023       
+http://game.shiuk.re:80/movie/675576/444417/1153180.mp4
+#EXTINF:-1,Raiva - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153181.mp4
+#EXTINF:-1,Tudo Por um Ex Namorado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153182.mp4
+#EXTINF:-1,Scarygirl - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153183.mp4
+#EXTINF:-1,O Proprio Enterro - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153184.mp4
+#EXTINF:-1,O Porteiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153185.mp4
+#EXTINF:-1,Colheita Sombria - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153186.mp4
+#EXTINF:-1,Conferencia Mortal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153187.mp4
+#EXTINF:-1,Filha do Prisioneiro - 2023       
+http://game.shiuk.re:80/movie/675576/444417/1153188.mp4
+#EXTINF:-1,Era uma Vez uma Estrela - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153189.mp4
+#EXTINF:-1,Chic Show - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153190.mp4
+#EXTINF:-1,Asteroid City - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153191.mp4
+#EXTINF:-1,A Era de Ouro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153192.mp4
+#EXTINF:-1,The Loud House  Uma Verdadeira Familia Assombrada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153193.mp4
+#EXTINF:-1,Diamantes do Caos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153194.mp4
+#EXTINF:-1,O Diabo no Tribunal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153195.mp4
+#EXTINF:-1,Ursinho Pooh Sangue e Mel - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153196.mp4
+#EXTINF:-1,A Chamada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153197.mp4
+#EXTINF:-1,Camp Courage - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153198.mp4
+#EXTINF:-1,Era uma Vez um Estudio - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153199.mp4
+#EXTINF:-1,Jogando a Linha - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153200.mp4
+#EXTINF:-1,Moranguinho e o Monstro do Pantano - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153201.mp4
+#EXTINF:-1,Golda -2023
+http://game.shiuk.re:80/movie/675576/444417/1153202.mp4
+#EXTINF:-1,O Lado Bom de Ser Traida - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153203.mp4
+#EXTINF:-1,Os Peludos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153204.mp4
+#EXTINF:-1,Monster High 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153205.mp4
+#EXTINF:-1,Tiozoes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153206.mp4
+#EXTINF:-1,Snag - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153207.mp4
+#EXTINF:-1,Sayen A Rota Seca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153208.mp4
+#EXTINF:-1,Resgate em 12 Horas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153209.mp4
+#EXTINF:-1,Massa Cinzenta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153210.mp4
+#EXTINF:-1,Kandasamys O Bebe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153211.mp4
+#EXTINF:-1,Disco Inferno - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153212.mp4
+#EXTINF:-1,Crypto Boy - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153213.mp4
+#EXTINF:-1,Cercados - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153214.mp4
+#EXTINF:-1,Caminhos Tortos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153215.mp4
+#EXTINF:-1,A Vida Diante de Seus Olhos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153216.mp4
+#EXTINF:-1,A Outra Zoey - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153217.mp4
+#EXTINF:-1,O Protetor: Capítulo Final - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153218.mp4
+#EXTINF:-1,Organ Trail  Sobrevivencia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153219.mp4
+#EXTINF:-1,Um Dia dos Mortos Nada Tradicional - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153220.mp4
+#EXTINF:-1,Terra das Oportunidades - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153221.mp4
+#EXTINF:-1,Mafia da Dor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153222.mp4
+#EXTINF:-1,Irma Morte - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153223.mp4
+#EXTINF:-1,A Menina Que Matou os Pais A Confissao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153224.mp4
+#EXTINF:-1,Duas Vidas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153225.mp4
+#EXTINF:-1,Jogos Mortais X - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153226.mp4
+#EXTINF:-1,Os Adultos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153227.mp4
+#EXTINF:-1,Treinamento Brutal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153228.mp4
+#EXTINF:-1,Presos na Floresta Fuja Se For Capaz - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153229.mp4
+#EXTINF:-1,Porta Amarela O Cineclube dos Anos 90 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153230.mp4
+#EXTINF:-1,ONEFOUR Contra Tudo e Contra Todos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153231.mp4
+#EXTINF:-1,Vida Dupla - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153232.mp4
+#EXTINF:-1,Os Mercenarios 4 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153233.mp4
+#EXTINF:-1,Terror nas Profundezas - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153234.mp4
+#EXTINF:-1,South Park Entrando no Panderverso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153235.mp4
+#EXTINF:-1,Sly - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153236.mp4
+#EXTINF:-1,O Sequestro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153237.mp4
+#EXTINF:-1,NYAD - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153238.mp4
+#EXTINF:-1,Na Ponta dos Dedos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153239.mp4
+#EXTINF:-1,Temporada de Furacoes - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153240.mp4
+#EXTINF:-1,Som da Liberdade - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153241.mp4
+#EXTINF:-1,Nuovo Olimpo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153242.mp4
+#EXTINF:-1,Higuita The Way of the Scorpion - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153243.mp4
+#EXTINF:-1,After Para Sempre - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153244.mp4
+#EXTINF:-1,Paralisia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153245.mp4
+#EXTINF:-1,David contra os Bancos - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153246.mp4
+#EXTINF:-1,As Ladras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153247.mp4
+#EXTINF:-1,Skinamarink  Cancao de Ninar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153248.mp4
+#EXTINF:-1,A Fada do Dente - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153249.mp4
+#EXTINF:-1,Resurrected - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153250.mp4
+#EXTINF:-1,Liga da Justica x RWBY Super Herois e Cacadores  Parte 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153251.mp4
+#EXTINF:-1,Mortal Kombat Legends  Cage  Bom de Briga - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153252.mp4
+#EXTINF:-1,Patrulha Canina Um Filme Superpoderoso - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153253.mp4
+#EXTINF:-1,Explorer Lago de Fogo - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153254.mp4
+#EXTINF:-1,Verdades Dolorosas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153255.mp4
+#EXTINF:-1,S O S  do Divorcio - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153256.mp4
+#EXTINF:-1,O Espaco Infinito - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153257.mp4
+#EXTINF:-1,O Assassino - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153258.mp4
+#EXTINF:-1,Crescendo Juntas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153259.mp4
+#EXTINF:-1,Apaches  Gangues de Paris - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153260.mp4
+#EXTINF:-1,Ruim pra Cachorro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153261.mp4
+#EXTINF:-1,Quiz Lady - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153262.mp4
+#EXTINF:-1,O Pastor e o Guerrilheiro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153263.mp4
+#EXTINF:-1,A Furia de Becky  - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153264.mp4
+#EXTINF:-1,A Familia Noel 3 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153265.mp4
+#EXTINF:-1,TOC TOC TOC  Ecos do Alem - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153266.mp4
+#EXTINF:-1,Casa do Carvalho - O Filme - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153267.mp4
+#EXTINF:-1,Quando Eu Penso no Natal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153268.mp4
+#EXTINF:-1,Luccas Neto em Uma Aventura no Zoologico - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153269.mp4
+#EXTINF:-1,Mickey e Seus Amigos  Gostosuras ou Travessuras - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153270.mp4
+#EXTINF:-1,Jogos Entre Amigos Eulogia Atrapalhada - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153271.mp4
+#EXTINF:-1,Nosso Sonho - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153272.mp4
+#EXTINF:-1,Um Chamado Natalino - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153273.mp4
+#EXTINF:-1,Tire 5 Cartas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153274.mp4
+#EXTINF:-1,Tem Algo de Errado com as Criancas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153275.mp4
+#EXTINF:-1,Os Reis de Queenstown - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153276.mp4
+#EXTINF:-1,Os Pais - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153277.mp4
+#EXTINF:-1,Novos Ricos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153278.mp4
+#EXTINF:-1,Nos Vemos Em Venus - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153279.mp4
+#EXTINF:-1,Believer 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153280.mp4
+#EXTINF:-1,Polly Pocket Aventura Na Baia Magica - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153281.mp4
+#EXTINF:-1,O Melhor Natal de Todos - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153282.mp4
+#EXTINF:-1,Bihter A Forbidden Passion - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153283.mp4
+#EXTINF:-1,Amor em Aguas Turvas - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153284.mp4
+#EXTINF:-1,Amem Perguntando ao Papa - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153285.mp4
+#EXTINF:-1,Ultima Chamada para Istambul - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153286.mp4
+#EXTINF:-1,Uniao Instavel - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153287.mp4
+#EXTINF:-1,Uma Familia Extraordinaria - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153288.mp4
+#EXTINF:-1,Trip O Elfo Construtor - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153289.mp4
+#EXTINF:-1,Santuario - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153290.mp4
+#EXTINF:-1,Garras Vorazes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153291.mp4
+#EXTINF:-1,Elena Sabe - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153292.mp4
+#EXTINF:-1,Bom Garoto - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153293.mp4
+#EXTINF:-1,A Lista de Beijos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153294.mp4
+#EXTINF:-1,Elis e Tom  So Tinha de Ser com Voce - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153295.mp4
+#EXTINF:-1,O Coelhinho de Veludo - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153296.mp4
+#EXTINF:-1,Ninguem Precisa Acreditar em Mim - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153297.mp4
+#EXTINF:-1,Historia de um Crime O Cabeleireiro das Estrelas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153298.mp4
+#EXTINF:-1,Leo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153299.mp4
+#EXTINF:-1,A Noite das Bruxas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153300.mp4
+#EXTINF:-1,Um Dia Cinco Estrelas - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153301.mp4
+#EXTINF:-1,Oppenheimer - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153302.mp4
+#EXTINF:-1,Mercy Golpe de Misericordia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153303.mp4
+#EXTINF:-1,O Coletivo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153304.mp4
+#EXTINF:-1,Deive Leonardo A Resposta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153305.mp4
+#EXTINF:-1,Dias Dificeis - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153306.mp4
+#EXTINF:-1,Uma Fada Veio Me Visitar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153307.mp4
+#EXTINF:-1,Trocados - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153308.mp4
+#EXTINF:-1,Ritmo de Natal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153309.mp4
+#EXTINF:-1,Paisagem com Mao Invisivel - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153310.mp4
+#EXTINF:-1,Os Caras Malvados Um Natal do Mal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153311.mp4
+#EXTINF:-1,Ninguem e de Ninguem - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153312.mp4
+#EXTINF:-1,A Batalha de Natal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153313.mp4
+#EXTINF:-1,Indiana Jones e A Reliquia do Destino - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153314.mp4
+#EXTINF:-1,O Exorcista O Devoto - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153315.mp4
+#EXTINF:-1,Doctor Who A Besta Estelar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153316.mp4
+#EXTINF:-1,Travessuras de Natal - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153317.mp4
+#EXTINF:-1,Sem Ar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153318.mp4
+#EXTINF:-1,Meu Nome e Gal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153319.mp4
+#EXTINF:-1,Marcados A Historia do Racismo nos EUA - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153320.mp4
+#EXTINF:-1,Jornada Para o Inferno - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153321.mp4
+#EXTINF:-1,Eulalia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153322.mp4
+#EXTINF:-1,Ellen DeGeneres Salvando os Gorillas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153323.mp4
+#EXTINF:-1,Coracao de Campeao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153324.mp4
+#EXTINF:-1,Urkel Salva o Papai Noel O Filme - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153325.mp4
+#EXTINF:-1,Um Amor de Natal - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153326.mp4
+#EXTINF:-1,Silver e o Livro dos Sonhos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153327.mp4
+#EXTINF:-1,Perdida no Deserto - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153328.mp4
+#EXTINF:-1,O Primeiro Natal do Mundo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153329.mp4
+#EXTINF:-1,O Natal do Pequeno Batman - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153330.mp4
+#EXTINF:-1,O Mundo Depois de Nos - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153331.mp4
+#EXTINF:-1,No Seu Natal ou no Meu 2 - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153332.mp4
+#EXTINF:-1,Navio de Sangue - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153333.mp4
+#EXTINF:-1,Missao Condor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153334.mp4
+#EXTINF:-1,Diario de uma onca - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153335.mp4
+#EXTINF:-1,Diario de um Banana no Natal Casa dos Horrores - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153336.mp4
+#EXTINF:-1,BlackBerry - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153337.mp4
+#EXTINF:-1,A Informante - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153338.mp4
+#EXTINF:-1,Tracao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153339.mp4
+#EXTINF:-1,Olhar Alheio - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153340.mp4
+#EXTINF:-1,Mavka Aventura na Floresta - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153341.mp4
+#EXTINF:-1,Trolls 3  Juntos Novamente - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153342.mp4
+#EXTINF:-1,TPM Meu amor - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153343.mp4
+#EXTINF:-1,O Natal de Costume - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153344.mp4
+#EXTINF:-1,Ha Algo no Celeiro - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153345.mp4
+#EXTINF:-1,Rodeio Rock - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153346.mp4
+#EXTINF:-1,Perola - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153347.mp4
+#EXTINF:-1,O Livro dos Sonhos - 2023  
+http://game.shiuk.re:80/movie/675576/444417/1153348.mp4
+#EXTINF:-1,Minha Familia Quer que Eu Case - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153349.mp4
+#EXTINF:-1,George Foreman Sua Historia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153350.mp4
+#EXTINF:-1,Baby Ruby - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153351.mp4
+#EXTINF:-1,Assassinos da Lua das Flores - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153352.mp4
+#EXTINF:-1,Nao Enche - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153353.mp4
+#EXTINF:-1,Tempos de Barbarie  Ato 1 Terapia de Vinganca - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153354.mp4
+#EXTINF:-1,Doce Amor de Inverno - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153355.mp4
+#EXTINF:-1,A Rainha da Noite - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153356.mp4
+#EXTINF:-1,Casamento as Cegas Brasil Depois do Altar - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153357.mp4
+#EXTINF:-1,Maestro - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153358.mp4
+#EXTINF:-1,South Park Nao Recomendado Para Menores - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153359.mp4
+#EXTINF:-1,Rebel Moon  Parte 1 A Menina do Fogo - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153360.mp4
+#EXTINF:-1,A Missao - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153361.mp4
+#EXTINF:-1,Jester A Morte Sorri - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153362.mp4
+#EXTINF:-1,Nao Abra - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153363.mp4
+#EXTINF:-1,Jogos Vorazes A Cantiga dos Passaros e das Serpentes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153364.mp4
+#EXTINF:-1,Cara a Cara com o ETA - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153365.mp4
+#EXTINF:-1,A Ressurreicao de Charles Manson - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153366.mp4
+#EXTINF:-1,Mussum O Filmis - 2023        
+http://game.shiuk.re:80/movie/675576/444417/1153367.mp4
+#EXTINF:-1,Finestkind - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153368.mp4
+#EXTINF:-1,Um Natal para Chueco - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153369.mp4
+#EXTINF:-1,Plano em Familia - 2023      
+http://game.shiuk.re:80/movie/675576/444417/1153370.mp4
+#EXTINF:-1,Nefarious - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153371.mp4
+#EXTINF:-1,Hypnotic Ameaca Invisivel - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153372.mp4
+#EXTINF:-1,Casamento Grego 3 - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153373.mp4
+#EXTINF:-1,A Fuga das Galinhas A Ameaca dos Nuggets - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153374.mp4
+#EXTINF:-1,Five Nights at Freddys  O Pesadelo Sem Fim - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153375.mp4
+#EXTINF:-1,Jornada Para Belem - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153376.mp4
+#EXTINF:-1,Vivo ou Morto - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153377.mp4
+#EXTINF:-1,Sol Lunar - 2023 
+http://game.shiuk.re:80/movie/675576/444417/1153378.mp4
+#EXTINF:-1,Desencaixados - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153379.mp4
+#EXTINF:-1,Agradecimento e Desculpas - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153380.mp4
+#EXTINF:-1,Afonso Padilha  Geracoes - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153381.mp4
+#EXTINF:-1,Paul Mccartney Live  The Got Back Tour - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153382.mp4
+#EXTINF:-1,O Clube dos Milagres - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153383.mp4
+#EXTINF:-1,A Megera Domada 2 - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153384.mp4
+#EXTINF:-1,Todo Dia e 4 de Novembro O Fluminense Conquista a America - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153385.mp4
+#EXTINF:-1,Resistencia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153386.mp4
+#EXTINF:-1,Feriado Sangrento - 2023    
+http://game.shiuk.re:80/movie/675576/444417/1153387.mp4
+#EXTINF:-1,Saltburn - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153388.mp4
+#EXTINF:-1,Tia Virginia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153389.mp4
+#EXTINF:-1,Tequila Re Pasado - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153390.mp4
+#EXTINF:-1,The Kill Room - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153391.mp4
+#EXTINF:-1,O Inicio Do Mundo De Greg Um Filme Original - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153392.mp4
+#EXTINF:-1,Aporia - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153393.mp4
+#EXTINF:-1,A Sociedade da Neve - 2023
+http://game.shiuk.re:80/movie/675576/444417/1153394.mp4
+#EXTINF:-1,R I P D  2  Rise of the Damned - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153395.mp4
+#EXTINF:-1,Forca Bruta - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153396.mp4
+#EXTINF:-1,E Noite na America - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153397.mp4
+#EXTINF:-1,Play Dead Nos Bastidores Da Morte - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153398.mp4
+#EXTINF:-1,Fieis - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153399.mp4
+#EXTINF:-1,Andanca Os Encontros e as Memorias de Beth Carvalho - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153400.mp4
+#EXTINF:-1,Gods Country - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153401.mp4
+#EXTINF:-1,Brasileirissima  A historia da telenovela - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153402.mp4
+#EXTINF:-1,Noite de Sustos - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153403.mp4
+#EXTINF:-1,O Acidente - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153404.mp4
+#EXTINF:-1,Rastos de Sangue - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153405.mp4
+#EXTINF:-1,The Hanging Sun - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153406.mp4
+#EXTINF:-1,Buzine por Jesus Salve a Sua Alma - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153407.mp4
+#EXTINF:-1,Sick - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153408.mp4
+#EXTINF:-1,Dracula Ele Ainda Esta Vivo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153409.mp4
+#EXTINF:-1,Quatro Amigas Numa Fria - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153410.mp4
+#EXTINF:-1,O Grande Mauricinho - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153411.mp4
+#EXTINF:-1,O Rei Piu Piu - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153412.mp4
+#EXTINF:-1,Serial Kelly - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153413.mp4
+#EXTINF:-1,Dias de Desejo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153414.mp4
+#EXTINF:-1,One Piece Film Red - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153415.mp4
+#EXTINF:-1,Jogo Perigoso Vitimas da Heranca - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153416.mp4
+#EXTINF:-1,Gigi e Nate - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153417.mp4
+#EXTINF:-1,Oferenda ao Demonio - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153418.mp4
+#EXTINF:-1,Avatar  O Caminho da Agua - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153419.mp4
+#EXTINF:-1,TAR - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153420.mp4
+#EXTINF:-1,O Amor Da Voltas - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153421.mp4
+#EXTINF:-1,A Historia de Whitney Houston - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153422.mp4
+#EXTINF:-1,Amor Em Tempos De Polarizacao - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153423.mp4
+#EXTINF:-1,Code Name Banshee - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153424.mp4
+#EXTINF:-1,Crime Imperfeito - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153425.mp4
+#EXTINF:-1,Minha Familia Perfeita - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153426.mp4
+#EXTINF:-1,Um Filho - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153427.mp4
+#EXTINF:-1,Breaking - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153428.mp4
+#EXTINF:-1,Till  A Busca por Justica - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153429.mp4
+#EXTINF:-1,A Baleia - 2022  
+http://game.shiuk.re:80/movie/675576/444417/1153430.mp4
+#EXTINF:-1,O Visitante - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153431.mp4
+#EXTINF:-1,Na Redea Curta - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153432.mp4
+#EXTINF:-1,Decisao de Partir - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153433.mp4
+#EXTINF:-1,Olhos Famintos 4 Renascimento - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153434.mp4
+#EXTINF:-1,De Repente 70 - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153435.mp4
+#EXTINF:-1,Os Ninjas da Rua de Baixo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153436.mp4
+#EXTINF:-1,A Arca das Girafas - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153437.mp4
+#EXTINF:-1,A Misteriosa Tumba de Tutancamon - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153438.mp4
+#EXTINF:-1,Caso Perigoso - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153439.mp4
+#EXTINF:-1,Aterrorizante 2 - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153440.mp4
+#EXTINF:-1,Intencoes Crueis - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153441.mp4
+#EXTINF:-1,Querida Alice - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153442.mp4
+#EXTINF:-1,Tempestade - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153443.mp4
+#EXTINF:-1,Collide - 2022 
+http://game.shiuk.re:80/movie/675576/444417/1153444.mp4
+#EXTINF:-1, O Assassino Perfeito - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153445.mp4
+#EXTINF:-1, O Metodo de Stutz - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153446.mp4
+#EXTINF:-1,100 Medos - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153447.mp4
+#EXTINF:-1,13 O Musical - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153448.mp4
+#EXTINF:-1,137 Disparos - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153449.mp4
+#EXTINF:-1,14 Cartas De Amor - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153450.mp4
+#EXTINF:-1,30 Noites com a Minha Ex - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153451.mp4
+#EXTINF:-1,365 Dias Finais - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153452.mp4
+#EXTINF:-1,365 Dias Hoje - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153453.mp4
+#EXTINF:-1,45 do Segundo Tempo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153454.mp4
+#EXTINF:-1,9 Dias Acordado - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153455.mp4
+#EXTINF:-1,90 Minutos - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153456.mp4
+#EXTINF:-1,A Avo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153457.mp4
+#EXTINF:-1,A Baba - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153458.mp4
+#EXTINF:-1,A Babá: O Chamado das Sombras - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153459.mp4
+#EXTINF:-1,A Bolha - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153460.mp4
+#EXTINF:-1,A Camisa Mais Pesada do Mundo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153461.mp4
+#EXTINF:-1,A Casa da Morte - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153462.mp4
+#EXTINF:-1,A Cozinheira Curiosa Receita Assassina - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153463.mp4
+#EXTINF:-1,A Dupla Explosiva - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153464.mp4
+#EXTINF:-1,A Era do Gelo: As Aventuras de Buck - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153465.mp4
+#EXTINF:-1,A Escola Do Bem E Do Mal - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153466.mp4
+#EXTINF:-1,A Espera de Liz - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153467.mp4
+#EXTINF:-1,A Extraordinaria Garota Chamada Estrela em Hollywood - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153468.mp4
+#EXTINF:-1,A Face Oculta do Feminismo - 2022
+http://game.shiuk.re:80/movie/675576/444417/1153469.mp4
+#EXTINF:-1,A Fera - 2022
