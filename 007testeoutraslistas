@@ -1,7 +1,7 @@
 #EXTM3U
-
+#EXTSIZE: big
 #EXTINF:-1 type="video" tvg-logo="https://bit.ly/35iynte" group-title="FILMES | ACÃO", Rambo : Ate o Fim
-
+#EXTSIZE: big
 
 #EXTINF:-1 tvg-ID="HBOAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO
 https://liveanevia.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
@@ -30,10 +30,13 @@ http://195.128.248.216:8080/series/15junior/as1266375/328266.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Kübra (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59oihlCm7YaoPxm5rhCuGuqVRdz.jpg" type="playlist" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E05
+#EXTSIZE: big
 http://195.128.248.216:8080/series/15junior/as1266375/328260.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kübra (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK8k9GD2GKMAxF80EXDxQsOYhb2.jpg" type="playlist" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E06
+#EXTSIZE: big
 http://195.128.248.216:8080/series/15junior/as1266375/328261.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kübra (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSdqxJre3TsyPCeSRSX2WOMnxP.jpg" type="playlist" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E07
+#EXTSIZE: big
 http://195.128.248.216:8080/series/15junior/as1266375/328262.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kübra (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EfpiJC5rcawkf8RfQJl8DUOpC0.jpg" type="playlist" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E08
 http://195.128.248.216:8080/series/15junior/as1266375/328263.mp4
