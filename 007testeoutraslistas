@@ -3,21 +3,21 @@
 
 
 
-#EXTINF:-1 type="playlist",Batalha das Solteiras (2024) S01 E01
+#EXTINF:-1 type="video",Batalha das Solteiras (2024) S01 E01
 http://195.128.248.216:8080/series/15junior/as1266375/328264.mp4
-#EXTINF:-1 type="playlist",Batalha das Solteiras (2024) S01 E02
+#EXTINF:-1 type="videot",Batalha das Solteiras (2024) S01 E02
 http://195.128.248.216:8080/series/15junior/as1266375/328265.mp4
 #EXTINF:-1,Batalha das Solteiras (2024) S01 E03
 http://195.128.248.216:8080/series/15junior/as1266375/328266.mp4
 
 
-#EXTINF:-1 type="playlist" tvg-id="" tvg-name="Kübra (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59oihlCm7YaoPxm5rhCuGuqVRdz.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E05
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Kübra (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59oihlCm7YaoPxm5rhCuGuqVRdz.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E05
 http://195.128.248.216:8080/series/15junior/as1266375/328260.mp4
-#EXTINF:-1 type="playlist" tvg-id="" tvg-name="Kübra (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK8k9GD2GKMAxF80EXDxQsOYhb2.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E06
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Kübra (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK8k9GD2GKMAxF80EXDxQsOYhb2.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E06
 http://195.128.248.216:8080/series/15junior/as1266375/328261.mp4
-#EXTINF:-1 type="playlist" tvg-id="" tvg-name="Kübra (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSdqxJre3TsyPCeSRSX2WOMnxP.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E07
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Kübra (2024) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSdqxJre3TsyPCeSRSX2WOMnxP.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E07
 http://195.128.248.216:8080/series/15junior/as1266375/328262.mp4
-#EXTINF:-1 type="playlist" tvg-id="" tvg-name="Kübra (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EfpiJC5rcawkf8RfQJl8DUOpC0.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E08
+#EXTINF:-1 type="video" tvg-id="" tvg-name="Kübra (2024) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EfpiJC5rcawkf8RfQJl8DUOpC0.jpg" group-title="SERIES | LANÇAMENTOS",Kübra (2024) S01 E08
 http://195.128.248.216:8080/series/15junior/as1266375/328263.mp4
 
 #EXTINF:-1 type="playlist" tvg-id="" tvg-name="Avatar: O Último Mestre do Ar (2024) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg" group-title="SERIES | LANÇAMENTOS",Avatar: O Último Mestre do Ar (2024) S01 E05
