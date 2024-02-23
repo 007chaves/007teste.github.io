@@ -2,6 +2,12 @@
 
 #EXTINF:-1 type="video" tvg-logo="https://bit.ly/35iynte" group-title="FILMES | ACÃO", Rambo : Ate o Fim
 
+
+#EXTINF:-1 tvg-ID="HBOAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO
+https://liveanevia.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" type="playlist" group-title="DISNEYPLUS", Hawkeye S01E01
 #EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" type="playlist" group-title="DISNEYPLUS", Hawkeye S01E02
 #EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" type="playlist" group-title="DISNEYPLUS", Hawkeye S01E03
