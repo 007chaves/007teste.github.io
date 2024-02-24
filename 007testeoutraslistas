@@ -1,23 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3WuQMlDpkpYhDtO0lkVTeJ5DrRC.jpg" group-title="STAR+",1 Contra Todos S01 E02
-#EXTBG #FF0000
-http://blacktv.syscdn.xyz:80/series/53288469/953785775/948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXXws9c0rsqugdjNpY2kOrpIHr.jpg" group-title="STAR+",1 Contra Todos S01 E03
-#EXTBG #FF0000
-http://blacktv.syscdn.xyz:80/series/53288469/953785775/949.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ymS6J5ElifSJU28LqoVqtWfX7.jpg" group-title="STAR+",1 Contra Todos S01 E04
-#EXTBG #FF0000
-http://blacktv.syscdn.xyz:80/series/53288469/953785775/950.mp4
+#EXTINF:-1 type="video "tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="FILMES | LANÇAMENTOS 2023",Missão: Impossível - Acerto de Contas Parte 1 (2023)
+http://195.128.248.216:8080/movie/15junior/as1266375/322682.mp4
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sfcZFcB0KQtNdtF84j4F7S4iZ9M.jpg" type="playlist" group-title="STAR+",1 Contra Todos S01 E05
-#EXTBG #FF0000
-http://blacktv.syscdn.xyz:80/series/53288469/953785775/951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kuO6B9PZbwZ9Jlztcsspv7ZZsw7.jpg" type="playlist" group-title="STAR+",1 Contra Todos S01 E06
-#EXTBG #FF0000
-http://blacktv.syscdn.xyz:80/series/53288469/953785775/952.mp4
+#EXTINF:-1 "tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="FILMES | LANÇAMENTOS 2023",Missão: Impossível - Acerto de Contas Parte 1 (2023)
+http://195.128.248.216:8080/movie/15junior/as1266375/322682.mp4
