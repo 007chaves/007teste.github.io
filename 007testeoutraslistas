@@ -16,3 +16,5 @@ http://195.128.248.216:8080/15junior/as1266375/18569
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD¹" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD¹
 http://195.128.248.216:8080/15junior/as1266375/18576
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
+http://195.128.248.216:8080/15junior/as1266375/114060
