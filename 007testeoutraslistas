@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+[list=]
 #EXTINF:-1 tvg-id="" tvg-name="José do Egito (2013) S01 E01" tvg-logo="http://7online.xyz:8080/images/c7d0fcf11dcc15ddf2735f351ad4ade8.jpg" group-title="SERIES | NOVELAS",José do Egito (2013) S01 E01
 http://195.128.248.216:8080/series/15junior/as1266375/281671.mp4
 #EXTINF:-1 tvg-id="" tvg-name="José do Egito (2013) S01 E02" tvg-logo="http://7online.xyz:8080/images/c7d0fcf11dcc15ddf2735f351ad4ade8.jpg" group-title="SERIES | NOVELAS",José do Egito (2013) S01 E02
@@ -77,6 +78,8 @@ http://195.128.248.216:8080/series/15junior/as1266375/281706.mp4
 http://195.128.248.216:8080/series/15junior/as1266375/281707.mp4
 #EXTINF:-1 tvg-id="" tvg-name="José do Egito (2013) S01 E38" tvg-logo="http://7online.xyz:8080/images/c7d0fcf11dcc15ddf2735f351ad4ade8.jpg" group-title="SERIES | NOVELAS",José do Egito (2013) S01 E38
 http://195.128.248.216:8080/series/15junior/as1266375/281708.mp4
+[/list]
+
 #EXTINF:-1 tvg-id="" tvg-name="Elize Matsunaga - Era uma Vez um Crime (2021) S01 E01" tvg-logo="http://7online.xyz:8080/images/df39d4ee8ba4ce0e1365510f19dcf4cf.jpg" group-title="SERIES | NETFLIX",Elize Matsunaga - Era uma Vez um Crime (2021) S01 E01
 http://195.128.248.216:8080/series/15junior/as1266375/259348.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Elize Matsunaga - Era uma Vez um Crime (2021) S01 E02" tvg-logo="http://7online.xyz:8080/images/a0bc62cc7239c738d7bbfa7af30d1051.jpg" group-title="SERIES | NETFLIX",Elize Matsunaga - Era uma Vez um Crime (2021) S01 E02
