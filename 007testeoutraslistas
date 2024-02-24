@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
 http://195.128.248.216:8080/15junior/as1266375/64620.m3u8
 
