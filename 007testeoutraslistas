@@ -23,3 +23,21 @@ http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
 #EXTINF:-1 tvg-id="TV CULTURA HD¹" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
 http://195.128.248.216:8080/live/15junior/as1266375/20950.m3u8
 
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
+http://7go.xyz:8080/live/15junior/as1266375/18556.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
+http://195.128.248.216:8080/live/15junior/as1266375/109040.m3u8
+
+#EXTINF:0 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
+http://195.128.248.216:8080/live/15junior/as1266375/28776
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
+http://7go.xyz:8080/live/15junior/as1266375/22606.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
+http://195.128.248.216:8080/live/15junior/as1266375/64619.m3u8
+
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
+http://7go.xyz:8080/live/15junior/as1266375/125416.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
+http://195.128.248.216:8080/live/15junior/as1266375/22463.m3u8
+
