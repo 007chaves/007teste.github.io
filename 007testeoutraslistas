@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375&type=m3u_plus"
+#EXTM3U  tvg=url="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375&type=m3u_plus"
 
 
 
