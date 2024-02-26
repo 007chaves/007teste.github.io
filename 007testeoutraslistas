@@ -1,15 +1,9 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0 m3uautoload=1
-
-
-#EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
-https://google.com
-#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
-http://google.com
-#EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
-http://google.com
-
-
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://jp.vthanhnetwork.com/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
-http://jp.vthanhnetwork.com/NHK_E/index.m3u8
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Signature.png" group-title="",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Hits.png" group-title="",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
