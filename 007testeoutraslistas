@@ -1,39 +1,15 @@
-#EXTM3U url-tvg="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375"
-#EXTINF:-1 tvg-id="" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://7go.xyz:8080/live/15junior/as1266375/22627.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://195.128.248.216:8080/live/15junior/as1266375/18877.m3u8
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="FUTURA HD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://7go.xyz:8080/live/15junior/as1266375/114061.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://195.128.248.216:8080/live/15junior/as1266375/114060.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://7go.xyz:8080/live/15junior/as1266375/30256.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://195.128.248.216:8080/live/15junior/as1266375/64623.m3u8
+#EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
+https://google.com
+#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
+http://google.com
+#EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
+http://google.com
 
-#EXTINF:-1 tvg-id="TV CULTURA HD¹" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
-#EXTINF:-1 tvg-id="TV CULTURA HD¹" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://195.128.248.216:8080/live/15junior/as1266375/20950.m3u8
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
-http://7go.xyz:8080/live/15junior/as1266375/18556.m3u8
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
-http://195.128.248.216:8080/live/15junior/as1266375/109040.m3u8
-
-#EXTINF:0 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
-http://195.128.248.216:8080/live/15junior/as1266375/28776
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
-http://7go.xyz:8080/live/15junior/as1266375/22606.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
-http://195.128.248.216:8080/live/15junior/as1266375/64619.m3u8
-
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
-http://7go.xyz:8080/live/15junior/as1266375/125416.m3u8
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
-http://195.128.248.216:8080/live/15junior/as1266375/22463.m3u8
-
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+http://jp.vthanhnetwork.com/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+http://jp.vthanhnetwork.com/NHK_E/index.m3u8
