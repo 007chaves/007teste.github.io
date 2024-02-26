@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://7go.xyz:8080/xmltv"
+#EXTM3U url-tvg="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375"
 #EXTINF:-1 tvg-id="" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 http://7go.xyz:8080/live/15junior/as1266375/22627.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
@@ -6,7 +6,7 @@ http://195.128.248.216:8080/live/15junior/as1266375/18877.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA HD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
 http://7go.xyz:8080/live/15junior/as1266375/114061.m3u8
-#EXTINF:-1 tvg-id="FUTURA HD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
+#EXTINF:-1 tvg-id="futura.br" tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
 http://195.128.248.216:8080/live/15junior/as1266375/114060.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
