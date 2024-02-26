@@ -1,8 +1,6 @@
 #EXTM3U  tvg-url="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375&type=m3u_plus", url-tvg="http://7go.xyz:8080/xmltv.php?username=15junior&password=as1266375&type=m3u_plus"
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 http://7go.xyz:8080/live/15junior/as1266375/22627.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
