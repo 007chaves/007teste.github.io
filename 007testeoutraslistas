@@ -18,8 +18,8 @@ http://7go.xyz:8080/live/15junior/as1266375/30256.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
 http://195.128.248.216:8080/live/15junior/as1266375/64623.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
+#EXTINF:-1 tvg-id="TV CULTURA HD¹" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
 http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
+#EXTINF:-1 tvg-id="TV CULTURA HD¹" tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
 http://195.128.248.216:8080/live/15junior/as1266375/20950.m3u8
 
